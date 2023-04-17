@@ -1,0 +1,1601 @@
+ano,codigo_orgao,orgao_orcamentario,co_funcao,funcao,projeto_de_lei,dotacao_inicial,dotacao_atual,empenhado,liquidado,pago
+2018,01000,Camara dos Deputados,01,Legislativa,4.3,4.3,4.14,3.81,3.72,3.71
+2018,01000,Camara dos Deputados,09,Previdência Social,1.8,1.8,1.78,1.74,1.74,1.74
+2018,01000,Camara dos Deputados,28,Encargos Especiais,0,0,0,0,0,0
+2018,01000,Camara dos Deputados,99,Reserva de Contingência,0.03,0.03,0,0,0,0
+2018,02000,Senado Federal,01,Legislativa,2.37,2.37,2.37,2.23,2.2,2.19
+2018,02000,Senado Federal,09,Previdência Social,1.99,1.99,1.99,1.92,1.92,1.92
+2018,02000,Senado Federal,28,Encargos Especiais,0,0,0,0,0,0
+2018,02000,Senado Federal,99,Reserva de Contingência,0.01,0.01,0.01,0,0,0
+2018,03000,Tribunal de Contas da União,01,Legislativa,1.51,1.51,1.44,1.31,1.28,1.28
+2018,03000,Tribunal de Contas da União,09,Previdência Social,0.66,0.66,0.73,0.72,0.72,0.72
+2018,03000,Tribunal de Contas da União,28,Encargos Especiais,0,0,0,0,0,0
+2018,03000,Tribunal de Contas da União,99,Reserva de Contingência,0,0,0,0,0,0
+2018,10000,Supremo Tribunal Federal,02,Judiciária,0.56,0.56,0.56,0.52,0.48,0.48
+2018,10000,Supremo Tribunal Federal,09,Previdência Social,0.14,0.14,0.15,0.15,0.15,0.15
+2018,10000,Supremo Tribunal Federal,28,Encargos Especiais,0,0,0,0,0,0
+2018,10000,Supremo Tribunal Federal,99,Reserva de Contingência,0,0,0,0,0,0
+2018,11000,Superior Tribunal de Justiça,02,Judiciária,1.21,1.21,1.16,1.1,1.05,1.05
+2018,11000,Superior Tribunal de Justiça,09,Previdência Social,0.33,0.33,0.37,0.37,0.37,0.37
+2018,11000,Superior Tribunal de Justiça,28,Encargos Especiais,0,0,0,0,0,0
+2018,11000,Superior Tribunal de Justiça,99,Reserva de Contingência,0,0,0,0,0,0
+2018,12000,Justiça Federal,02,Judiciária,9.97,9.97,10.43,9.94,9.78,9.77
+2018,12000,Justiça Federal,09,Previdência Social,1.3,1.3,1.54,1.53,1.53,1.53
+2018,12000,Justiça Federal,28,Encargos Especiais,0,0,0,0,0,0
+2018,12000,Justiça Federal,99,Reserva de Contingência,0.7,0.7,0,0,0,0
+2018,13000,Justiça Militar da União,02,Judiciária,0.35,0.35,0.34,0.32,0.3,0.3
+2018,13000,Justiça Militar da União,09,Previdência Social,0.2,0.2,0.21,0.21,0.21,0.21
+2018,13000,Justiça Militar da União,99,Reserva de Contingência,0,0,0,0,0,0
+2018,14000,Justiça Eleitoral,02,Judiciária,6.9,7.15,7.04,6.34,6.1,6.09
+2018,14000,Justiça Eleitoral,09,Previdência Social,0.89,0.89,1,0.99,0.99,0.99
+2018,14000,Justiça Eleitoral,28,Encargos Especiais,0.89,0.89,0.89,0.89,0.86,0.86
+2018,15000,Justiça do Trabalho,02,Judiciária,16.23,16.23,15.99,15.22,14.98,14.98
+2018,15000,Justiça do Trabalho,09,Previdência Social,4.4,4.4,4.87,4.87,4.87,4.87
+2018,15000,Justiça do Trabalho,28,Encargos Especiais,0,0,0,0,0,0
+2018,15000,Justiça do Trabalho,99,Reserva de Contingência,0.27,0.27,0.04,0,0,0
+2018,16000,Justiça do Distrito Federal e dos Territórios,02,Judiciária,2.37,2.37,2.32,2.26,2.23,2.22
+2018,16000,Justiça do Distrito Federal e dos Territórios,09,Previdência Social,0.44,0.44,0.49,0.49,0.49,0.49
+2018,16000,Justiça do Distrito Federal e dos Territórios,99,Reserva de Contingência,0,0,0,0,0,0
+2018,17000,Conselho Nacional de Justiça,02,Judiciária,0.22,0.22,0.22,0.18,0.16,0.16
+2018,17000,Conselho Nacional de Justiça,09,Previdência Social,0,0,0,0,0,0
+2018,17000,Conselho Nacional de Justiça,99,Reserva de Contingência,0,0,0,0,0,0
+2018,20000,Presidência da República,04,Administração,1,0.87,1.03,0.97,0.69,0.67
+2018,20000,Presidência da República,06,Segurança Pública,0.36,0.37,1.63,1.58,0.49,0.46
+2018,20000,Presidência da República,09,Previdência Social,0.95,0.95,0.96,0.95,0.95,0.89
+2018,20000,Presidência da República,14,Direitos da Cidadania,0.05,0.11,0.06,0.05,0.03,0.03
+2018,20000,Presidência da República,21,Organização Agrária,1.91,2.34,2.26,2.18,1.39,1.28
+2018,20000,Presidência da República,24,Comunicações,0.58,0.58,0.64,0.6,0.51,0.48
+2018,20000,Presidência da República,26,Transporte,0.11,0.07,0.07,0.06,0.05,0.05
+2018,20000,Presidência da República,28,Encargos Especiais,0.88,0.88,1.08,1.08,1.08,1.08
+2018,20000,Presidência da República,99,Reserva de Contingência,0.53,0.54,0.52,0,0,0
+2018,22000,Ministério da Agricultura e Pecuária,09,Previdência Social,1.87,1.87,1.96,1.96,1.96,1.8
+2018,22000,Ministério da Agricultura e Pecuária,20,Agricultura,8.89,9.63,10.06,8.8,7.3,6.93
+2018,22000,Ministério da Agricultura e Pecuária,28,Encargos Especiais,0.07,0.07,0.12,0.1,0.1,0.1
+2018,22000,Ministério da Agricultura e Pecuária,99,Reserva de Contingência,0.04,0.04,0.04,0,0,0
+2018,24000,"Ministério da Ciência, Tecnologia e Inovação",09,Previdência Social,1.83,1.83,1.87,1.86,1.86,1.74
+2018,24000,"Ministério da Ciência, Tecnologia e Inovação",19,Ciência e Tecnologia,6.32,6.43,6.27,6.13,5.44,5.25
+2018,24000,"Ministério da Ciência, Tecnologia e Inovação",24,Comunicações,0.65,0.66,0.66,0.63,0.52,0.5
+2018,24000,"Ministério da Ciência, Tecnologia e Inovação",28,Encargos Especiais,0.21,0.22,0.75,0.74,0.74,0.74
+2018,24000,"Ministério da Ciência, Tecnologia e Inovação",99,Reserva de Contingência,3.57,3.58,2.8,0,0,0
+2018,25000,Ministério da Fazenda,04,Administração,15.97,15.93,15.96,15.13,14.11,13.42
+2018,25000,Ministério da Fazenda,09,Previdência Social,11.27,11.27,11.73,11.63,11.62,10.89
+2018,25000,Ministério da Fazenda,28,Encargos Especiais,1.87,1.87,2.79,1.77,1.1,1.1
+2018,25000,Ministério da Fazenda,99,Reserva de Contingência,1.57,1.57,0.38,0,0,0
+2018,26000,Ministério da Educação,09,Previdência Social,14.12,14.12,15.71,15.62,15.61,14.5
+2018,26000,Ministério da Educação,12,Educação,90.33,91.95,95.26,93.5,87.04,83.18
+2018,26000,Ministério da Educação,28,Encargos Especiais,0.5,0.5,0.49,0.48,0.48,0.47
+2018,26000,Ministério da Educação,99,Reserva de Contingência,0.99,0.99,0.13,0,0,0
+2018,28000,"Ministério do Desenvolvimento, Indústria, Comércio e Serviços",09,Previdência Social,0.21,0.21,0.23,0.23,0.23,0.21
+2018,28000,"Ministério do Desenvolvimento, Indústria, Comércio e Serviços",22,Indústria,1.48,1.47,1.45,1.41,1.35,1.31
+2018,28000,"Ministério do Desenvolvimento, Indústria, Comércio e Serviços",23,Comércio e Serviços,0.12,0.12,0.11,0.1,0.07,0.07
+2018,28000,"Ministério do Desenvolvimento, Indústria, Comércio e Serviços",28,Encargos Especiais,0.59,0.59,0.58,0.58,0.58,0.58
+2018,28000,"Ministério do Desenvolvimento, Indústria, Comércio e Serviços",99,Reserva de Contingência,0.45,0.45,0.42,0,0,0
+2018,29000,Defensoria Pública da União,03,Essencial à Justiça,0.58,0.58,0.58,0.58,0.53,0.52
+2018,29000,Defensoria Pública da União,09,Previdência Social,0.02,0.02,0.02,0.02,0.02,0.02
+2018,29000,Defensoria Pública da União,99,Reserva de Contingência,0.01,0.01,0,0,0,0
+2018,30000,Ministério da Justiça e Segurança Pública,03,Essencial à Justiça,0.01,0.01,0,0,0,0
+2018,30000,Ministério da Justiça e Segurança Pública,04,Administração,0.24,0.22,0.23,0.22,0.18,0.17
+2018,30000,Ministério da Justiça e Segurança Pública,06,Segurança Pública,9.14,9.62,9.78,9.44,8.06,7.63
+2018,30000,Ministério da Justiça e Segurança Pública,09,Previdência Social,3.71,3.71,4.06,4.05,4.05,3.78
+2018,30000,Ministério da Justiça e Segurança Pública,13,Cultura,0,0,0,0,0,0
+2018,30000,Ministério da Justiça e Segurança Pública,14,Direitos da Cidadania,1.15,1.22,1.64,1.11,0.69,0.67
+2018,30000,Ministério da Justiça e Segurança Pública,28,Encargos Especiais,0.09,0.09,0.09,0.08,0.08,0.07
+2018,30000,Ministério da Justiça e Segurança Pública,99,Reserva de Contingência,0.95,0.95,0.94,0,0,0
+2018,30211,Conselho Administrativo de Defesa Econômica,09,Previdência Social,0,0,0,0,0,0
+2018,30211,Conselho Administrativo de Defesa Econômica,14,Direitos da Cidadania,0.03,0.05,0.06,0.06,0.04,0.04
+2018,30211,Conselho Administrativo de Defesa Econômica,99,Reserva de Contingência,0.01,0.01,0.01,0,0,0
+2018,32000,Ministério de Minas e Energia,04,Administração,0,0,0,0,0,0
+2018,32000,Ministério de Minas e Energia,09,Previdência Social,0.1,0.1,0.1,0.1,0.1,0.09
+2018,32000,Ministério de Minas e Energia,18,Gestão Ambiental,0.04,0.04,0.02,0.01,0,0
+2018,32000,Ministério de Minas e Energia,22,Indústria,0.52,0.52,0.54,0.54,0.5,0.46
+2018,32000,Ministério de Minas e Energia,25,Energia,0.43,0.42,0.42,0.39,0.35,0.34
+2018,32000,Ministério de Minas e Energia,28,Encargos Especiais,0,0,0.01,0.01,0.01,0.01
+2018,32000,Ministério de Minas e Energia,99,Reserva de Contingência,0.55,0.55,0.55,0,0,0
+2018,32265,"Agência Nacional do Petróleo, Gás Natural e Biocombustíveis",09,Previdência Social,0.01,0.01,0.01,0.01,0.01,0.01
+2018,32265,"Agência Nacional do Petróleo, Gás Natural e Biocombustíveis",25,Energia,0.48,0.47,0.44,0.4,0.35,0.34
+2018,32265,"Agência Nacional do Petróleo, Gás Natural e Biocombustíveis",28,Encargos Especiais,0,0,9.5,9.5,4.82,4.82
+2018,32265,"Agência Nacional do Petróleo, Gás Natural e Biocombustíveis",99,Reserva de Contingência,1.48,1.48,1.48,0,0,0
+2018,32266,Agência Nacional de Energia Elétrica,09,Previdência Social,0,0,0,0,0,0
+2018,32266,Agência Nacional de Energia Elétrica,25,Energia,1.3,1.3,1.23,1.21,1.15,1.14
+2018,32266,Agência Nacional de Energia Elétrica,28,Encargos Especiais,0,0,0,0,0,0
+2018,32266,Agência Nacional de Energia Elétrica,99,Reserva de Contingência,1.17,1.17,0.24,0,0,0
+2018,32396,Agência Nacional de Mineração,09,Previdência Social,0.05,0.05,0.05,0.05,0.05,0.05
+2018,32396,Agência Nacional de Mineração,22,Indústria,0.3,0.3,0.3,0.28,0.26,0.25
+2018,32396,Agência Nacional de Mineração,28,Encargos Especiais,0,0,0,0,0,0
+2018,32396,Agência Nacional de Mineração,99,Reserva de Contingência,0.63,0.63,0.55,0,0,0
+2018,34000,Ministério Público da União,03,Essencial à Justiça,6.04,6.04,6.01,5.85,5.75,5.74
+2018,34000,Ministério Público da União,09,Previdência Social,0.68,0.68,0.72,0.72,0.72,0.72
+2018,34000,Ministério Público da União,28,Encargos Especiais,0,0,0,0,0,0
+2018,34000,Ministério Público da União,99,Reserva de Contingência,0,0,0,0,0,0
+2018,35000,Ministério das Relações Exteriores,07,Relações Exteriores,2.88,2.76,3.29,3.25,3.15,3.12
+2018,35000,Ministério das Relações Exteriores,09,Previdência Social,0.35,0.35,0.39,0.37,0.37,0.35
+2018,35000,Ministério das Relações Exteriores,28,Encargos Especiais,0,0,0,0,0,0
+2018,36000,Ministério da Saúde,09,Previdência Social,8.89,8.89,9.32,9.3,9.3,8.63
+2018,36000,Ministério da Saúde,10,Saúde,113.69,120.53,120.82,119.91,108.65,107.32
+2018,36000,Ministério da Saúde,28,Encargos Especiais,0.17,0.17,0.17,0.16,0.16,0.16
+2018,36000,Ministério da Saúde,99,Reserva de Contingência,6.58,0,0,0,0,0
+2018,36212,Agência Nacional de Vigilância Sanitária,09,Previdência Social,0.11,0.11,0.14,0.14,0.14,0.13
+2018,36212,Agência Nacional de Vigilância Sanitária,10,Saúde,0.75,0.75,0.7,0.66,0.61,0.58
+2018,36212,Agência Nacional de Vigilância Sanitária,28,Encargos Especiais,0,0,0,0,0,0
+2018,36213,Agência Nacional de Saúde Suplementar,09,Previdência Social,0,0,0.01,0.01,0.01,0
+2018,36213,Agência Nacional de Saúde Suplementar,10,Saúde,0.34,0.34,0.33,0.3,0.28,0.27
+2018,36213,Agência Nacional de Saúde Suplementar,28,Encargos Especiais,0,0,0,0,0,0
+2018,36213,Agência Nacional de Saúde Suplementar,99,Reserva de Contingência,0.04,0.04,0.04,0,0,0
+2018,37000,Controladoria-Geral da União,04,Administração,0.87,0.86,0.88,0.86,0.82,0.77
+2018,37000,Controladoria-Geral da União,09,Previdência Social,0.17,0.17,0.2,0.2,0.2,0.19
+2018,39000,Ministério dos Transportes,09,Previdência Social,3.25,3.25,3.2,3.19,3.19,2.97
+2018,39000,Ministério dos Transportes,26,Transporte,9.84,11.8,10.66,10.45,7.12,7.01
+2018,39000,Ministério dos Transportes,28,Encargos Especiais,1.39,1.39,1.36,1.26,1.17,1.17
+2018,39000,Ministério dos Transportes,99,Reserva de Contingência,4.12,4.12,3.09,0,0,0
+2018,39250,Agência Nacional de Transportes Terrestres,09,Previdência Social,0.01,0.01,0.02,0.02,0.02,0.01
+2018,39250,Agência Nacional de Transportes Terrestres,26,Transporte,0.73,0.73,0.64,0.63,0.49,0.46
+2018,39250,Agência Nacional de Transportes Terrestres,28,Encargos Especiais,0,0,0,0,0,0
+2018,39250,Agência Nacional de Transportes Terrestres,99,Reserva de Contingência,0.18,0.18,0.17,0,0,0
+2018,39251,Agência Nacional de Transportes Aquaviários,09,Previdência Social,0.01,0.01,0.01,0.01,0.01,0.01
+2018,39251,Agência Nacional de Transportes Aquaviários,26,Transporte,0.16,0.17,0.16,0.15,0.14,0.13
+2018,39251,Agência Nacional de Transportes Aquaviários,28,Encargos Especiais,0,0,0,0,0,0
+2018,39254,Agência Nacional de Aviação Civil,09,Previdência Social,0.02,0.02,0.02,0.02,0.02,0.02
+2018,39254,Agência Nacional de Aviação Civil,26,Transporte,0.56,0.55,0.55,0.54,0.5,0.47
+2018,39254,Agência Nacional de Aviação Civil,28,Encargos Especiais,0,0,0,0,0,0
+2018,39254,Agência Nacional de Aviação Civil,99,Reserva de Contingência,0.16,0.16,0.16,0,0,0
+2018,40000,Ministério do Trabalho e Emprego,04,Administração,1.73,1.73,1.61,1.57,1.53,1.43
+2018,40000,Ministério do Trabalho e Emprego,09,Previdência Social,1.83,1.83,1.85,1.85,1.84,1.73
+2018,40000,Ministério do Trabalho e Emprego,11,Trabalho,81.28,81.37,74.77,72.39,70.87,70.28
+2018,40000,Ministério do Trabalho e Emprego,28,Encargos Especiais,5.46,5.46,5.63,5.03,5.03,5.03
+2018,40000,Ministério do Trabalho e Emprego,99,Reserva de Contingência,0,0.13,0.13,0,0,0
+2018,42000,Ministério da Cultura,09,Previdência Social,0.18,0.18,0.19,0.19,0.19,0.18
+2018,42000,Ministério da Cultura,13,Cultura,1.66,1.75,1.82,1.75,0.9,0.86
+2018,42000,Ministério da Cultura,28,Encargos Especiais,0.01,0.01,0.01,0.01,0.01,0.01
+2018,42000,Ministério da Cultura,99,Reserva de Contingência,0.45,0.45,0.45,0,0,0
+2018,42206,Agência Nacional do Cinema,09,Previdência Social,0,0,0,0,0,0
+2018,42206,Agência Nacional do Cinema,13,Cultura,0.15,0.14,0.15,0.14,0.13,0.12
+2018,44000,Ministério do Meio Ambiente e Mudança do Clima,09,Previdência Social,0.58,0.58,0.63,0.63,0.63,0.58
+2018,44000,Ministério do Meio Ambiente e Mudança do Clima,18,Gestão Ambiental,2.05,2.05,1.95,1.89,1.7,1.63
+2018,44000,Ministério do Meio Ambiente e Mudança do Clima,28,Encargos Especiais,0.03,0.03,0.03,0.03,0.03,0.02
+2018,44000,Ministério do Meio Ambiente e Mudança do Clima,99,Reserva de Contingência,0.42,0.42,0.39,0,0,0
+2018,44205,Agência Nacional de Águas e Saneamento Básico,09,Previdência Social,0,0,0,0,0,0
+2018,44205,Agência Nacional de Águas e Saneamento Básico,18,Gestão Ambiental,0.41,0.41,0.38,0.37,0.33,0.32
+2018,47000,Ministério do Planejamento e Orçamento,04,Administração,4.16,4.01,4.39,3.58,3.28,3.11
+2018,47000,Ministério do Planejamento e Orçamento,09,Previdência Social,2.09,2.09,2.2,2.13,2.13,1.99
+2018,47000,Ministério do Planejamento e Orçamento,28,Encargos Especiais,0.92,0.93,1.01,0.85,0.74,0.7
+2018,47000,Ministério do Planejamento e Orçamento,99,Reserva de Contingência,0.14,0.14,0.14,0,0,0
+2018,51000,Ministério do Esporte,09,Previdência Social,0,0,0,0,0,0
+2018,51000,Ministério do Esporte,27,Desporto e Lazer,0.74,1.28,1.31,1.25,0.29,0.27
+2018,51000,Ministério do Esporte,28,Encargos Especiais,0.07,0.06,0.07,0,0,0
+2018,52000,Ministério da Defesa,05,Defesa Nacional,71.52,73.29,76.57,76.64,71.33,67.23
+2018,52000,Ministério da Defesa,09,Previdência Social,23.48,23.48,24.04,23.88,23.88,22.09
+2018,52000,Ministério da Defesa,28,Encargos Especiais,2.67,2.67,2.69,2.41,2.41,2.37
+2018,52000,Ministério da Defesa,99,Reserva de Contingência,1.22,1.22,1.22,0,0,0
+2018,53000,Ministério da Integração e do Desenvolvimento Regional,04,Administração,1.21,1.17,1.16,1.08,0.97,0.92
+2018,53000,Ministério da Integração e do Desenvolvimento Regional,06,Segurança Pública,1.42,0.45,1.44,1.43,0.74,0.73
+2018,53000,Ministério da Integração e do Desenvolvimento Regional,09,Previdência Social,0.55,0.55,0.56,0.56,0.56,0.52
+2018,53000,Ministério da Integração e do Desenvolvimento Regional,11,Trabalho,0,0,0,0,0,0
+2018,53000,Ministério da Integração e do Desenvolvimento Regional,15,Urbanismo,0,1.18,1.02,1,0.12,0.08
+2018,53000,Ministério da Integração e do Desenvolvimento Regional,17,Saneamento,0.07,0.06,0.06,0.06,0.01,0.01
+2018,53000,Ministério da Integração e do Desenvolvimento Regional,18,Gestão Ambiental,2.01,2.69,2.15,1.98,1.25,1.12
+2018,53000,Ministério da Integração e do Desenvolvimento Regional,19,Ciência e Tecnologia,0,0.25,0.25,0.25,0,0
+2018,53000,Ministério da Integração e do Desenvolvimento Regional,20,Agricultura,0.15,0.28,0.59,0.58,0.1,0.1
+2018,53000,Ministério da Integração e do Desenvolvimento Regional,22,Indústria,0,0,0,0,0,0
+2018,53000,Ministério da Integração e do Desenvolvimento Regional,26,Transporte,0,0,0,0,0,0
+2018,53000,Ministério da Integração e do Desenvolvimento Regional,28,Encargos Especiais,0.03,0.03,0.06,0.06,0.06,0.06
+2018,53000,Ministério da Integração e do Desenvolvimento Regional,99,Reserva de Contingência,0,0,0,0,0,0
+2018,54000,Ministério do Turismo,09,Previdência Social,0.02,0.02,0.02,0.02,0.02,0.02
+2018,54000,Ministério do Turismo,23,Comércio e Serviços,0.57,1.08,1.22,1.2,0.22,0.21
+2018,54000,Ministério do Turismo,28,Encargos Especiais,0,0,0,0,0,0
+2018,55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",08,Assistência Social,86.43,86.96,88.73,88.67,87.99,85.89
+2018,55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",09,Previdência Social,596.61,596.61,589.08,586.92,585.3,551.36
+2018,55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",28,Encargos Especiais,15.97,15.97,18.64,18.42,18.02,17.99
+2018,56000,Ministério das Cidades,04,Administração,0,0,0,0,0,0
+2018,56000,Ministério das Cidades,09,Previdência Social,0,0,0,0,0,0
+2018,56000,Ministério das Cidades,15,Urbanismo,2.03,4.32,4.45,4.39,1.59,1.52
+2018,56000,Ministério das Cidades,16,Habitação,0.05,0.06,0.02,0.02,0.01,0.01
+2018,56000,Ministério das Cidades,17,Saneamento,0.87,0.91,0.87,0.86,0.55,0.55
+2018,56000,Ministério das Cidades,28,Encargos Especiais,6.27,4.96,5.01,4.89,4.76,4.76
+2018,56000,Ministério das Cidades,99,Reserva de Contingência,0.9,0.9,0.89,0,0,0
+2018,59000,Conselho Nacional do Ministério Público,03,Essencial à Justiça,0.09,0.09,0.09,0.08,0.08,0.08
+2018,59000,Conselho Nacional do Ministério Público,09,Previdência Social,0,0,0,0,0,0
+2018,60000,Gabinete da Vice-Presidência da República,04,Administração,0.01,0,0,0,0,0
+2018,63000,Advocacia-Geral da União,03,Essencial à Justiça,0.92,0.85,0.91,0.9,0.74,0.73
+2018,63000,Advocacia-Geral da União,04,Administração,2.19,2.19,2.36,2.35,2.32,2.15
+2018,63000,Advocacia-Geral da União,09,Previdência Social,0.58,0.58,0.66,0.66,0.66,0.61
+2018,63000,Advocacia-Geral da União,28,Encargos Especiais,0,0,0,0,0,0
+2018,71000,Encargos Financeiros da União,04,Administração,0,0,0,0,0,0
+2018,71000,Encargos Financeiros da União,28,Encargos Especiais,2.37,2.37,2.47,2.32,2.32,2.32
+2018,71000,Encargos Financeiros da União,99,Reserva de Contingência,2.03,2.03,2.03,0,0,0
+2018,71101,Recursos sob Supervisão do Ministério da Fazenda,28,Encargos Especiais,18.12,16.04,21.02,19.01,16.53,16.53
+2018,71102,Recursos sob Supervisão do Ministério do Planejamento e Orçamento,04,Administração,0.28,0.28,0,0,0,0
+2018,71102,Recursos sob Supervisão do Ministério do Planejamento e Orçamento,28,Encargos Especiais,3.81,3.53,2.24,2.04,1.53,1.53
+2018,71102,Recursos sob Supervisão do Ministério do Planejamento e Orçamento,99,Reserva de Contingência,4.16,4.16,0.81,0,0,0
+2018,71103,Encargos Financeiros da União,28,Encargos Especiais,18.08,18.08,20.01,16.92,16.76,16.76
+2018,71104,Remuneração de Agentes Financeiros,28,Encargos Especiais,0.87,0.78,0.75,0.75,0.64,0.64
+2018,71903,Fundo Social,28,Encargos Especiais,6.64,6.64,6.64,0,0,0
+2018,71904,Fundo de Estabilidade do Seguro Rural,04,Administração,0.05,0.05,0.05,0.04,0.04,0.04
+2018,71904,Fundo de Estabilidade do Seguro Rural,99,Reserva de Contingência,0.27,0.27,0.27,0,0,0
+2018,71905,Fundo de Garantia à Exportação,04,Administração,0.08,0.08,2.01,2.01,1.36,1.36
+2018,71905,Fundo de Garantia à Exportação,28,Encargos Especiais,0.05,0.05,0.01,0.01,0.01,0.01
+2018,71905,Fundo de Garantia à Exportação,99,Reserva de Contingência,2.31,2.31,2.31,0,0,0
+2018,71906,Fundo Especial de Financiamento de Campanhas,28,Encargos Especiais,0,1.72,1.72,1.72,1.72,1.72
+2018,73000,"Transferências a Estados, Distrito Federal e Municípios",28,Encargos Especiais,28.04,28.04,38,37.08,35.97,35.97
+2018,73101,Recursos sob Supervisão do Ministério da Fazenda,28,Encargos Especiais,1.56,1.58,1.58,1.57,1.53,1.53
+2018,73107,Recursos sob Supervisão do Ministério da Educação,28,Encargos Especiais,12.95,13.01,13.01,13.01,11.78,11.78
+2018,73108,Transferências Constitucionais,28,Encargos Especiais,194.37,195,199.53,198.64,193.12,193.12
+2018,73113,Recursos sob Supervisão do Ministério da Gestão e Inovação em Serviços Públicos,04,Administração,3.39,3.39,2.76,2.64,2.64,2.45
+2018,73113,Recursos sob Supervisão do Ministério da Gestão e Inovação em Serviços Públicos,09,Previdência Social,2.51,2.51,2.61,2.59,2.59,2.41
+2018,73113,Recursos sob Supervisão do Ministério da Gestão e Inovação em Serviços Públicos,28,Encargos Especiais,0.1,0.1,0.2,0.2,0.09,0.09
+2018,73901,Fundo Constitucional do Distrito Federal,04,Administração,0.69,0.69,0.63,0.63,0.63,0.63
+2018,73901,Fundo Constitucional do Distrito Federal,09,Previdência Social,1.26,1.26,1.38,1.38,1.37,1.37
+2018,73901,Fundo Constitucional do Distrito Federal,28,Encargos Especiais,11.75,11.75,11.68,11.68,11.46,11.44
+2018,74101,Recursos sob Supervisão da Secretaria do Tesouro Nacional,08,Assistência Social,0.01,0.01,0.01,0.01,0,0
+2018,74101,Recursos sob Supervisão da Secretaria do Tesouro Nacional,11,Trabalho,0,0,0.01,0.01,0.01,0.01
+2018,74101,Recursos sob Supervisão da Secretaria do Tesouro Nacional,20,Agricultura,15.24,13.75,10.1,8.37,4.71,4.71
+2018,74101,Recursos sob Supervisão da Secretaria do Tesouro Nacional,22,Indústria,0.01,0.01,0.01,0.01,0,0
+2018,74101,Recursos sob Supervisão da Secretaria do Tesouro Nacional,23,Comércio e Serviços,3.78,3.61,3.03,3.03,2.16,2.16
+2018,74101,Recursos sob Supervisão da Secretaria do Tesouro Nacional,25,Energia,0.03,0.02,0.02,0.02,0.01,0.01
+2018,74101,Recursos sob Supervisão da Secretaria do Tesouro Nacional,28,Encargos Especiais,0.43,0.43,0.64,0.26,0.01,0.01
+2018,74102,Recursos sob Supervisão do Ministério da Fazenda,04,Administração,0.1,0.1,0.1,0.05,0.04,0.04
+2018,74201,Recursos sob Supervisão da Superintendência de Seguros Privados/SUSEP,04,Administração,0,0,0,0,0,0
+2018,74202,Recursos sob Supervisão da Agência Nacional de Saúde Suplementar/ANS,10,Saúde,0.01,0.01,0.01,0,0,0
+2018,74203,Recursos sob Supervisão do Instituto Nacional de Colonização e Reforma Agrária/INCRA-MDA,21,Organização Agrária,0.27,0.27,0.27,0.27,0.02,0.02
+2018,74204,Recursos sob Supervisão da Caixa de Construções de Casas para o Pessoal da Marinha,05,Defesa Nacional,0.23,0.23,0.23,0.23,0.19,0.19
+2018,74205,Recursos sob Supervisão da Caixa de Financiamento Imobiliário da Aeronáutica,05,Defesa Nacional,0,0,0,0,0,0
+2018,74901,Recursos sob Supervisão do Fundo de Defesa da Economia Cafeeira/Funcafé,20,Agricultura,5.46,5.46,5.46,5.08,4.13,4.13
+2018,74902,Recursos sob Supervisão do Fundo de Financiamento ao Estudante do Ensino Superior/FIES,12,Educação,19.4,19.35,19.05,18.69,12.41,12.41
+2018,74904,Recursos sob Supervisão do Fundo da Marinha Mercante/FMM,26,Transporte,3.78,3.78,3.78,3.33,3.33,3.33
+2018,74905,Recursos sob Sup. do Fundo p/ Desenv.Tecnol. das Telecomunic./FUNTTEL-M. Comunicações,24,Comunicações,0.19,0.19,0.19,0.19,0.19,0.19
+2018,74906,Recursos sob Supervisão do Fundo de Terras e da Reforma Agrária/Banco da Terra,21,Organização Agrária,0.3,0.3,0.3,0.26,0.26,0.26
+2018,74908,Recursos sob Supervisão do Fundo Geral de Turismo/FUNGETUR,23,Comércio e Serviços,0.04,0.04,0.29,0.29,0.21,0.21
+2018,74910,"Recursos sob Sup. do Fundo Nac.de Desenv.Científico e Tecnológico/FNDCT-M.Ciência,Tecnol. e Inov.",19,Ciência e Tecnologia,1.14,1.14,1.14,1.1,1.1,1.1
+2018,74912,Recursos sob Supervisão do Fundo Nacional de Cultura,13,Cultura,0.13,0.13,0.13,0.1,0,0
+2018,74913,Recursos sob Supervisão do Fundo Constitucional de Financiamento do Norte/FNO,28,Encargos Especiais,2.42,2.43,2.47,2.47,2.41,2.41
+2018,74914,Recursos sob Supervisão do Fundo Constitucional de Financiamento do Centro-Oeste/FCO,28,Encargos Especiais,2.42,2.43,2.47,2.47,2.41,2.41
+2018,74915,Recursos sob Supervisão do Fundo Constitucional de Financiamento do Nordeste/FNE,28,Encargos Especiais,7.26,7.29,7.42,7.42,7.22,7.22
+2018,74916,Recursos sob Supervisão do Fundo Nacional sobre Mudança do Clima/FNMC,18,Gestão Ambiental,0.2,0.2,0.39,0.39,0.39,0.39
+2018,74917,Recursos sob Supervisão do Fundo de Desenvolvimento da Amazônia/FDA,28,Encargos Especiais,0.42,0.42,0.42,0.35,0,0
+2018,74918,Recursos sob Supervisão do Fundo de Desenvolvimento do Nordeste/FDNE,28,Encargos Especiais,0.44,0.44,0.44,0.17,0,0
+2018,74919,Recursos sob Supervisão do Fundo de Desenvolvimento do Centro-Oeste/FDCO,28,Encargos Especiais,0.06,0.06,0.06,0,0,0
+2018,75000,Dívida Pública Federal,28,Encargos Especiais,1776.31,1776.31,1776.11,1063.83,1063.83,1063.82
+2018,81000,"Ministério da Mulher, da Família e dos Direitos Humanos",09,Previdência Social,0,0,0,0,0,0
+2018,81000,"Ministério da Mulher, da Família e dos Direitos Humanos",14,Direitos da Cidadania,0.24,0.33,0.42,0.41,0.26,0.26
+2018,81000,"Ministério da Mulher, da Família e dos Direitos Humanos",28,Encargos Especiais,0,0,0.01,0.01,0.01,0.01
+2018,81000,"Ministério da Mulher, da Família e dos Direitos Humanos",99,Reserva de Contingência,0.06,0.06,0.06,0,0,0
+2018,90000,Reserva de Contingência,99,Reserva de Contingência,8.15,2.48,0.5,0,0,0
+2019,01000,Camara dos Deputados,01,Legislativa,4.39,4.37,4.34,3.95,3.86,3.86
+2019,01000,Camara dos Deputados,09,Previdência Social,1.91,1.91,1.97,1.93,1.93,1.93
+2019,01000,Camara dos Deputados,28,Encargos Especiais,0,0,0,0,0,0
+2019,01000,Camara dos Deputados,99,Reserva de Contingência,0.01,0.03,0,0,0,0
+2019,02000,Senado Federal,01,Legislativa,2.41,2.41,2.37,2.27,2.2,2.2
+2019,02000,Senado Federal,09,Previdência Social,2.08,2.08,2.13,2.12,2.12,2.12
+2019,02000,Senado Federal,28,Encargos Especiais,0,0,0,0,0,0
+2019,02000,Senado Federal,99,Reserva de Contingência,0.01,0.01,0.01,0,0,0
+2019,03000,Tribunal de Contas da União,01,Legislativa,1.5,1.5,1.4,1.32,1.3,1.3
+2019,03000,Tribunal de Contas da União,09,Previdência Social,0.73,0.73,0.83,0.83,0.82,0.82
+2019,03000,Tribunal de Contas da União,28,Encargos Especiais,0,0,0,0,0,0
+2019,03000,Tribunal de Contas da União,99,Reserva de Contingência,0,0,0,0,0,0
+2019,10000,Supremo Tribunal Federal,02,Judiciária,0.58,0.58,0.59,0.56,0.54,0.54
+2019,10000,Supremo Tribunal Federal,09,Previdência Social,0.16,0.16,0.16,0.16,0.16,0.16
+2019,10000,Supremo Tribunal Federal,28,Encargos Especiais,0,0,0,0,0,0
+2019,10000,Supremo Tribunal Federal,99,Reserva de Contingência,0.04,0.04,0.03,0,0,0
+2019,11000,Superior Tribunal de Justiça,02,Judiciária,1.21,1.21,1.2,1.14,1.08,1.08
+2019,11000,Superior Tribunal de Justiça,09,Previdência Social,0.37,0.37,0.41,0.41,0.41,0.41
+2019,11000,Superior Tribunal de Justiça,28,Encargos Especiais,0,0,0,0,0,0
+2019,11000,Superior Tribunal de Justiça,99,Reserva de Contingência,0.06,0.06,0.03,0,0,0
+2019,12000,Justiça Federal,02,Judiciária,10.05,10.05,10.9,10.62,10.5,10.48
+2019,12000,Justiça Federal,09,Previdência Social,1.49,1.49,1.81,1.8,1.8,1.8
+2019,12000,Justiça Federal,28,Encargos Especiais,0,0,0,0,0,0
+2019,12000,Justiça Federal,99,Reserva de Contingência,1.32,1.32,0.15,0,0,0
+2019,13000,Justiça Militar da União,02,Judiciária,0.35,0.35,0.35,0.34,0.32,0.32
+2019,13000,Justiça Militar da União,09,Previdência Social,0.22,0.22,0.23,0.23,0.23,0.23
+2019,13000,Justiça Militar da União,99,Reserva de Contingência,0.02,0.02,0.01,0,0,0
+2019,14000,Justiça Eleitoral,02,Judiciária,6.33,6.3,6.44,5.9,5.75,5.74
+2019,14000,Justiça Eleitoral,09,Previdência Social,0.97,0.97,1.11,1.1,1.1,1.1
+2019,14000,Justiça Eleitoral,28,Encargos Especiais,0.93,0.93,0.93,0.92,0.9,0.9
+2019,14000,Justiça Eleitoral,99,Reserva de Contingência,0.37,0.4,0.13,0,0,0
+2019,15000,Justiça do Trabalho,02,Judiciária,15.96,15.93,16.45,16.08,15.94,15.86
+2019,15000,Justiça do Trabalho,09,Previdência Social,4.69,4.69,5.54,5.54,5.54,5.54
+2019,15000,Justiça do Trabalho,28,Encargos Especiais,0,0,0,0,0,0
+2019,15000,Justiça do Trabalho,99,Reserva de Contingência,1.56,1.56,0.2,0,0,0
+2019,16000,Justiça do Distrito Federal e dos Territórios,02,Judiciária,2.41,2.41,2.45,2.41,2.38,2.38
+2019,16000,Justiça do Distrito Federal e dos Territórios,09,Previdência Social,0.5,0.5,0.53,0.53,0.53,0.53
+2019,16000,Justiça do Distrito Federal e dos Territórios,99,Reserva de Contingência,0.11,0.11,0.03,0,0,0
+2019,17000,Conselho Nacional de Justiça,02,Judiciária,0.23,0.23,0.23,0.21,0.2,0.19
+2019,17000,Conselho Nacional de Justiça,09,Previdência Social,0,0,0,0,0,0
+2019,17000,Conselho Nacional de Justiça,99,Reserva de Contingência,0,0,0,0,0,0
+2019,20000,Presidência da República,04,Administração,0.94,0.89,0.9,0.83,0.57,0.54
+2019,20000,Presidência da República,06,Segurança Pública,0.35,0.35,0.44,0.43,0.4,0.37
+2019,20000,Presidência da República,09,Previdência Social,0.41,1.02,0.39,0.37,0.37,0.35
+2019,20000,Presidência da República,14,Direitos da Cidadania,0,0,0,0,0,0
+2019,20000,Presidência da República,21,Organização Agrária,0,1.81,0,0,0,0
+2019,20000,Presidência da República,24,Comunicações,0.54,0.54,0.5,0.47,0.43,0.4
+2019,20000,Presidência da República,26,Transporte,0,0.12,0,0,0,0
+2019,20000,Presidência da República,28,Encargos Especiais,0.11,2.15,0.1,0.09,0.09,0.09
+2019,20000,Presidência da República,99,Reserva de Contingência,0.07,0.3,0.07,0,0,0
+2019,22000,Ministério da Agricultura e Pecuária,09,Previdência Social,2.58,1.97,2.71,2.7,2.7,2.52
+2019,22000,Ministério da Agricultura e Pecuária,14,Direitos da Cidadania,0,0,0,0,0,0
+2019,22000,Ministério da Agricultura e Pecuária,18,Gestão Ambiental,0.07,0,0.07,0.06,0.04,0.04
+2019,22000,Ministério da Agricultura e Pecuária,20,Agricultura,9.42,9.74,11.15,9.69,7.53,6.91
+2019,22000,Ministério da Agricultura e Pecuária,21,Organização Agrária,1.41,0,1.43,1.39,1.25,1.19
+2019,22000,Ministério da Agricultura e Pecuária,28,Encargos Especiais,2.29,0.15,2.26,2.25,2.25,2.24
+2019,22000,Ministério da Agricultura e Pecuária,99,Reserva de Contingência,0.22,0.03,0.22,0,0,0
+2019,24000,"Ministério da Ciência, Tecnologia e Inovação",04,Administração,0,0,0,0,0,0
+2019,24000,"Ministério da Ciência, Tecnologia e Inovação",09,Previdência Social,1.89,1.89,1.89,1.87,1.87,1.75
+2019,24000,"Ministério da Ciência, Tecnologia e Inovação",19,Ciência e Tecnologia,4.86,6.1,5.2,5.1,4.54,4.37
+2019,24000,"Ministério da Ciência, Tecnologia e Inovação",24,Comunicações,0.69,0.69,0.65,0.62,0.51,0.49
+2019,24000,"Ministério da Ciência, Tecnologia e Inovação",28,Encargos Especiais,1.4,1.46,1.4,1.05,1.05,1.05
+2019,24000,"Ministério da Ciência, Tecnologia e Inovação",99,Reserva de Contingência,4.77,5.21,4.77,0,0,0
+2019,25000,Ministério da Fazenda,04,Administração,20.64,14.96,21.54,20.63,19.31,18.29
+2019,25000,Ministério da Fazenda,08,Assistência Social,0.01,0,0.01,0.01,0.01,0.01
+2019,25000,Ministério da Fazenda,09,Previdência Social,450.75,11.75,640.37,639.16,638.96,601.94
+2019,25000,Ministério da Fazenda,11,Trabalho,80.29,0,77.95,74.27,72.49,72.48
+2019,25000,Ministério da Fazenda,22,Indústria,1.16,0,1.18,1.12,1.06,1.03
+2019,25000,Ministério da Fazenda,23,Comércio e Serviços,0.1,0,0.12,0.11,0.05,0.05
+2019,25000,Ministério da Fazenda,28,Encargos Especiais,26.31,1.87,29.33,28.84,27.98,27.8
+2019,25000,Ministério da Fazenda,99,Reserva de Contingência,2.3,1.35,2.3,0,0,0
+2019,26000,Ministério da Educação,09,Previdência Social,15.7,15.7,17.15,16.88,16.88,15.7
+2019,26000,Ministério da Educação,12,Educação,100.2,102.95,104.77,100.48,88.55,84.57
+2019,26000,Ministério da Educação,28,Encargos Especiais,0.82,0.82,0.84,0.82,0.82,0.82
+2019,26000,Ministério da Educação,99,Reserva de Contingência,5.25,3.49,1.69,0,0,0
+2019,28000,"Ministério do Desenvolvimento, Indústria, Comércio e Serviços",09,Previdência Social,0,0.23,0,0,0,0
+2019,28000,"Ministério do Desenvolvimento, Indústria, Comércio e Serviços",22,Indústria,0,1.45,0,0,0,0
+2019,28000,"Ministério do Desenvolvimento, Indústria, Comércio e Serviços",23,Comércio e Serviços,0,0.12,0,0,0,0
+2019,28000,"Ministério do Desenvolvimento, Indústria, Comércio e Serviços",28,Encargos Especiais,0,0.95,0,0,0,0
+2019,28000,"Ministério do Desenvolvimento, Indústria, Comércio e Serviços",99,Reserva de Contingência,0,0.7,0,0,0,0
+2019,29000,Defensoria Pública da União,03,Essencial à Justiça,0.57,0.57,0.6,0.57,0.53,0.51
+2019,29000,Defensoria Pública da União,09,Previdência Social,0.02,0.02,0.02,0.02,0.02,0.02
+2019,29000,Defensoria Pública da União,99,Reserva de Contingência,0.04,0.04,0,0,0,0
+2019,30000,Ministério da Justiça e Segurança Pública,03,Essencial à Justiça,0.03,0.01,0,0,0,0
+2019,30000,Ministério da Justiça e Segurança Pública,04,Administração,0.33,0.24,0.26,0.23,0.18,0.17
+2019,30000,Ministério da Justiça e Segurança Pública,06,Segurança Pública,9.53,0.09,10.35,10.1,8.5,8.02
+2019,30000,Ministério da Justiça e Segurança Pública,09,Previdência Social,3.93,0.29,4.38,4.36,4.35,4.08
+2019,30000,Ministério da Justiça e Segurança Pública,11,Trabalho,0,0,0,0,0,0
+2019,30000,Ministério da Justiça e Segurança Pública,13,Cultura,0,0,0,0,0,0
+2019,30000,Ministério da Justiça e Segurança Pública,14,Direitos da Cidadania,1.17,1.34,2.18,1.83,0.63,0.61
+2019,30000,Ministério da Justiça e Segurança Pública,28,Encargos Especiais,0.07,0,0.11,0.11,0.11,0.09
+2019,30000,Ministério da Justiça e Segurança Pública,99,Reserva de Contingência,1.21,0.01,1.21,0,0,0
+2019,30211,Conselho Administrativo de Defesa Econômica,09,Previdência Social,0,0,0,0,0,0
+2019,30211,Conselho Administrativo de Defesa Econômica,14,Direitos da Cidadania,0.06,0.05,0.06,0.05,0.04,0.03
+2019,32000,Ministério de Minas e Energia,09,Previdência Social,0.1,0.1,0.1,0.1,0.1,0.09
+2019,32000,Ministério de Minas e Energia,18,Gestão Ambiental,0.03,0.03,0.02,0.01,0,0
+2019,32000,Ministério de Minas e Energia,19,Ciência e Tecnologia,0.76,0,0.69,0.63,0.61,0.58
+2019,32000,Ministério de Minas e Energia,22,Indústria,0.63,0.63,0.57,0.49,0.46,0.42
+2019,32000,Ministério de Minas e Energia,25,Energia,0.89,0.45,1.09,1.01,0.77,0.76
+2019,32000,Ministério de Minas e Energia,28,Encargos Especiais,3.56,3.51,35.39,34.46,34.46,34.46
+2019,32000,Ministério de Minas e Energia,99,Reserva de Contingência,1.21,0.76,1.21,0,0,0
+2019,32265,"Agência Nacional do Petróleo, Gás Natural e Biocombustíveis",09,Previdência Social,0.01,0.01,0.02,0.02,0.02,0.02
+2019,32265,"Agência Nacional do Petróleo, Gás Natural e Biocombustíveis",25,Energia,0.44,0.44,0.44,0.4,0.35,0.34
+2019,32265,"Agência Nacional do Petróleo, Gás Natural e Biocombustíveis",28,Encargos Especiais,0,0,0,0,0,0
+2019,32265,"Agência Nacional do Petróleo, Gás Natural e Biocombustíveis",99,Reserva de Contingência,1.87,1.87,1.87,0,0,0
+2019,32266,Agência Nacional de Energia Elétrica,09,Previdência Social,0,0,0,0,0,0
+2019,32266,Agência Nacional de Energia Elétrica,25,Energia,1.3,1.32,1.35,1.29,1.24,1.23
+2019,32266,Agência Nacional de Energia Elétrica,28,Encargos Especiais,0.01,0.01,0.01,0.01,0.01,0.01
+2019,32266,Agência Nacional de Energia Elétrica,99,Reserva de Contingência,0.25,0.25,0.25,0,0,0
+2019,32396,Agência Nacional de Mineração,09,Previdência Social,0.06,0.06,0.06,0.06,0.06,0.06
+2019,32396,Agência Nacional de Mineração,22,Indústria,0.3,0.3,0.3,0.29,0.27,0.25
+2019,32396,Agência Nacional de Mineração,28,Encargos Especiais,0,0,0,0,0,0
+2019,32396,Agência Nacional de Mineração,99,Reserva de Contingência,0.26,0.26,0.26,0,0,0
+2019,34000,Ministério Público da União,03,Essencial à Justiça,5.99,5.99,6.34,6.18,6.08,6.07
+2019,34000,Ministério Público da União,09,Previdência Social,0.74,0.74,0.84,0.84,0.84,0.84
+2019,34000,Ministério Público da União,28,Encargos Especiais,0,0,0,0,0,0
+2019,34000,Ministério Público da União,99,Reserva de Contingência,0.32,0.32,0,0,0,0
+2019,35000,Ministério das Relações Exteriores,07,Relações Exteriores,3.34,3.31,3.59,3.34,3.23,3.22
+2019,35000,Ministério das Relações Exteriores,09,Previdência Social,0.38,0.38,0.4,0.4,0.4,0.37
+2019,36000,Ministério da Saúde,09,Previdência Social,9.4,9.4,9.97,9.93,9.93,9.21
+2019,36000,Ministério da Saúde,10,Saúde,113.26,121.58,126.08,125.08,114.91,113.37
+2019,36000,Ministério da Saúde,28,Encargos Especiais,0.32,0.32,0.31,0.29,0.29,0.29
+2019,36000,Ministério da Saúde,99,Reserva de Contingência,5.38,0.04,0.01,0,0,0
+2019,36212,Agência Nacional de Vigilância Sanitária,09,Previdência Social,0.15,0.15,0.16,0.16,0.16,0.14
+2019,36212,Agência Nacional de Vigilância Sanitária,10,Saúde,0.71,0.71,0.65,0.61,0.57,0.55
+2019,36212,Agência Nacional de Vigilância Sanitária,28,Encargos Especiais,0,0,0,0,0,0
+2019,36213,Agência Nacional de Saúde Suplementar,09,Previdência Social,0.01,0.01,0.01,0.01,0.01,0.01
+2019,36213,Agência Nacional de Saúde Suplementar,10,Saúde,0.33,0.33,0.33,0.3,0.28,0.26
+2019,36213,Agência Nacional de Saúde Suplementar,28,Encargos Especiais,0.02,0.02,0.02,0.02,0.02,0.02
+2019,36213,Agência Nacional de Saúde Suplementar,99,Reserva de Contingência,0.23,0.23,0.23,0,0,0
+2019,37000,Controladoria-Geral da União,04,Administração,0.88,0.88,0.91,0.88,0.85,0.79
+2019,37000,Controladoria-Geral da União,09,Previdência Social,0.2,0.2,0.23,0.23,0.23,0.21
+2019,39000,Ministério dos Transportes,09,Previdência Social,3.24,3.24,3.24,3.19,3.18,2.96
+2019,39000,Ministério dos Transportes,26,Transporte,10.26,10.32,9.83,9.73,6.4,6.33
+2019,39000,Ministério dos Transportes,28,Encargos Especiais,1.21,1.21,2.08,2.06,1.55,1.55
+2019,39000,Ministério dos Transportes,99,Reserva de Contingência,4.43,3.6,4.43,0,0,0
+2019,39250,Agência Nacional de Transportes Terrestres,09,Previdência Social,0.02,0.02,0.02,0.02,0.02,0.02
+2019,39250,Agência Nacional de Transportes Terrestres,26,Transporte,0.67,0.67,0.62,0.57,0.49,0.47
+2019,39250,Agência Nacional de Transportes Terrestres,28,Encargos Especiais,0,0,0,0,0,0
+2019,39250,Agência Nacional de Transportes Terrestres,99,Reserva de Contingência,0,0,0,0,0,0
+2019,39251,Agência Nacional de Transportes Aquaviários,09,Previdência Social,0.01,0.01,0.01,0.01,0.01,0.01
+2019,39251,Agência Nacional de Transportes Aquaviários,26,Transporte,0.16,0.16,0.16,0.14,0.14,0.13
+2019,39251,Agência Nacional de Transportes Aquaviários,28,Encargos Especiais,0,0,0,0,0,0
+2019,39254,Agência Nacional de Aviação Civil,09,Previdência Social,0.03,0.03,0.03,0.02,0.02,0.02
+2019,39254,Agência Nacional de Aviação Civil,26,Transporte,0.53,0.53,0.53,0.51,0.49,0.46
+2019,39254,Agência Nacional de Aviação Civil,99,Reserva de Contingência,0.16,0.16,0.16,0,0,0
+2019,40000,Ministério do Trabalho e Emprego,04,Administração,0,1.49,0,0,0,0
+2019,40000,Ministério do Trabalho e Emprego,09,Previdência Social,0,1.87,0,0,0,0
+2019,40000,Ministério do Trabalho e Emprego,11,Trabalho,0,80.41,0,0,0,0
+2019,40000,Ministério do Trabalho e Emprego,28,Encargos Especiais,0,5.99,0,0,0,0
+2019,42000,Ministério da Cultura,09,Previdência Social,0,0.19,0,0,0,0
+2019,42000,Ministério da Cultura,13,Cultura,0,1.83,0,0,0,0
+2019,42000,Ministério da Cultura,28,Encargos Especiais,0,0,0,0,0,0
+2019,42000,Ministério da Cultura,99,Reserva de Contingência,0,0.64,0,0,0,0
+2019,42206,Agência Nacional do Cinema,09,Previdência Social,0,0,0,0,0,0
+2019,42206,Agência Nacional do Cinema,13,Cultura,0,0.15,0,0,0,0
+2019,44000,Ministério do Meio Ambiente e Mudança do Clima,09,Previdência Social,0.64,0.64,0.7,0.68,0.68,0.62
+2019,44000,Ministério do Meio Ambiente e Mudança do Clima,18,Gestão Ambiental,1.91,2.02,2.21,2,1.63,1.56
+2019,44000,Ministério do Meio Ambiente e Mudança do Clima,28,Encargos Especiais,0.21,0.21,0.21,0.21,0.21,0.21
+2019,44000,Ministério do Meio Ambiente e Mudança do Clima,99,Reserva de Contingência,0.51,0.51,0.51,0,0,0
+2019,44205,Agência Nacional de Águas e Saneamento Básico,09,Previdência Social,0,0,0,0,0,0
+2019,44205,Agência Nacional de Águas e Saneamento Básico,18,Gestão Ambiental,0,0.41,0,0,0,0
+2019,47000,Ministério do Planejamento e Orçamento,04,Administração,0,3.82,0,0,0,0
+2019,47000,Ministério do Planejamento e Orçamento,09,Previdência Social,0,2.26,0,0,0,0
+2019,47000,Ministério do Planejamento e Orçamento,28,Encargos Especiais,0,0.84,0,0,0,0
+2019,47000,Ministério do Planejamento e Orçamento,99,Reserva de Contingência,0,0.25,0,0,0,0
+2019,51000,Ministério do Esporte,09,Previdência Social,0,0,0,0,0,0
+2019,51000,Ministério do Esporte,27,Desporto e Lazer,0,1.14,0,0,0,0
+2019,51000,Ministério do Esporte,28,Encargos Especiais,0,0,0,0,0,0
+2019,52000,Ministério da Defesa,05,Defesa Nacional,74.32,75.01,84.87,84.06,78.69,75.07
+2019,52000,Ministério da Defesa,09,Previdência Social,24.04,24.04,25.56,25.45,25.45,23.54
+2019,52000,Ministério da Defesa,19,Ciência e Tecnologia,0,0,0,0,0,0
+2019,52000,Ministério da Defesa,28,Encargos Especiais,2.97,2.97,3.02,2.49,2.49,2.44
+2019,52000,Ministério da Defesa,99,Reserva de Contingência,5.69,5.69,1.37,0,0,0
+2019,53000,Ministério da Integração e do Desenvolvimento Regional,04,Administração,1.31,1.15,1.17,1.11,1,0.93
+2019,53000,Ministério da Integração e do Desenvolvimento Regional,06,Segurança Pública,0.79,0.89,0.83,0.81,0.64,0.63
+2019,53000,Ministério da Integração e do Desenvolvimento Regional,09,Previdência Social,0.57,0.57,0.58,0.58,0.58,0.53
+2019,53000,Ministério da Integração e do Desenvolvimento Regional,11,Trabalho,0,0,0,0,0,0
+2019,53000,Ministério da Integração e do Desenvolvimento Regional,15,Urbanismo,1.78,0.82,7.8,7.47,1.44,1.35
+2019,53000,Ministério da Integração e do Desenvolvimento Regional,16,Habitação,0.02,0,0.02,0.02,0.01,0
+2019,53000,Ministério da Integração e do Desenvolvimento Regional,17,Saneamento,0.46,0.06,0.52,0.51,0.45,0.45
+2019,53000,Ministério da Integração e do Desenvolvimento Regional,18,Gestão Ambiental,1.68,1.62,1.99,1.97,1.37,1.36
+2019,53000,Ministério da Integração e do Desenvolvimento Regional,19,Ciência e Tecnologia,0.01,0.19,0.1,0.1,0,0
+2019,53000,Ministério da Integração e do Desenvolvimento Regional,20,Agricultura,0.16,0.28,0.29,0.29,0.09,0.08
+2019,53000,Ministério da Integração e do Desenvolvimento Regional,22,Indústria,0,0.01,0.01,0.01,0,0
+2019,53000,Ministério da Integração e do Desenvolvimento Regional,26,Transporte,0,0.02,0,0,0,0
+2019,53000,Ministério da Integração e do Desenvolvimento Regional,28,Encargos Especiais,4.93,0.05,5.12,5.05,5.04,5.04
+2019,53000,Ministério da Integração e do Desenvolvimento Regional,99,Reserva de Contingência,0.11,0,0.11,0,0,0
+2019,53210,Agência Nacional de Águas e Saneamento Básico,09,Previdência Social,0,0,0,0,0,0
+2019,53210,Agência Nacional de Águas e Saneamento Básico,18,Gestão Ambiental,0.41,0,0.41,0.39,0.31,0.3
+2019,54000,Ministério do Turismo,09,Previdência Social,0.02,0.02,0.02,0.02,0.02,0.02
+2019,54000,Ministério do Turismo,23,Comércio e Serviços,0.54,0.89,0.91,0.88,0.16,0.15
+2019,54000,Ministério do Turismo,28,Encargos Especiais,0,0,0,0,0,0
+2019,55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",04,Administração,0.38,0,0.28,0.26,0.21,0.19
+2019,55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",08,Assistência Social,47.1,55.86,96.13,95.96,94.92,92.84
+2019,55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",09,Previdência Social,0.2,434.64,0.23,0.22,0.22,0.2
+2019,55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",11,Trabalho,0.01,0,0.04,0.03,0,0
+2019,55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",13,Cultura,1.68,0,1.9,1.76,0.77,0.74
+2019,55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",14,Direitos da Cidadania,0.07,0,0.09,0.09,0.03,0.03
+2019,55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",27,Desporto e Lazer,0.61,0,0.98,0.75,0.16,0.16
+2019,55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",28,Encargos Especiais,1.03,17.76,1.24,1.24,1.2,1.2
+2019,55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",99,Reserva de Contingência,0.64,0,0.64,0,0,0
+2019,56000,Ministério das Cidades,04,Administração,0,0,0,0,0,0
+2019,56000,Ministério das Cidades,09,Previdência Social,0,0,0,0,0,0
+2019,56000,Ministério das Cidades,15,Urbanismo,0,3.6,0,0,0,0
+2019,56000,Ministério das Cidades,16,Habitação,0,0.23,0,0,0,0
+2019,56000,Ministério das Cidades,17,Saneamento,0,0.39,0,0,0,0
+2019,56000,Ministério das Cidades,28,Encargos Especiais,0,4.47,0,0,0,0
+2019,56000,Ministério das Cidades,99,Reserva de Contingência,0,0.93,0,0,0,0
+2019,59000,Conselho Nacional do Ministério Público,03,Essencial à Justiça,0.1,0.1,0.1,0.09,0.09,0.09
+2019,59000,Conselho Nacional do Ministério Público,09,Previdência Social,0,0,0,0,0,0
+2019,59000,Conselho Nacional do Ministério Público,99,Reserva de Contingência,0,0,0,0,0,0
+2019,60000,Gabinete da Vice-Presidência da República,04,Administração,0.02,0.02,0.02,0.02,0.02,0.01
+2019,63000,Advocacia-Geral da União,03,Essencial à Justiça,0.94,0.94,0.94,0.83,0.75,0.74
+2019,63000,Advocacia-Geral da União,04,Administração,2.2,2.2,2.38,2.38,2.35,2.18
+2019,63000,Advocacia-Geral da União,09,Previdência Social,0.66,0.66,0.74,0.74,0.73,0.68
+2019,63000,Advocacia-Geral da União,28,Encargos Especiais,0,0,0,0,0,0
+2019,71000,Encargos Financeiros da União,28,Encargos Especiais,0,0,0,0,0,0
+2019,71000,Encargos Financeiros da União,99,Reserva de Contingência,0,0.29,0,0,0,0
+2019,71101,Recursos sob Supervisão do Ministério da Fazenda,28,Encargos Especiais,12.67,9.18,19.81,16.19,14.44,14.44
+2019,71101,Recursos sob Supervisão do Ministério da Fazenda,99,Reserva de Contingência,7.49,0,1.21,0,0,0
+2019,71102,Recursos sob Supervisão do Ministério do Planejamento e Orçamento,04,Administração,0,0.45,0,0,0,0
+2019,71102,Recursos sob Supervisão do Ministério do Planejamento e Orçamento,28,Encargos Especiais,0,2.65,0,0,0,0
+2019,71102,Recursos sob Supervisão do Ministério do Planejamento e Orçamento,99,Reserva de Contingência,0,7.21,0,0,0,0
+2019,71103,Encargos Financeiros da União,28,Encargos Especiais,18.39,18.39,16.95,16.01,15.83,15.83
+2019,71104,Remuneração de Agentes Financeiros,28,Encargos Especiais,0.75,0.72,0.86,0.79,0.65,0.65
+2019,71903,Fundo Social,28,Encargos Especiais,11.26,11.26,11.26,0,0,0
+2019,71904,Fundo de Estabilidade do Seguro Rural,04,Administração,0.04,0.04,0.04,0.02,0.02,0.02
+2019,71904,Fundo de Estabilidade do Seguro Rural,99,Reserva de Contingência,0.41,0.41,0.41,0,0,0
+2019,71905,Fundo de Garantia à Exportação,28,Encargos Especiais,1.47,1.47,1.71,1.57,1.19,1.19
+2019,71905,Fundo de Garantia à Exportação,99,Reserva de Contingência,2.77,2.77,2.77,0,0,0
+2019,73000,"Transferências a Estados, Distrito Federal e Municípios",28,Encargos Especiais,44.67,44.67,52.96,52.56,49.46,49.46
+2019,73101,Recursos sob Supervisão do Ministério da Fazenda,04,Administração,0.02,0,0.02,0.02,0.02,0.01
+2019,73101,Recursos sob Supervisão do Ministério da Fazenda,09,Previdência Social,2.79,0,2.78,2.74,2.72,2.52
+2019,73101,Recursos sob Supervisão do Ministério da Fazenda,28,Encargos Especiais,3.65,0.04,3.51,2.99,2.84,2.66
+2019,73107,Recursos sob Supervisão do Ministério da Educação,28,Encargos Especiais,12.97,12.97,12.97,12.97,11.03,11.03
+2019,73108,Transferências Constitucionais,28,Encargos Especiais,209.88,209.88,216.09,215.1,210.32,210.32
+2019,73113,Recursos sob Supervisão do Ministério da Gestão e Inovação em Serviços Públicos,04,Administração,0,3.52,0,0,0,0
+2019,73113,Recursos sob Supervisão do Ministério da Gestão e Inovação em Serviços Públicos,09,Previdência Social,0,2.79,0,0,0,0
+2019,73113,Recursos sob Supervisão do Ministério da Gestão e Inovação em Serviços Públicos,28,Encargos Especiais,0,0.11,0,0,0,0
+2019,73901,Fundo Constitucional do Distrito Federal,04,Administração,0.68,0.68,0.64,0.64,0.64,0.64
+2019,73901,Fundo Constitucional do Distrito Federal,09,Previdência Social,1.38,1.38,1.43,1.43,1.42,1.42
+2019,73901,Fundo Constitucional do Distrito Federal,28,Encargos Especiais,12.24,12.24,12.23,12.23,12.02,11.95
+2019,74101,Recursos sob Supervisão da Secretaria do Tesouro Nacional,08,Assistência Social,0.01,0.01,0.01,0.01,0,0
+2019,74101,Recursos sob Supervisão da Secretaria do Tesouro Nacional,15,Urbanismo,0,0,0,0,0,0
+2019,74101,Recursos sob Supervisão da Secretaria do Tesouro Nacional,20,Agricultura,5.93,5.17,8.42,7,3.89,3.89
+2019,74101,Recursos sob Supervisão da Secretaria do Tesouro Nacional,22,Indústria,0.01,0.01,0.01,0,0,0
+2019,74101,Recursos sob Supervisão da Secretaria do Tesouro Nacional,23,Comércio e Serviços,2.74,3.07,2.5,1.56,1.55,1.55
+2019,74101,Recursos sob Supervisão da Secretaria do Tesouro Nacional,25,Energia,0.01,0.01,0.01,0.01,0.01,0.01
+2019,74101,Recursos sob Supervisão da Secretaria do Tesouro Nacional,28,Encargos Especiais,0.31,0.31,0.56,0.28,0.15,0.15
+2019,74102,Recursos sob Supervisão do Ministério da Fazenda,04,Administração,0.13,0.13,0.13,0.13,0.07,0.07
+2019,74201,Recursos sob Supervisão da Superintendência de Seguros Privados/SUSEP,04,Administração,0.01,0.01,0.01,0,0,0
+2019,74202,Recursos sob Supervisão da Agência Nacional de Saúde Suplementar/ANS,10,Saúde,0,0,0,0,0,0
+2019,74203,Recursos sob Supervisão do Instituto Nacional de Colonização e Reforma Agrária/INCRA-MDA,21,Organização Agrária,0.27,0.27,0.27,0.27,0,0
+2019,74204,Recursos sob Supervisão da Caixa de Construções de Casas para o Pessoal da Marinha,05,Defesa Nacional,0.26,0.26,0.29,0.29,0.22,0.22
+2019,74205,Recursos sob Supervisão da Caixa de Financiamento Imobiliário da Aeronáutica,05,Defesa Nacional,0,0,0,0,0,0
+2019,74901,Recursos sob Supervisão do Fundo de Defesa da Economia Cafeeira/Funcafé,20,Agricultura,5.23,5.23,5.23,4.94,3.85,3.85
+2019,74902,Recursos sob Supervisão do Fundo de Financiamento ao Estudante do Ensino Superior/FIES,12,Educação,13.86,13.81,13.63,13.61,9.9,9.9
+2019,74904,Recursos sob Supervisão do Fundo da Marinha Mercante/FMM,26,Transporte,5.48,5.48,5.48,1.27,1.27,1.27
+2019,74905,Recursos sob Sup. do Fundo p/ Desenv.Tecnol. das Telecomunic./FUNTTEL-M. Comunicações,24,Comunicações,0.3,0.3,0.3,0.3,0.3,0.3
+2019,74906,Recursos sob Supervisão do Fundo de Terras e da Reforma Agrária/Banco da Terra,21,Organização Agrária,0.3,0.3,0.3,0.3,0.18,0.18
+2019,74908,Recursos sob Supervisão do Fundo Geral de Turismo/FUNGETUR,23,Comércio e Serviços,0.17,0.17,0.25,0.22,0.02,0.02
+2019,74910,"Recursos sob Sup. do Fundo Nac.de Desenv.Científico e Tecnológico/FNDCT-M.Ciência,Tecnol. e Inov.",19,Ciência e Tecnologia,1.41,1.41,1.41,1.41,1.41,1.41
+2019,74912,Recursos sob Supervisão do Fundo Nacional de Cultura,13,Cultura,0.08,0.08,0.08,0.05,0,0
+2019,74913,Recursos sob Supervisão do Fundo Constitucional de Financiamento do Norte/FNO,28,Encargos Especiais,2.63,2.63,2.75,2.75,2.65,2.65
+2019,74914,Recursos sob Supervisão do Fundo Constitucional de Financiamento do Centro-Oeste/FCO,28,Encargos Especiais,2.63,2.63,2.75,2.75,2.65,2.65
+2019,74915,Recursos sob Supervisão do Fundo Constitucional de Financiamento do Nordeste/FNE,28,Encargos Especiais,7.88,7.88,8.24,8.24,7.96,7.96
+2019,74916,Recursos sob Supervisão do Fundo Nacional sobre Mudança do Clima/FNMC,18,Gestão Ambiental,0.35,0.35,0.54,0.35,0,0
+2019,74917,Recursos sob Supervisão do Fundo de Desenvolvimento da Amazônia/FDA,28,Encargos Especiais,0.4,0.4,0.4,0.4,0,0
+2019,74918,Recursos sob Supervisão do Fundo de Desenvolvimento do Nordeste/FDNE,28,Encargos Especiais,0.65,0.65,0.65,0.64,0,0
+2019,74919,Recursos sob Supervisão do Fundo de Desenvolvimento do Centro-Oeste/FDCO,28,Encargos Especiais,0.16,0.16,0.16,0.16,0,0
+2019,75000,Dívida Pública Federal,28,Encargos Especiais,1422.15,1422.15,1422.1,1035.59,1035.54,1035.53
+2019,81000,"Ministério da Mulher, da Família e dos Direitos Humanos",09,Previdência Social,0.15,0,0,0,0,0
+2019,81000,"Ministério da Mulher, da Família e dos Direitos Humanos",14,Direitos da Cidadania,0.71,0.32,0.46,0.43,0.22,0.21
+2019,81000,"Ministério da Mulher, da Família e dos Direitos Humanos",28,Encargos Especiais,0.01,0.01,0.01,0.01,0,0
+2019,81000,"Ministério da Mulher, da Família e dos Direitos Humanos",99,Reserva de Contingência,0.14,0.14,0.14,0,0,0
+2019,82000,Ministério da Segurança Pública,03,Essencial à Justiça,0,0.02,0,0,0,0
+2019,82000,Ministério da Segurança Pública,04,Administração,0,0.08,0,0,0,0
+2019,82000,Ministério da Segurança Pública,06,Segurança Pública,0,10.19,0,0,0,0
+2019,82000,Ministério da Segurança Pública,09,Previdência Social,0,3.79,0,0,0,0
+2019,82000,Ministério da Segurança Pública,14,Direitos da Cidadania,0,0.35,0,0,0,0
+2019,82000,Ministério da Segurança Pública,28,Encargos Especiais,0,0.07,0,0,0,0
+2019,82000,Ministério da Segurança Pública,99,Reserva de Contingência,0.76,1.2,0,0,0,0
+2019,90000,Reserva de Contingência,99,Reserva de Contingência,17.07,9.35,7.08,0,0,0
+2019,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,08,Assistência Social,45,36.55,0,0,0,0
+2019,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,09,Previdência Social,201.71,201.71,0,0,0,0
+2019,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,20,Agricultura,5.8,6.49,0,0,0,0
+2019,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,23,Comércio e Serviços,0.96,0.63,0,0,0,0
+2019,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,28,Encargos Especiais,4.72,3.53,0,0,0,0
+2020,01000,Camara dos Deputados,01,Legislativa,4.29,4.29,4.19,3.87,3.76,3.76
+2020,01000,Camara dos Deputados,09,Previdência Social,1.95,1.95,1.97,1.93,1.93,1.93
+2020,01000,Camara dos Deputados,28,Encargos Especiais,0,0,0,0,0,0
+2020,01000,Camara dos Deputados,99,Reserva de Contingência,0.01,0.02,0.01,0,0,0
+2020,02000,Senado Federal,01,Legislativa,2.42,2.42,2.46,2.31,2.18,2.18
+2020,02000,Senado Federal,09,Previdência Social,2.16,2.16,2.16,2.1,2.1,2.1
+2020,02000,Senado Federal,28,Encargos Especiais,0,0,0,0,0,0
+2020,02000,Senado Federal,99,Reserva de Contingência,0.01,0.01,0.01,0,0,0
+2020,03000,Tribunal de Contas da União,01,Legislativa,1.43,1.42,1.42,1.34,1.3,1.3
+2020,03000,Tribunal de Contas da União,09,Previdência Social,0.8,0.8,0.83,0.83,0.82,0.82
+2020,03000,Tribunal de Contas da União,28,Encargos Especiais,0,0,0,0,0,0
+2020,03000,Tribunal de Contas da União,99,Reserva de Contingência,0.01,0.01,0.01,0,0,0
+2020,10000,Supremo Tribunal Federal,02,Judiciária,0.52,0.52,0.53,0.52,0.5,0.5
+2020,10000,Supremo Tribunal Federal,09,Previdência Social,0.16,0.16,0.16,0.16,0.16,0.16
+2020,10000,Supremo Tribunal Federal,28,Encargos Especiais,0,0,0,0,0,0
+2020,10000,Supremo Tribunal Federal,99,Reserva de Contingência,0.01,0.01,0,0,0,0
+2020,11000,Superior Tribunal de Justiça,02,Judiciária,1.21,1.21,1.24,1.13,1.1,1.09
+2020,11000,Superior Tribunal de Justiça,09,Previdência Social,0.41,0.41,0.41,0.41,0.41,0.41
+2020,11000,Superior Tribunal de Justiça,28,Encargos Especiais,0,0,0,0,0,0
+2020,11000,Superior Tribunal de Justiça,99,Reserva de Contingência,0,0.01,0,0,0,0
+2020,12000,Justiça Federal,02,Judiciária,10.52,10.51,10.67,10.5,10.37,10.34
+2020,12000,Justiça Federal,09,Previdência Social,1.75,1.75,2,1.97,1.96,1.96
+2020,12000,Justiça Federal,28,Encargos Especiais,0,0,0,0,0,0
+2020,12000,Justiça Federal,99,Reserva de Contingência,0.05,0.06,0,0,0,0
+2020,13000,Justiça Militar da União,02,Judiciária,0.35,0.35,0.35,0.34,0.32,0.32
+2020,13000,Justiça Militar da União,09,Previdência Social,0.22,0.22,0.24,0.24,0.23,0.23
+2020,13000,Justiça Militar da União,99,Reserva de Contingência,0,0,0,0,0,0
+2020,14000,Justiça Eleitoral,02,Judiciária,7.14,7.13,7.3,7.12,6.19,6.18
+2020,14000,Justiça Eleitoral,09,Previdência Social,1.09,1.09,1.12,1.11,1.1,1.1
+2020,14000,Justiça Eleitoral,28,Encargos Especiais,0.96,0.96,0.96,0.96,0.94,0.94
+2020,14000,Justiça Eleitoral,99,Reserva de Contingência,0.09,0.1,0,0,0,0
+2020,15000,Justiça do Trabalho,02,Judiciária,15.46,15.44,15.53,15.36,15.23,15.23
+2020,15000,Justiça do Trabalho,09,Previdência Social,5.34,5.34,5.7,5.67,5.66,5.66
+2020,15000,Justiça do Trabalho,28,Encargos Especiais,0,0,0,0,0,0
+2020,15000,Justiça do Trabalho,99,Reserva de Contingência,0.01,0.02,0.02,0,0,0
+2020,16000,Justiça do Distrito Federal e dos Territórios,02,Judiciária,2.42,2.41,2.46,2.45,2.42,2.42
+2020,16000,Justiça do Distrito Federal e dos Territórios,09,Previdência Social,0.53,0.53,0.56,0.56,0.55,0.55
+2020,16000,Justiça do Distrito Federal e dos Territórios,99,Reserva de Contingência,0.01,0.01,0,0,0,0
+2020,17000,Conselho Nacional de Justiça,02,Judiciária,0.21,0.2,0.21,0.19,0.19,0.19
+2020,17000,Conselho Nacional de Justiça,09,Previdência Social,0,0,0,0,0,0
+2020,17000,Conselho Nacional de Justiça,99,Reserva de Contingência,0,0,0,0,0,0
+2020,20000,Presidência da República,04,Administração,0.92,0.71,0.94,0.89,0.64,0.62
+2020,20000,Presidência da República,06,Segurança Pública,0.36,0.35,0.38,0.37,0.37,0.34
+2020,20000,Presidência da República,09,Previdência Social,0.34,0.34,0.38,0.37,0.37,0.36
+2020,20000,Presidência da República,24,Comunicações,0.47,0.43,0.47,0.46,0.42,0.4
+2020,20000,Presidência da República,28,Encargos Especiais,0.09,0.05,0.05,0.04,0.04,0.04
+2020,20000,Presidência da República,99,Reserva de Contingência,0.15,0.15,0.15,0,0,0
+2020,22000,Ministério da Agricultura e Pecuária,09,Previdência Social,1.69,1.69,2.81,2.8,2.8,2.59
+2020,22000,Ministério da Agricultura e Pecuária,18,Gestão Ambiental,0.05,0.05,0.06,0.06,0.05,0.05
+2020,22000,Ministério da Agricultura e Pecuária,20,Agricultura,5.27,6.86,10.43,8.97,7.1,6.76
+2020,22000,Ministério da Agricultura e Pecuária,21,Organização Agrária,1.29,1.35,1.56,1.55,1.21,1.16
+2020,22000,Ministério da Agricultura e Pecuária,28,Encargos Especiais,1.7,1.7,1.97,1.94,1.94,1.94
+2020,22000,Ministério da Agricultura e Pecuária,99,Reserva de Contingência,0.45,0.48,0.45,0,0,0
+2020,24000,"Ministério da Ciência, Tecnologia e Inovação",04,Administração,0,0,0,0,0,0
+2020,24000,"Ministério da Ciência, Tecnologia e Inovação",09,Previdência Social,1.22,1.22,1.86,1.85,1.85,1.74
+2020,24000,"Ministério da Ciência, Tecnologia e Inovação",19,Ciência e Tecnologia,4.1,4.19,5.24,5.17,4.46,4.31
+2020,24000,"Ministério da Ciência, Tecnologia e Inovação",24,Comunicações,1.19,1.18,1.2,0.97,0.8,0.77
+2020,24000,"Ministério da Ciência, Tecnologia e Inovação",28,Encargos Especiais,0.08,0.09,0.17,0.16,0.16,0.16
+2020,24000,"Ministério da Ciência, Tecnologia e Inovação",99,Reserva de Contingência,5.12,5.14,5.14,0,0,0
+2020,25000,Ministério da Fazenda,04,Administração,17.78,17.12,22.7,20.97,19.68,18.76
+2020,25000,Ministério da Fazenda,08,Assistência Social,0,0,51.64,41.55,33.5,33.5
+2020,25000,Ministério da Fazenda,09,Previdência Social,476.67,476.66,681.62,676.87,674.92,634.12
+2020,25000,Ministério da Fazenda,11,Trabalho,80.88,80.92,84.46,77.23,75.89,75.87
+2020,25000,Ministério da Fazenda,22,Indústria,1,1,1,0.98,0.95,0.92
+2020,25000,Ministério da Fazenda,23,Comércio e Serviços,0.08,0.08,0.08,0.07,0.05,0.05
+2020,25000,Ministério da Fazenda,28,Encargos Especiais,13.47,13.47,29.97,25.36,24.24,24.08
+2020,25000,Ministério da Fazenda,99,Reserva de Contingência,6.9,7,8.92,0,0,0
+2020,26000,Ministério da Educação,09,Previdência Social,13.86,13.86,17.67,17.53,17.53,16.35
+2020,26000,Ministério da Educação,10,Saúde,0,0,0.39,0.31,0.26,0.26
+2020,26000,Ministério da Educação,12,Educação,87.86,88.7,100.43,97.47,85.99,82.01
+2020,26000,Ministério da Educação,28,Encargos Especiais,0.21,0.21,0.89,0.83,0.83,0.83
+2020,26000,Ministério da Educação,99,Reserva de Contingência,0.34,0.35,0.02,0,0,0
+2020,29000,Defensoria Pública da União,03,Essencial à Justiça,0.56,0.56,0.57,0.57,0.51,0.49
+2020,29000,Defensoria Pública da União,09,Previdência Social,0.02,0.02,0.02,0.02,0.02,0.02
+2020,29000,Defensoria Pública da União,99,Reserva de Contingência,0.01,0.01,0,0,0,0
+2020,30000,Ministério da Justiça e Segurança Pública,03,Essencial à Justiça,0.01,0.01,0,0,0,0
+2020,30000,Ministério da Justiça e Segurança Pública,04,Administração,0.19,0.18,0.23,0.23,0.17,0.16
+2020,30000,Ministério da Justiça e Segurança Pública,06,Segurança Pública,7.14,8.06,12.91,12.35,10.1,9.63
+2020,30000,Ministério da Justiça e Segurança Pública,09,Previdência Social,3.69,3.69,4.47,4.46,4.45,4.19
+2020,30000,Ministério da Justiça e Segurança Pública,14,Direitos da Cidadania,0.65,0.66,0.62,0.59,0.43,0.41
+2020,30000,Ministério da Justiça e Segurança Pública,28,Encargos Especiais,0.13,0.13,0.18,0.18,0.17,0.16
+2020,30000,Ministério da Justiça e Segurança Pública,99,Reserva de Contingência,1.12,1.12,0.82,0,0,0
+2020,30211,Conselho Administrativo de Defesa Econômica,09,Previdência Social,0,0,0,0,0,0
+2020,30211,Conselho Administrativo de Defesa Econômica,14,Direitos da Cidadania,0.05,0.05,0.06,0.06,0.05,0.05
+2020,30211,Conselho Administrativo de Defesa Econômica,28,Encargos Especiais,0,0,0,0,0,0
+2020,30211,Conselho Administrativo de Defesa Econômica,99,Reserva de Contingência,0,0,0,0,0,0
+2020,32000,Ministério de Minas e Energia,09,Previdência Social,0.09,0.09,0.1,0.1,0.1,0.09
+2020,32000,Ministério de Minas e Energia,18,Gestão Ambiental,0.01,0.01,0.01,0,0,0
+2020,32000,Ministério de Minas e Energia,19,Ciência e Tecnologia,0.56,0.53,0.54,0.5,0.49,0.46
+2020,32000,Ministério de Minas e Energia,22,Indústria,0.43,0.41,0.48,0.46,0.44,0.41
+2020,32000,Ministério de Minas e Energia,25,Energia,0.51,0.5,0.92,0.91,0.79,0.78
+2020,32000,Ministério de Minas e Energia,28,Encargos Especiais,0.14,0.14,0.28,0.25,0.24,0.24
+2020,32000,Ministério de Minas e Energia,99,Reserva de Contingência,0.65,0.65,0.65,0,0,0
+2020,32265,"Agência Nacional do Petróleo, Gás Natural e Biocombustíveis",09,Previdência Social,0.01,0.01,0.02,0.02,0.02,0.02
+2020,32265,"Agência Nacional do Petróleo, Gás Natural e Biocombustíveis",25,Energia,0.39,0.38,0.42,0.41,0.36,0.34
+2020,32265,"Agência Nacional do Petróleo, Gás Natural e Biocombustíveis",28,Encargos Especiais,0,0,0,0,0,0
+2020,32265,"Agência Nacional do Petróleo, Gás Natural e Biocombustíveis",99,Reserva de Contingência,1.35,1.35,1.35,0,0,0
+2020,32266,Agência Nacional de Energia Elétrica,09,Previdência Social,0,0,0.01,0.01,0.01,0
+2020,32266,Agência Nacional de Energia Elétrica,25,Energia,0.35,0.34,0.34,0.32,0.26,0.25
+2020,32266,Agência Nacional de Energia Elétrica,28,Encargos Especiais,0.93,0.93,2.04,2.04,1.92,1.92
+2020,32266,Agência Nacional de Energia Elétrica,99,Reserva de Contingência,0.23,0.23,0.23,0,0,0
+2020,32396,Agência Nacional de Mineração,09,Previdência Social,0.05,0.05,0.07,0.07,0.07,0.07
+2020,32396,Agência Nacional de Mineração,22,Indústria,0.28,0.28,0.31,0.29,0.25,0.24
+2020,32396,Agência Nacional de Mineração,28,Encargos Especiais,0,0,0,0,0,0
+2020,32396,Agência Nacional de Mineração,99,Reserva de Contingência,0.23,0.23,0.23,0,0,0
+2020,34000,Ministério Público da União,03,Essencial à Justiça,6.25,6.24,6.58,6.56,6.47,6.46
+2020,34000,Ministério Público da União,09,Previdência Social,0.8,0.8,0.87,0.87,0.87,0.87
+2020,34000,Ministério Público da União,28,Encargos Especiais,0,0,0,0,0,0
+2020,34000,Ministério Público da União,99,Reserva de Contingência,0,0.01,0,0,0,0
+2020,35000,Ministério das Relações Exteriores,07,Relações Exteriores,2.07,1.96,4.12,3.9,3.82,3.8
+2020,35000,Ministério das Relações Exteriores,09,Previdência Social,0.31,0.31,0.4,0.4,0.4,0.37
+2020,35000,Ministério das Relações Exteriores,99,Reserva de Contingência,0,0,0,0,0,0
+2020,36000,Ministério da Saúde,09,Previdência Social,6,6,10.29,10.28,10.28,9.55
+2020,36000,Ministério da Saúde,10,Saúde,114.36,127.28,186.21,163.53,151.79,149.43
+2020,36000,Ministério da Saúde,28,Encargos Especiais,0.11,0.11,0.21,0.2,0.2,0.2
+2020,36000,Ministério da Saúde,99,Reserva de Contingência,8.08,0,0,0,0,0
+2020,36212,Agência Nacional de Vigilância Sanitária,09,Previdência Social,0.12,0.12,0.17,0.17,0.17,0.16
+2020,36212,Agência Nacional de Vigilância Sanitária,10,Saúde,0.69,0.65,0.6,0.56,0.53,0.5
+2020,36212,Agência Nacional de Vigilância Sanitária,28,Encargos Especiais,0,0,0,0,0,0
+2020,36212,Agência Nacional de Vigilância Sanitária,99,Reserva de Contingência,0,0,0,0,0,0
+2020,36213,Agência Nacional de Saúde Suplementar,09,Previdência Social,0,0,0.01,0.01,0.01,0.01
+2020,36213,Agência Nacional de Saúde Suplementar,10,Saúde,0.31,0.31,0.32,0.29,0.28,0.27
+2020,36213,Agência Nacional de Saúde Suplementar,28,Encargos Especiais,0,0,0.04,0.04,0.04,0.04
+2020,36213,Agência Nacional de Saúde Suplementar,99,Reserva de Contingência,0.24,0.25,0.25,0,0,0
+2020,37000,Controladoria-Geral da União,04,Administração,0.85,0.81,0.91,0.9,0.86,0.81
+2020,37000,Controladoria-Geral da União,09,Previdência Social,0.17,0.17,0.24,0.24,0.24,0.23
+2020,39000,Ministério dos Transportes,09,Previdência Social,1.68,1.68,3.11,3.1,3.1,2.88
+2020,39000,Ministério dos Transportes,26,Transporte,8.01,9.59,10.33,10.27,6.61,6.53
+2020,39000,Ministério dos Transportes,28,Encargos Especiais,0.04,0.04,0.09,0.08,0.08,0.08
+2020,39000,Ministério dos Transportes,99,Reserva de Contingência,7.25,7.25,7.25,0,0,0
+2020,39250,Agência Nacional de Transportes Terrestres,09,Previdência Social,0.01,0.01,0.02,0.02,0.02,0.02
+2020,39250,Agência Nacional de Transportes Terrestres,26,Transporte,0.62,0.61,0.6,0.56,0.49,0.48
+2020,39250,Agência Nacional de Transportes Terrestres,28,Encargos Especiais,0,0,0,0,0,0
+2020,39250,Agência Nacional de Transportes Terrestres,99,Reserva de Contingência,0.2,0.2,0.2,0,0,0
+2020,39251,Agência Nacional de Transportes Aquaviários,09,Previdência Social,0,0,0.01,0.01,0.01,0.01
+2020,39251,Agência Nacional de Transportes Aquaviários,26,Transporte,0.16,0.15,0.15,0.14,0.13,0.12
+2020,39251,Agência Nacional de Transportes Aquaviários,28,Encargos Especiais,0,0,0,0,0,0
+2020,39251,Agência Nacional de Transportes Aquaviários,99,Reserva de Contingência,0.13,0.13,0.13,0,0,0
+2020,39254,Agência Nacional de Aviação Civil,09,Previdência Social,0.01,0.01,0.02,0.02,0.02,0.02
+2020,39254,Agência Nacional de Aviação Civil,26,Transporte,0.53,0.51,0.51,0.48,0.45,0.42
+2020,39254,Agência Nacional de Aviação Civil,28,Encargos Especiais,0,0,0,0,0,0
+2020,39254,Agência Nacional de Aviação Civil,99,Reserva de Contingência,0.16,0.16,0.16,0,0,0
+2020,44000,Ministério do Meio Ambiente e Mudança do Clima,09,Previdência Social,0.6,0.6,0.74,0.73,0.73,0.67
+2020,44000,Ministério do Meio Ambiente e Mudança do Clima,18,Gestão Ambiental,1.51,1.49,1.63,1.58,1.42,1.37
+2020,44000,Ministério do Meio Ambiente e Mudança do Clima,28,Encargos Especiais,0.09,0.09,0.13,0.13,0.13,0.13
+2020,44000,Ministério do Meio Ambiente e Mudança do Clima,99,Reserva de Contingência,0.47,0.47,0.47,0,0,0
+2020,52000,Ministério da Defesa,05,Defesa Nacional,46.03,46.67,82.3,82.15,76.84,73.06
+2020,52000,Ministério da Defesa,09,Previdência Social,13.26,13.26,26.07,25.97,25.97,24.04
+2020,52000,Ministério da Defesa,28,Encargos Especiais,3.27,3.27,3.49,3.03,3.02,2.98
+2020,52000,Ministério da Defesa,99,Reserva de Contingência,9.83,9.87,3.66,0,0,0
+2020,53000,Ministério da Integração e do Desenvolvimento Regional,04,Administração,1.03,0.98,1.1,1.03,0.91,0.86
+2020,53000,Ministério da Integração e do Desenvolvimento Regional,06,Segurança Pública,0.38,0.54,1.53,1.12,0.76,0.75
+2020,53000,Ministério da Integração e do Desenvolvimento Regional,09,Previdência Social,0.54,0.54,0.59,0.58,0.58,0.54
+2020,53000,Ministério da Integração e do Desenvolvimento Regional,11,Trabalho,0,0,0,0,0,0
+2020,53000,Ministério da Integração e do Desenvolvimento Regional,15,Urbanismo,1.62,8.82,8.72,8.41,1.33,1.25
+2020,53000,Ministério da Integração e do Desenvolvimento Regional,16,Habitação,0.02,0.14,0.08,0.08,0,0
+2020,53000,Ministério da Integração e do Desenvolvimento Regional,17,Saneamento,0.42,0.4,0.89,0.89,0.83,0.79
+2020,53000,Ministério da Integração e do Desenvolvimento Regional,18,Gestão Ambiental,1.38,2.13,2.61,2.54,1.66,1.61
+2020,53000,Ministério da Integração e do Desenvolvimento Regional,19,Ciência e Tecnologia,0.01,0.01,0.02,0.02,0,0
+2020,53000,Ministério da Integração e do Desenvolvimento Regional,20,Agricultura,0.14,0.23,0.38,0.33,0.09,0.09
+2020,53000,Ministério da Integração e do Desenvolvimento Regional,22,Indústria,0,0,0,0,0,0
+2020,53000,Ministério da Integração e do Desenvolvimento Regional,26,Transporte,0,0,0,0,0,0
+2020,53000,Ministério da Integração e do Desenvolvimento Regional,28,Encargos Especiais,2.52,2.83,2.99,2.97,2.94,2.94
+2020,53000,Ministério da Integração e do Desenvolvimento Regional,99,Reserva de Contingência,0.15,0.15,0.15,0,0,0
+2020,53210,Agência Nacional de Águas e Saneamento Básico,09,Previdência Social,0,0,0,0,0,0
+2020,53210,Agência Nacional de Águas e Saneamento Básico,18,Gestão Ambiental,0.41,0.41,0.42,0.37,0.29,0.28
+2020,53210,Agência Nacional de Águas e Saneamento Básico,28,Encargos Especiais,0,0,0,0,0,0
+2020,54000,Ministério do Turismo,09,Previdência Social,0.02,0.02,0.17,0.16,0.16,0.14
+2020,54000,Ministério do Turismo,13,Cultura,0,0,0.92,0.85,0.34,0.31
+2020,54000,Ministério do Turismo,23,Comércio e Serviços,0.19,0.97,1,0.98,0.14,0.13
+2020,54000,Ministério do Turismo,28,Encargos Especiais,0,0,0,0,0,0
+2020,54207,Agência Nacional do Cinema,09,Previdência Social,0,0,0,0,0,0
+2020,54207,Agência Nacional do Cinema,13,Cultura,0,0,0.09,0.07,0.07,0.06
+2020,54207,Agência Nacional do Cinema,28,Encargos Especiais,0,0,0,0,0,0
+2020,55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",04,Administração,0.39,0.37,0.41,0.4,0.37,0.36
+2020,55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",08,Assistência Social,82.82,92.43,411.51,382.02,378.85,376.44
+2020,55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",09,Previdência Social,0.19,0.19,0.1,0.1,0.1,0.1
+2020,55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",11,Trabalho,0.01,0.02,0.01,0.01,0,0
+2020,55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",13,Cultura,1.01,1.27,0.23,0.23,0.23,0.23
+2020,55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",14,Direitos da Cidadania,0.05,0.1,0.12,0.12,0.09,0.09
+2020,55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",27,Desporto e Lazer,0.22,0.69,0.6,0.6,0.1,0.1
+2020,55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",28,Encargos Especiais,1.35,1.35,1.37,1.37,1.26,1.26
+2020,55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",99,Reserva de Contingência,0.67,0.67,0.67,0,0,0
+2020,59000,Conselho Nacional do Ministério Público,03,Essencial à Justiça,0.09,0.09,0.09,0.09,0.09,0.09
+2020,59000,Conselho Nacional do Ministério Público,09,Previdência Social,0,0,0,0,0,0
+2020,59000,Conselho Nacional do Ministério Público,99,Reserva de Contingência,0,0,0,0,0,0
+2020,60000,Gabinete da Vice-Presidência da República,04,Administração,0.01,0.01,0.02,0.02,0.01,0.01
+2020,63000,Advocacia-Geral da União,03,Essencial à Justiça,0.66,0.64,0.97,0.96,0.83,0.8
+2020,63000,Advocacia-Geral da União,04,Administração,1.2,1.13,2.34,2.34,2.3,2.14
+2020,63000,Advocacia-Geral da União,09,Previdência Social,0.54,0.54,0.77,0.77,0.77,0.71
+2020,63000,Advocacia-Geral da União,28,Encargos Especiais,0,0,0,0,0,0
+2020,71101,Recursos sob Supervisão do Ministério da Fazenda,28,Encargos Especiais,8.16,8.16,73.18,72.68,71.64,71.64
+2020,71101,Recursos sob Supervisão do Ministério da Fazenda,99,Reserva de Contingência,2.29,2.29,0.3,0,0,0
+2020,71103,Encargos Financeiros da União,28,Encargos Especiais,2.55,2.55,24.33,23.69,23.44,23.37
+2020,71104,Remuneração de Agentes Financeiros,28,Encargos Especiais,0.46,0.43,0.75,0.66,0.53,0.53
+2020,71903,Fundo Social,28,Encargos Especiais,10.34,10.34,10.34,0,0,0
+2020,71904,Fundo de Estabilidade do Seguro Rural,04,Administração,0.01,0.01,0.01,0.01,0.01,0
+2020,71904,Fundo de Estabilidade do Seguro Rural,28,Encargos Especiais,0.03,0.03,0.03,0.01,0.01,0.01
+2020,71904,Fundo de Estabilidade do Seguro Rural,99,Reserva de Contingência,0.34,0.34,0.34,0,0,0
+2020,71905,Fundo de Garantia à Exportação,28,Encargos Especiais,1.4,1.4,1.39,1.34,0.87,0.87
+2020,71905,Fundo de Garantia à Exportação,99,Reserva de Contingência,0.75,0.75,0.75,0,0,0
+2020,71906,Fundo Especial de Financiamento de Campanhas,28,Encargos Especiais,0.77,2.03,2.03,2.03,2.03,2.03
+2020,73000,"Transferências a Estados, Distrito Federal e Municípios",28,Encargos Especiais,42.43,42.43,43.69,43.49,32.54,32.54
+2020,73101,Recursos sob Supervisão do Ministério da Fazenda,04,Administração,0.01,0.01,0.01,0.01,0.01,0.01
+2020,73101,Recursos sob Supervisão do Ministério da Fazenda,09,Previdência Social,2.43,2.43,2.83,2.81,2.81,2.61
+2020,73101,Recursos sob Supervisão do Ministério da Fazenda,28,Encargos Especiais,2.98,3.63,83.85,82.82,81.79,81.61
+2020,73107,Recursos sob Supervisão do Ministério da Educação,28,Encargos Especiais,13.63,13.63,13.63,13.63,11.04,11.04
+2020,73108,Transferências Constitucionais,28,Encargos Especiais,224.73,224.73,223.46,223.46,202.22,202.22
+2020,73115,Recursos sob Supervisão do Ministério da Agricultura e Pecuária,28,Encargos Especiais,0.01,0.01,0.01,0,0,0
+2020,73117,Recursos sob Supervisão do Ministério do Turismo,28,Encargos Especiais,0,0,3,3,3,3
+2020,73901,Fundo Constitucional do Distrito Federal,09,Previdência Social,1.39,1.39,1.54,1.54,1.54,1.54
+2020,73901,Fundo Constitucional do Distrito Federal,28,Encargos Especiais,14.35,14.35,14.15,14.15,13.96,13.68
+2020,74101,Recursos sob Supervisão da Secretaria do Tesouro Nacional,08,Assistência Social,0,0,0.01,0.01,0,0
+2020,74101,Recursos sob Supervisão da Secretaria do Tesouro Nacional,20,Agricultura,4.65,4.65,6.24,5.43,2.5,2.5
+2020,74101,Recursos sob Supervisão da Secretaria do Tesouro Nacional,22,Indústria,0,0,0,0,0,0
+2020,74101,Recursos sob Supervisão da Secretaria do Tesouro Nacional,23,Comércio e Serviços,2.9,2.7,2.46,1.7,1.7,1.7
+2020,74101,Recursos sob Supervisão da Secretaria do Tesouro Nacional,25,Energia,0,0,0,0,0,0
+2020,74101,Recursos sob Supervisão da Secretaria do Tesouro Nacional,28,Encargos Especiais,0,0,34.34,6.98,6.81,6.81
+2020,74102,Recursos sob Supervisão do Ministério da Fazenda,28,Encargos Especiais,0.12,0.12,10.12,5.09,5.08,5.08
+2020,74104,Recursos sob Supervisão do Ministério da Agricultura e Pecuária,20,Agricultura,0.5,0.18,0.19,0.03,0.03,0.03
+2020,74201,Recursos sob Supervisão da Superintendência de Seguros Privados/SUSEP,28,Encargos Especiais,0,0,0,0,0,0
+2020,74202,Recursos sob Supervisão da Agência Nacional de Saúde Suplementar/ANS,10,Saúde,0,0,0,0,0,0
+2020,74203,Recursos sob Supervisão do Instituto Nacional de Colonização e Reforma Agrária/INCRA-MDA,21,Organização Agrária,0.27,0.27,0.27,0.27,0,0
+2020,74204,Recursos sob Supervisão da Caixa de Construções de Casas para o Pessoal da Marinha,05,Defesa Nacional,0.23,0.23,0.23,0.23,0.16,0.15
+2020,74205,Recursos sob Supervisão da Caixa de Financiamento Imobiliário da Aeronáutica,05,Defesa Nacional,0,0,0,0,0,0
+2020,74901,Recursos sob Supervisão do Fundo de Defesa da Economia Cafeeira/Funcafé,20,Agricultura,5.88,5.88,5.88,5.45,3.67,3.67
+2020,74902,Recursos sob Supervisão do Fundo de Financiamento ao Estudante do Ensino Superior/FIES,12,Educação,9.9,9.86,10.22,7.93,6.07,6.07
+2020,74904,Recursos sob Supervisão do Fundo da Marinha Mercante/FMM,26,Transporte,6.3,6.3,6.3,0.34,0.34,0.34
+2020,74905,Recursos sob Sup. do Fundo p/ Desenv.Tecnol. das Telecomunic./FUNTTEL-M. Comunicações,24,Comunicações,0.41,0.41,0.41,0.41,0.41,0.41
+2020,74906,Recursos sob Supervisão do Fundo de Terras e da Reforma Agrária/Banco da Terra,21,Organização Agrária,0.17,0.17,0.17,0.17,0.17,0.17
+2020,74908,Recursos sob Supervisão do Fundo Geral de Turismo/FUNGETUR,23,Comércio e Serviços,0.03,0.03,5.03,5.03,5.03,3.08
+2020,74910,"Recursos sob Sup. do Fundo Nac.de Desenv.Científico e Tecnológico/FNDCT-M.Ciência,Tecnol. e Inov.",19,Ciência e Tecnologia,1.63,1.63,1.63,1.63,1.44,1.44
+2020,74912,Recursos sob Supervisão do Fundo Nacional de Cultura,13,Cultura,0.54,0.54,0.53,0.1,0,0
+2020,74913,Recursos sob Supervisão do Fundo Constitucional de Financiamento do Norte/FNO,28,Encargos Especiais,2.82,2.82,2.82,2.82,2.5,2.5
+2020,74914,Recursos sob Supervisão do Fundo Constitucional de Financiamento do Centro-Oeste/FCO,28,Encargos Especiais,2.82,2.82,2.82,2.82,2.5,2.5
+2020,74915,Recursos sob Supervisão do Fundo Constitucional de Financiamento do Nordeste/FNE,28,Encargos Especiais,8.46,8.46,8.46,8.46,7.51,7.51
+2020,74916,Recursos sob Supervisão do Fundo Nacional sobre Mudança do Clima/FNMC,18,Gestão Ambiental,0.23,0.23,0.23,0.23,0.23,0.23
+2020,74917,Recursos sob Supervisão do Fundo de Desenvolvimento da Amazônia/FDA,28,Encargos Especiais,0.36,0.36,0.36,0.36,0,0
+2020,74918,Recursos sob Supervisão do Fundo de Desenvolvimento do Nordeste/FDNE,28,Encargos Especiais,0.69,0.69,2.77,0.51,0.02,0.02
+2020,74919,Recursos sob Supervisão do Fundo de Desenvolvimento do Centro-Oeste/FDCO,28,Encargos Especiais,0.22,0.22,0.48,0.48,0,0
+2020,75000,Dívida Pública Federal,28,Encargos Especiais,1599.95,1599.95,1599.44,1380.28,1379.09,1379.08
+2020,81000,"Ministério da Mulher, da Família e dos Direitos Humanos",09,Previdência Social,0,0,0,0,0,0
+2020,81000,"Ministério da Mulher, da Família e dos Direitos Humanos",14,Direitos da Cidadania,0.21,0.49,0.7,0.69,0.4,0.4
+2020,81000,"Ministério da Mulher, da Família e dos Direitos Humanos",28,Encargos Especiais,0.02,0.02,0.02,0.02,0,0
+2020,81000,"Ministério da Mulher, da Família e dos Direitos Humanos",99,Reserva de Contingência,0.14,0.14,0.14,0,0,0
+2020,90000,Reserva de Contingência,28,Encargos Especiais,72.12,72.12,72.12,0,0,0
+2020,90000,Reserva de Contingência,99,Reserva de Contingência,9.25,3.46,7.91,0,0,0
+2020,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,03,Essencial à Justiça,0.21,0.2,0,0,0,0
+2020,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,04,Administração,6.59,6.29,0,0,0,0
+2020,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,05,Defesa Nacional,28.98,28.93,0,0,0,0
+2020,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,06,Segurança Pública,3.44,3.21,0,0,0,0
+2020,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,07,Relações Exteriores,1.21,1.16,0,0,0,0
+2020,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,08,Assistência Social,9.63,0.94,0,0,0,0
+2020,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,09,Previdência Social,235.82,232.09,0,0,0,0
+2020,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,10,Saúde,0.22,0.13,0,0,0,0
+2020,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,11,Trabalho,0.06,0.06,0,0,0,0
+2020,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,12,Educação,11.04,10.22,0,0,0,0
+2020,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,13,Cultura,0.16,0.1,0,0,0,0
+2020,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,14,Direitos da Cidadania,0.18,0.11,0,0,0,0
+2020,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,15,Urbanismo,0.06,0.01,0,0,0,0
+2020,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,17,Saneamento,0,0,0,0,0,0
+2020,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,18,Gestão Ambiental,0.15,0.14,0,0,0,0
+2020,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,19,Ciência e Tecnologia,0.57,0.56,0,0,0,0
+2020,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,20,Agricultura,8.14,7.87,0,0,0,0
+2020,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,21,Organização Agrária,0.02,0,0,0,0,0
+2020,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,22,Indústria,0.02,0.02,0,0,0,0
+2020,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,23,Comércio e Serviços,0.86,0.06,0,0,0,0
+2020,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,24,Comunicações,0.01,0.01,0,0,0,0
+2020,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,25,Energia,0.12,0.12,0,0,0,0
+2020,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,26,Transporte,0.35,0.28,0,0,0,0
+2020,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,28,Encargos Especiais,48.47,46.57,0,0,0,0
+2020,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,99,Reserva de Contingência,5.22,4.55,0,0,0,0
+2021,01000,Camara dos Deputados,01,Legislativa,4.47,4.47,4.47,3.93,3.8,3.8
+2021,01000,Camara dos Deputados,09,Previdência Social,1.97,1.97,1.97,1.91,1.91,1.91
+2021,01000,Camara dos Deputados,28,Encargos Especiais,0.01,0.01,0.01,0,0,0
+2021,01000,Camara dos Deputados,99,Reserva de Contingência,0.01,0.01,0.01,0,0,0
+2021,02000,Senado Federal,01,Legislativa,2.57,2.57,2.57,2.35,2.27,2.27
+2021,02000,Senado Federal,09,Previdência Social,2.15,2.15,2.15,2.06,2.06,2.06
+2021,02000,Senado Federal,28,Encargos Especiais,0,0,0,0,0,0
+2021,02000,Senado Federal,99,Reserva de Contingência,0.01,0.01,0.01,0,0,0
+2021,03000,Tribunal de Contas da União,01,Legislativa,1.47,1.47,1.47,1.36,1.31,1.31
+2021,03000,Tribunal de Contas da União,09,Previdência Social,0.83,0.83,0.83,0.81,0.81,0.81
+2021,03000,Tribunal de Contas da União,28,Encargos Especiais,0,0,0,0,0,0
+2021,03000,Tribunal de Contas da União,99,Reserva de Contingência,0,0,0,0,0,0
+2021,10000,Supremo Tribunal Federal,02,Judiciária,0.54,0.54,0.55,0.53,0.5,0.5
+2021,10000,Supremo Tribunal Federal,09,Previdência Social,0.16,0.16,0.16,0.16,0.16,0.16
+2021,10000,Supremo Tribunal Federal,28,Encargos Especiais,0,0,0,0,0,0
+2021,10000,Supremo Tribunal Federal,99,Reserva de Contingência,0,0,0,0,0,0
+2021,11000,Superior Tribunal de Justiça,02,Judiciária,1.25,1.25,1.25,1.18,1.14,1.13
+2021,11000,Superior Tribunal de Justiça,09,Previdência Social,0.43,0.43,0.42,0.41,0.41,0.41
+2021,11000,Superior Tribunal de Justiça,28,Encargos Especiais,0,0,0,0,0,0
+2021,11000,Superior Tribunal de Justiça,99,Reserva de Contingência,0,0,0,0,0,0
+2021,12000,Justiça Federal,02,Judiciária,11.02,11.02,11.01,10.83,10.62,10.61
+2021,12000,Justiça Federal,09,Previdência Social,1.89,1.89,1.94,1.94,1.94,1.93
+2021,12000,Justiça Federal,28,Encargos Especiais,0,0,0,0,0,0
+2021,12000,Justiça Federal,99,Reserva de Contingência,0.05,0.05,0,0,0,0
+2021,13000,Justiça Militar da União,02,Judiciária,0.36,0.36,0.37,0.37,0.34,0.33
+2021,13000,Justiça Militar da União,09,Previdência Social,0.23,0.23,0.23,0.23,0.22,0.22
+2021,13000,Justiça Militar da União,28,Encargos Especiais,0,0,0,0,0,0
+2021,13000,Justiça Militar da União,99,Reserva de Contingência,0,0,0,0,0,0
+2021,14000,Justiça Eleitoral,02,Judiciária,7.28,7.28,7.35,7.29,5.85,5.84
+2021,14000,Justiça Eleitoral,09,Previdência Social,1.12,1.12,1.13,1.12,1.09,1.09
+2021,14000,Justiça Eleitoral,28,Encargos Especiais,0.98,0.98,0.98,0.97,0.96,0.96
+2021,14000,Justiça Eleitoral,99,Reserva de Contingência,0.1,0.1,0.01,0,0,0
+2021,15000,Justiça do Trabalho,02,Judiciária,15.99,15.99,15.83,15.53,15.36,15.36
+2021,15000,Justiça do Trabalho,09,Previdência Social,5.64,5.64,5.78,5.75,5.73,5.73
+2021,15000,Justiça do Trabalho,28,Encargos Especiais,0.02,0.02,0.02,0.02,0.01,0.01
+2021,15000,Justiça do Trabalho,99,Reserva de Contingência,0.14,0.14,0.14,0,0,0
+2021,16000,Justiça do Distrito Federal e dos Territórios,02,Judiciária,2.54,2.54,2.53,2.52,2.48,2.48
+2021,16000,Justiça do Distrito Federal e dos Territórios,09,Previdência Social,0.54,0.54,0.56,0.56,0.55,0.55
+2021,16000,Justiça do Distrito Federal e dos Territórios,28,Encargos Especiais,0,0,0,0,0,0
+2021,16000,Justiça do Distrito Federal e dos Territórios,99,Reserva de Contingência,0.01,0.01,0,0,0,0
+2021,17000,Conselho Nacional de Justiça,02,Judiciária,0.21,0.21,0.28,0.28,0.27,0.27
+2021,17000,Conselho Nacional de Justiça,09,Previdência Social,0,0,0,0,0,0
+2021,20000,Presidência da República,04,Administração,0.33,0.32,0.57,0.55,0.44,0.43
+2021,20000,Presidência da República,06,Segurança Pública,0.14,0.14,0.37,0.37,0.37,0.34
+2021,20000,Presidência da República,09,Previdência Social,0.31,0.31,0.37,0.37,0.37,0.35
+2021,20000,Presidência da República,28,Encargos Especiais,0,0,0,0,0,0
+2021,20000,Presidência da República,99,Reserva de Contingência,0.04,0.05,0.05,0,0,0
+2021,22000,Ministério da Agricultura e Pecuária,09,Previdência Social,2.1,2.1,2.8,2.79,2.79,2.57
+2021,22000,Ministério da Agricultura e Pecuária,18,Gestão Ambiental,0.02,0.02,0.06,0.06,0.05,0.04
+2021,22000,Ministério da Agricultura e Pecuária,20,Agricultura,3.6,5.56,11.54,10.3,7.63,7.27
+2021,22000,Ministério da Agricultura e Pecuária,21,Organização Agrária,1.26,1.67,1.37,1.35,0.99,0.94
+2021,22000,Ministério da Agricultura e Pecuária,28,Encargos Especiais,2.26,2.26,2.58,2.13,2.13,2.13
+2021,22000,Ministério da Agricultura e Pecuária,99,Reserva de Contingência,0.26,0.28,0.28,0,0,0
+2021,24000,"Ministério da Ciência, Tecnologia e Inovação",09,Previdência Social,1.13,1.13,1.79,1.79,1.79,1.68
+2021,24000,"Ministério da Ciência, Tecnologia e Inovação",19,Ciência e Tecnologia,2,1.99,4.6,4.56,3.73,3.36
+2021,24000,"Ministério da Ciência, Tecnologia e Inovação",28,Encargos Especiais,0.01,0.01,0.05,0.05,0.04,0.04
+2021,24000,"Ministério da Ciência, Tecnologia e Inovação",99,Reserva de Contingência,4.93,5.14,2.67,0,0,0
+2021,25000,Ministério da Fazenda,04,Administração,15.23,14.99,23.23,21.57,19.84,18.89
+2021,25000,Ministério da Fazenda,08,Assistência Social,0,0,9.98,7.17,7.02,7.02
+2021,25000,Ministério da Fazenda,09,Previdência Social,439.88,440.23,715.55,715.1,713.89,670.08
+2021,25000,Ministério da Fazenda,11,Trabalho,77.87,69.14,67.64,66.68,65.83,65.83
+2021,25000,Ministério da Fazenda,22,Indústria,0.9,0.91,1.02,1.01,0.97,0.93
+2021,25000,Ministério da Fazenda,23,Comércio e Serviços,0.05,0.05,0.06,0.06,0.04,0.04
+2021,25000,Ministério da Fazenda,28,Encargos Especiais,25.87,25.82,35.48,34.17,33.3,33.2
+2021,25000,Ministério da Fazenda,99,Reserva de Contingência,4.63,18.45,18.45,0,0,0
+2021,26000,Ministério da Educação,09,Previdência Social,13.19,13.19,17.82,17.72,17.72,16.48
+2021,26000,Ministério da Educação,12,Educação,57.67,58.6,110.49,105.76,94.94,90.72
+2021,26000,Ministério da Educação,28,Encargos Especiais,0.94,0.94,0.99,0.97,0.96,0.96
+2021,26000,Ministério da Educação,99,Reserva de Contingência,1.71,1.71,0.37,0,0,0
+2021,29000,Defensoria Pública da União,03,Essencial à Justiça,0.59,0.59,0.59,0.58,0.5,0.48
+2021,29000,Defensoria Pública da União,09,Previdência Social,0.02,0.02,0.02,0.02,0.02,0.02
+2021,29000,Defensoria Pública da União,28,Encargos Especiais,0,0,0,0,0,0
+2021,29000,Defensoria Pública da União,99,Reserva de Contingência,0,0,0,0,0,0
+2021,30000,Ministério da Justiça e Segurança Pública,04,Administração,0.11,0.1,0.24,0.24,0.19,0.19
+2021,30000,Ministério da Justiça e Segurança Pública,06,Segurança Pública,6.31,6.6,12.05,11.94,10.01,9.46
+2021,30000,Ministério da Justiça e Segurança Pública,09,Previdência Social,3.34,3.34,4.52,4.51,4.51,4.23
+2021,30000,Ministério da Justiça e Segurança Pública,14,Direitos da Cidadania,0.39,0.35,0.62,0.62,0.42,0.4
+2021,30000,Ministério da Justiça e Segurança Pública,28,Encargos Especiais,0.14,0.14,0.2,0.2,0.19,0.18
+2021,30000,Ministério da Justiça e Segurança Pública,99,Reserva de Contingência,0.75,0.66,0.66,0,0,0
+2021,30211,Conselho Administrativo de Defesa Econômica,09,Previdência Social,0,0,0,0,0,0
+2021,30211,Conselho Administrativo de Defesa Econômica,14,Direitos da Cidadania,0.05,0.04,0.05,0.05,0.04,0.04
+2021,30211,Conselho Administrativo de Defesa Econômica,28,Encargos Especiais,0,0,0,0,0,0
+2021,32000,Ministério de Minas e Energia,09,Previdência Social,0.07,0.07,0.09,0.09,0.09,0.09
+2021,32000,Ministério de Minas e Energia,18,Gestão Ambiental,0.01,0.01,0,0,0,0
+2021,32000,Ministério de Minas e Energia,19,Ciência e Tecnologia,0.17,0.17,0.53,0.51,0.51,0.48
+2021,32000,Ministério de Minas e Energia,22,Indústria,0.22,0.22,0.49,0.49,0.45,0.41
+2021,32000,Ministério de Minas e Energia,25,Energia,0.4,0.39,1.16,1.15,1.07,1.05
+2021,32000,Ministério de Minas e Energia,28,Encargos Especiais,4.14,4.14,4.18,4.17,4.16,4.16
+2021,32000,Ministério de Minas e Energia,99,Reserva de Contingência,0.73,0.72,0.72,0,0,0
+2021,32265,"Agência Nacional do Petróleo, Gás Natural e Biocombustíveis",09,Previdência Social,0.01,0.01,0.02,0.02,0.02,0.02
+2021,32265,"Agência Nacional do Petróleo, Gás Natural e Biocombustíveis",25,Energia,0.37,0.37,0.39,0.38,0.35,0.34
+2021,32265,"Agência Nacional do Petróleo, Gás Natural e Biocombustíveis",28,Encargos Especiais,0,0,0,0,0,0
+2021,32265,"Agência Nacional do Petróleo, Gás Natural e Biocombustíveis",99,Reserva de Contingência,0.66,0.67,0.67,0,0,0
+2021,32266,Agência Nacional de Energia Elétrica,09,Previdência Social,0,0,0.01,0.01,0.01,0.01
+2021,32266,Agência Nacional de Energia Elétrica,25,Energia,0.32,0.32,0.31,0.3,0.27,0.26
+2021,32266,Agência Nacional de Energia Elétrica,28,Encargos Especiais,1.05,1.05,1.21,1.21,1.1,1.1
+2021,32266,Agência Nacional de Energia Elétrica,99,Reserva de Contingência,0.22,0.24,0.22,0,0,0
+2021,32396,Agência Nacional de Mineração,09,Previdência Social,0.05,0.05,0.07,0.07,0.07,0.07
+2021,32396,Agência Nacional de Mineração,22,Indústria,0.19,0.19,0.29,0.27,0.24,0.23
+2021,32396,Agência Nacional de Mineração,28,Encargos Especiais,0,0,0,0,0,0
+2021,32396,Agência Nacional de Mineração,99,Reserva de Contingência,0.29,0.3,0.3,0,0,0
+2021,34000,Ministério Público da União,03,Essencial à Justiça,6.65,6.65,6.64,6.61,6.51,6.51
+2021,34000,Ministério Público da União,09,Previdência Social,0.85,0.85,0.89,0.89,0.89,0.89
+2021,34000,Ministério Público da União,28,Encargos Especiais,0,0,0,0,0,0
+2021,34000,Ministério Público da União,99,Reserva de Contingência,0.02,0.02,0,0,0,0
+2021,35000,Ministério das Relações Exteriores,07,Relações Exteriores,1.7,1.67,4.08,3.97,3.83,3.81
+2021,35000,Ministério das Relações Exteriores,09,Previdência Social,0.3,0.3,0.4,0.4,0.4,0.37
+2021,35000,Ministério das Relações Exteriores,28,Encargos Especiais,0,0,0,0,0,0
+2021,36000,Ministério da Saúde,09,Previdência Social,8.36,8.36,10.31,10.29,10.29,9.55
+2021,36000,Ministério da Saúde,10,Saúde,117.13,132.51,188.54,181.67,162.43,160.67
+2021,36000,Ministério da Saúde,28,Encargos Especiais,0.16,0.16,0.18,0.17,0.17,0.17
+2021,36000,Ministério da Saúde,99,Reserva de Contingência,7.29,0,0,0,0,0
+2021,36212,Agência Nacional de Vigilância Sanitária,09,Previdência Social,0.13,0.13,0.18,0.18,0.18,0.16
+2021,36212,Agência Nacional de Vigilância Sanitária,10,Saúde,0.65,0.65,0.59,0.56,0.53,0.51
+2021,36212,Agência Nacional de Vigilância Sanitária,28,Encargos Especiais,0,0,0,0,0,0
+2021,36212,Agência Nacional de Vigilância Sanitária,99,Reserva de Contingência,0.16,0.16,0.16,0,0,0
+2021,36213,Agência Nacional de Saúde Suplementar,09,Previdência Social,0.01,0.01,0.01,0.01,0.01,0.01
+2021,36213,Agência Nacional de Saúde Suplementar,10,Saúde,0.29,0.29,0.28,0.28,0.27,0.26
+2021,36213,Agência Nacional de Saúde Suplementar,28,Encargos Especiais,0.04,0.04,0.04,0.04,0.04,0.04
+2021,36213,Agência Nacional de Saúde Suplementar,99,Reserva de Contingência,0.29,0.3,0.3,0,0,0
+2021,37000,Controladoria-Geral da União,04,Administração,0.36,0.35,0.9,0.9,0.87,0.81
+2021,37000,Controladoria-Geral da União,09,Previdência Social,0.18,0.18,0.25,0.25,0.25,0.23
+2021,37000,Controladoria-Geral da União,28,Encargos Especiais,0,0,0,0,0,0
+2021,39000,Ministério dos Transportes,09,Previdência Social,2.34,2.34,3,2.99,2.99,2.8
+2021,39000,Ministério dos Transportes,26,Transporte,7.62,6.46,8.91,8.88,5.32,5.24
+2021,39000,Ministério dos Transportes,28,Encargos Especiais,0.05,0.05,0.14,0.13,0.13,0.13
+2021,39000,Ministério dos Transportes,99,Reserva de Contingência,5.01,5.03,5.03,0,0,0
+2021,39250,Agência Nacional de Transportes Terrestres,09,Previdência Social,0.02,0.02,0.02,0.02,0.02,0.02
+2021,39250,Agência Nacional de Transportes Terrestres,26,Transporte,0.53,0.53,0.52,0.51,0.46,0.44
+2021,39250,Agência Nacional de Transportes Terrestres,28,Encargos Especiais,0,0,0,0,0,0
+2021,39250,Agência Nacional de Transportes Terrestres,99,Reserva de Contingência,0.64,0.61,0.61,0,0,0
+2021,39251,Agência Nacional de Transportes Aquaviários,09,Previdência Social,0.01,0.01,0.01,0.01,0.01,0.01
+2021,39251,Agência Nacional de Transportes Aquaviários,26,Transporte,0.13,0.13,0.14,0.14,0.13,0.12
+2021,39251,Agência Nacional de Transportes Aquaviários,28,Encargos Especiais,0,0,0,0,0,0
+2021,39251,Agência Nacional de Transportes Aquaviários,99,Reserva de Contingência,0.04,0.04,0.04,0,0,0
+2021,39254,Agência Nacional de Aviação Civil,09,Previdência Social,0.02,0.02,0.03,0.02,0.02,0.02
+2021,39254,Agência Nacional de Aviação Civil,26,Transporte,0.27,0.27,0.5,0.47,0.45,0.43
+2021,39254,Agência Nacional de Aviação Civil,28,Encargos Especiais,0,0,0,0,0,0
+2021,39254,Agência Nacional de Aviação Civil,99,Reserva de Contingência,0.13,0.12,0.12,0,0,0
+2021,41000,Ministério das Comunicações,04,Administração,0.04,0.04,0.05,0.05,0.05,0.05
+2021,41000,Ministério das Comunicações,09,Previdência Social,0.26,0.26,0,0,0,0
+2021,41000,Ministério das Comunicações,24,Comunicações,1.1,1.14,1.95,1.84,1.39,1.35
+2021,41000,Ministério das Comunicações,28,Encargos Especiais,0.1,0.1,0.13,0.12,0.12,0.12
+2021,41000,Ministério das Comunicações,99,Reserva de Contingência,1.2,1.2,1.2,0,0,0
+2021,41231,Agência Nacional de Telecomunicações,09,Previdência Social,0.02,0.02,0.02,0.02,0.02,0.02
+2021,41231,Agência Nacional de Telecomunicações,24,Comunicações,0.58,0.58,0.54,0.53,0.47,0.44
+2021,41231,Agência Nacional de Telecomunicações,28,Encargos Especiais,0,0,0,0,0,0
+2021,41231,Agência Nacional de Telecomunicações,99,Reserva de Contingência,0.01,0.01,0.01,0,0,0
+2021,44000,Ministério do Meio Ambiente e Mudança do Clima,09,Previdência Social,0.55,0.55,0.74,0.74,0.74,0.68
+2021,44000,Ministério do Meio Ambiente e Mudança do Clima,18,Gestão Ambiental,0.85,0.88,1.82,1.78,1.48,1.41
+2021,44000,Ministério do Meio Ambiente e Mudança do Clima,28,Encargos Especiais,0.02,0.02,0.08,0.08,0.08,0.08
+2021,44000,Ministério do Meio Ambiente e Mudança do Clima,99,Reserva de Contingência,0.3,0.31,0.31,0,0,0
+2021,52000,Ministério da Defesa,05,Defesa Nacional,32.23,31.01,84.26,84.37,78.49,74.64
+2021,52000,Ministério da Defesa,09,Previdência Social,24.88,24.88,27.09,27.06,27.06,24.96
+2021,52000,Ministério da Defesa,28,Encargos Especiais,4.17,4.17,4.2,3.11,3.1,3.07
+2021,52000,Ministério da Defesa,99,Reserva de Contingência,3.92,3.95,1.32,0,0,0
+2021,53000,Ministério da Integração e do Desenvolvimento Regional,04,Administração,0.35,0.33,1.39,1.36,1.21,1.15
+2021,53000,Ministério da Integração e do Desenvolvimento Regional,06,Segurança Pública,0.13,0.1,1.07,0.96,0.64,0.63
+2021,53000,Ministério da Integração e do Desenvolvimento Regional,09,Previdência Social,0.44,0.44,0.58,0.58,0.58,0.54
+2021,53000,Ministério da Integração e do Desenvolvimento Regional,11,Trabalho,0,0,0,0,0,0
+2021,53000,Ministério da Integração e do Desenvolvimento Regional,15,Urbanismo,0.97,8.52,10.87,10.83,1.21,1.12
+2021,53000,Ministério da Integração e do Desenvolvimento Regional,16,Habitação,0.01,0.23,0.09,0.09,0,0
+2021,53000,Ministério da Integração e do Desenvolvimento Regional,17,Saneamento,0.37,0.24,0.48,0.48,0.45,0.45
+2021,53000,Ministério da Integração e do Desenvolvimento Regional,18,Gestão Ambiental,1.47,1.43,1.59,1.58,0.9,0.87
+2021,53000,Ministério da Integração e do Desenvolvimento Regional,19,Ciência e Tecnologia,0.01,0.08,0.08,0.08,0,0
+2021,53000,Ministério da Integração e do Desenvolvimento Regional,20,Agricultura,0.12,0.07,0.18,0.18,0.11,0.11
+2021,53000,Ministério da Integração e do Desenvolvimento Regional,22,Indústria,0,0.01,0.01,0.01,0,0
+2021,53000,Ministério da Integração e do Desenvolvimento Regional,26,Transporte,0,0,0,0,0,0
+2021,53000,Ministério da Integração e do Desenvolvimento Regional,28,Encargos Especiais,2.17,0.37,1.88,1.83,1.73,1.73
+2021,53000,Ministério da Integração e do Desenvolvimento Regional,99,Reserva de Contingência,0.12,0.12,0.12,0,0,0
+2021,53210,Agência Nacional de Águas e Saneamento Básico,09,Previdência Social,0,0,0.01,0,0,0
+2021,53210,Agência Nacional de Águas e Saneamento Básico,18,Gestão Ambiental,0.32,0.32,0.44,0.42,0.36,0.35
+2021,53210,Agência Nacional de Águas e Saneamento Básico,28,Encargos Especiais,0,0,0,0,0,0
+2021,53210,Agência Nacional de Águas e Saneamento Básico,99,Reserva de Contingência,0,0,0,0,0,0
+2021,54000,Ministério do Turismo,09,Previdência Social,0.16,0.16,0.26,0.26,0.26,0.24
+2021,54000,Ministério do Turismo,13,Cultura,0.69,0.77,1.08,1.05,0.52,0.51
+2021,54000,Ministério do Turismo,23,Comércio e Serviços,0.14,0.27,0.47,0.45,0.19,0.18
+2021,54000,Ministério do Turismo,28,Encargos Especiais,0,0,0.01,0.01,0.01,0.01
+2021,54000,Ministério do Turismo,99,Reserva de Contingência,0.34,0.35,0.35,0,0,0
+2021,54207,Agência Nacional do Cinema,09,Previdência Social,0,0,0,0,0,0
+2021,54207,Agência Nacional do Cinema,13,Cultura,0.06,0.05,0.13,0.12,0.12,0.11
+2021,54207,Agência Nacional do Cinema,28,Encargos Especiais,0,0,0,0,0,0
+2021,55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",04,Administração,0.19,0.18,0.41,0.38,0.34,0.33
+2021,55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",08,Assistência Social,101.38,102.4,164.35,161.45,154.1,151.58
+2021,55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",09,Previdência Social,0.03,0.03,0.01,0.01,0.01,0.01
+2021,55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",11,Trabalho,0,0.01,0.01,0.01,0.01,0.01
+2021,55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",14,Direitos da Cidadania,0.03,0.07,0,0,0,0
+2021,55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",27,Desporto e Lazer,0.29,0.82,0.87,0.87,0.21,0.21
+2021,55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",28,Encargos Especiais,1.2,1.2,1.71,1.71,1.62,1.62
+2021,55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",99,Reserva de Contingência,0.08,0.08,0.08,0,0,0
+2021,59000,Conselho Nacional do Ministério Público,03,Essencial à Justiça,0.09,0.09,0.09,0.09,0.09,0.09
+2021,59000,Conselho Nacional do Ministério Público,09,Previdência Social,0,0,0,0,0,0
+2021,60000,Gabinete da Vice-Presidência da República,04,Administração,0.01,0.01,0.02,0.02,0.01,0.01
+2021,60000,Gabinete da Vice-Presidência da República,09,Previdência Social,0,0,0,0,0,0
+2021,60000,Gabinete da Vice-Presidência da República,28,Encargos Especiais,0,0,0,0,0,0
+2021,63000,Advocacia-Geral da União,03,Essencial à Justiça,0.73,0.72,0.98,0.97,0.84,0.83
+2021,63000,Advocacia-Geral da União,04,Administração,0.59,0.59,2.33,2.33,2.29,2.12
+2021,63000,Advocacia-Geral da União,09,Previdência Social,0.57,0.57,0.81,0.81,0.81,0.75
+2021,63000,Advocacia-Geral da União,28,Encargos Especiais,0,0,0,0,0,0
+2021,71101,Recursos sob Supervisão do Ministério da Fazenda,28,Encargos Especiais,6.31,6.15,20.93,20.63,20.13,20.12
+2021,71101,Recursos sob Supervisão do Ministério da Fazenda,99,Reserva de Contingência,4.74,4.74,0.58,0,0,0
+2021,71103,Encargos Financeiros da União,28,Encargos Especiais,3.94,3.94,22.27,21.34,20.94,20.93
+2021,71104,Remuneração de Agentes Financeiros,28,Encargos Especiais,0.11,0.1,0.65,0.65,0.42,0.42
+2021,71903,Fundo Social,28,Encargos Especiais,8.69,8.69,8.69,0,0,0
+2021,71904,Fundo de Estabilidade do Seguro Rural,04,Administração,0.01,0.01,0.01,0.01,0.01,0.01
+2021,71904,Fundo de Estabilidade do Seguro Rural,28,Encargos Especiais,0.02,0.02,0.03,0.03,0.03,0.03
+2021,71904,Fundo de Estabilidade do Seguro Rural,99,Reserva de Contingência,0.31,0.34,0.34,0,0,0
+2021,71905,Fundo de Garantia à Exportação,28,Encargos Especiais,0.95,0.95,1.28,1.28,0.85,0.85
+2021,71905,Fundo de Garantia à Exportação,99,Reserva de Contingência,2,2,2,0,0,0
+2021,73101,Recursos sob Supervisão do Ministério da Fazenda,04,Administração,0.02,0.02,0.02,0.02,0.02,0.02
+2021,73101,Recursos sob Supervisão do Ministério da Fazenda,09,Previdência Social,2.31,2.31,2.85,2.84,2.84,2.66
+2021,73101,Recursos sob Supervisão do Ministério da Fazenda,28,Encargos Especiais,3.03,5.02,9.08,8.99,8.77,8.6
+2021,73101,Recursos sob Supervisão do Ministério da Fazenda,99,Reserva de Contingência,0,0.01,0,0,0,0
+2021,73107,Recursos sob Supervisão do Ministério da Educação,28,Encargos Especiais,12.55,12.83,14.29,14.29,12.37,12.37
+2021,73108,Transferências Constitucionais,28,Encargos Especiais,216.82,233.46,280.13,279.25,266.16,266.16
+2021,73115,Recursos sob Supervisão do Ministério da Agricultura e Pecuária,28,Encargos Especiais,0.01,0.01,0.03,0,0,0
+2021,73116,"Recursos sob Supervisão da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis",28,Encargos Especiais,30.82,30.82,48.39,48.39,39.57,39.57
+2021,73118,Recursos sob Supervisão da Agência Nacional de Energia Elétrica,28,Encargos Especiais,2.63,2.63,2.63,2.29,2.25,2.25
+2021,73119,Recursos sob Supervisão da Agência Nacional de ​​Mineração,28,Encargos Especiais,4.64,4.75,9.95,9.95,8.74,8.74
+2021,73901,Fundo Constitucional do Distrito Federal,09,Previdência Social,1.55,1.55,1.61,1.61,1.61,1.61
+2021,73901,Fundo Constitucional do Distrito Federal,28,Encargos Especiais,14.3,14.3,14.25,14.25,13.98,13.65
+2021,74101,Recursos sob Supervisão da Secretaria do Tesouro Nacional,08,Assistência Social,0.01,0.01,0.01,0.01,0,0
+2021,74101,Recursos sob Supervisão da Secretaria do Tesouro Nacional,20,Agricultura,4.92,4.83,9.2,8.77,4.78,4.78
+2021,74101,Recursos sob Supervisão da Secretaria do Tesouro Nacional,22,Indústria,0,0,0,0,0,0
+2021,74101,Recursos sob Supervisão da Secretaria do Tesouro Nacional,23,Comércio e Serviços,2.89,2.47,2.74,2.74,1.47,1.47
+2021,74101,Recursos sob Supervisão da Secretaria do Tesouro Nacional,28,Encargos Especiais,0.32,0.32,0.32,0.13,0.03,0.03
+2021,74102,Recursos sob Supervisão do Ministério da Fazenda,28,Encargos Especiais,0.12,0.12,0.12,0.07,0.05,0.05
+2021,74104,Recursos sob Supervisão do Ministério da Agricultura e Pecuária,20,Agricultura,0.63,0.59,0.17,0.05,0.02,0.02
+2021,74201,Recursos sob Supervisão da Superintendência de Seguros Privados/SUSEP,28,Encargos Especiais,0,0,0,0,0,0
+2021,74202,Recursos sob Supervisão da Agência Nacional de Saúde Suplementar/ANS,10,Saúde,0,0,0,0,0,0
+2021,74203,Recursos sob Supervisão do Instituto Nacional de Colonização e Reforma Agrária/INCRA-MDA,21,Organização Agrária,0.02,0.02,0.02,0.02,0,0
+2021,74204,Recursos sob Supervisão da Caixa de Construções de Casas para o Pessoal da Marinha,05,Defesa Nacional,0.17,0.17,0.19,0.19,0.1,0.1
+2021,74205,Recursos sob Supervisão da Caixa de Financiamento Imobiliário da Aeronáutica,05,Defesa Nacional,0,0,0,0,0,0
+2021,74205,Recursos sob Supervisão da Caixa de Financiamento Imobiliário da Aeronáutica,99,Reserva de Contingência,0,0,0,0,0,0
+2021,74901,Recursos sob Supervisão do Fundo de Defesa da Economia Cafeeira/Funcafé,20,Agricultura,5.97,5.97,5.97,5.96,4.5,4.5
+2021,74902,Recursos sob Supervisão do Fundo de Financiamento ao Estudante do Ensino Superior/FIES,12,Educação,9.6,9.56,9.56,6.72,5.34,5.34
+2021,74904,Recursos sob Supervisão do Fundo da Marinha Mercante/FMM,26,Transporte,5.72,5.72,5.72,0.32,0.32,0.32
+2021,74905,Recursos sob Sup. do Fundo p/ Desenv.Tecnol. das Telecomunic./FUNTTEL-M. Comunicações,24,Comunicações,0.37,0.37,0.43,0.37,0.37,0.37
+2021,74906,Recursos sob Supervisão do Fundo de Terras e da Reforma Agrária/Banco da Terra,21,Organização Agrária,0.08,0.08,0.08,0.08,0.08,0.08
+2021,74908,Recursos sob Supervisão do Fundo Geral de Turismo/FUNGETUR,23,Comércio e Serviços,0.06,0.06,0.06,0.06,0,0
+2021,74910,"Recursos sob Sup. do Fundo Nac.de Desenv.Científico e Tecnológico/FNDCT-M.Ciência,Tecnol. e Inov.",19,Ciência e Tecnologia,1.78,1.78,3.67,0.8,0.8,0.8
+2021,74912,Recursos sob Supervisão do Fundo Nacional de Cultura,13,Cultura,0.49,0.49,0.48,0.08,0,0
+2021,74913,Recursos sob Supervisão do Fundo Constitucional de Financiamento do Norte/FNO,28,Encargos Especiais,2.72,2.93,2.93,2.93,2.93,2.93
+2021,74914,Recursos sob Supervisão do Fundo Constitucional de Financiamento do Centro-Oeste/FCO,28,Encargos Especiais,2.72,2.93,2.93,2.93,2.93,2.93
+2021,74915,Recursos sob Supervisão do Fundo Constitucional de Financiamento do Nordeste/FNE,28,Encargos Especiais,8.17,8.78,8.78,8.78,8.78,8.78
+2021,74916,Recursos sob Supervisão do Fundo Nacional sobre Mudança do Clima/FNMC,18,Gestão Ambiental,0.32,0.32,0.32,0.32,0.32,0.32
+2021,74917,Recursos sob Supervisão do Fundo de Desenvolvimento da Amazônia/FDA,28,Encargos Especiais,0.38,0.38,0.38,0.29,0.07,0.07
+2021,74918,Recursos sob Supervisão do Fundo de Desenvolvimento do Nordeste/FDNE,28,Encargos Especiais,0.83,0.83,3.12,3.07,0,0
+2021,74919,Recursos sob Supervisão do Fundo de Desenvolvimento do Centro-Oeste/FDCO,28,Encargos Especiais,0.24,0.24,0.96,0.95,0,0
+2021,75000,Dívida Pública Federal,28,Encargos Especiais,2232.5,2232.5,2232.45,1963.6,1958.22,1958.21
+2021,81000,"Ministério da Mulher, da Família e dos Direitos Humanos",09,Previdência Social,0,0,0,0,0,0
+2021,81000,"Ministério da Mulher, da Família e dos Direitos Humanos",14,Direitos da Cidadania,0.14,0.31,0.44,0.43,0.22,0.21
+2021,81000,"Ministério da Mulher, da Família e dos Direitos Humanos",28,Encargos Especiais,0.01,0.01,0.01,0.01,0,0
+2021,81000,"Ministério da Mulher, da Família e dos Direitos Humanos",99,Reserva de Contingência,0.16,0.16,0.16,0,0,0
+2021,90000,Reserva de Contingência,99,Reserva de Contingência,11.12,2.11,2.11,0,0,0
+2021,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,03,Essencial à Justiça,0.26,0.26,0,0,0,0
+2021,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,04,Administração,11.87,9.54,0,0,0,0
+2021,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,05,Defesa Nacional,48.61,48.61,0,0,0,0
+2021,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,06,Segurança Pública,5.6,5.6,0,0,0,0
+2021,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,07,Relações Exteriores,2.13,2.13,0,0,0,0
+2021,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,08,Assistência Social,0.54,0.54,0,0,0,0
+2021,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,09,Previdência Social,289.06,275.56,0,0,0,0
+2021,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,10,Saúde,0.29,0.29,0,0,0,0
+2021,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,11,Trabalho,0.09,0.09,0,0,0,0
+2021,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,12,Educação,44.49,44.49,0,0,0,0
+2021,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,13,Cultura,0.42,0.42,0,0,0,0
+2021,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,14,Direitos da Cidadania,0.44,0.44,0,0,0,0
+2021,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,15,Urbanismo,0.57,0.57,0,0,0,0
+2021,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,18,Gestão Ambiental,0.82,0.82,0,0,0,0
+2021,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,19,Ciência e Tecnologia,2.27,2.27,0,0,0,0
+2021,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,20,Agricultura,8.78,6.17,0,0,0,0
+2021,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,22,Indústria,0.46,0.46,0,0,0,0
+2021,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,23,Comércio e Serviços,0.28,0.2,0,0,0,0
+2021,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,24,Comunicações,0.92,0.92,0,0,0,0
+2021,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,25,Energia,0.3,0.3,0,0,0,0
+2021,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,26,Transporte,1.27,1.27,0,0,0,0
+2021,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,28,Encargos Especiais,30.87,30.44,0,0,0,0
+2021,93000,Programações Condicionadas à Aprovação Legislativa prevista no inciso III do art. 167 da Constituição,99,Reserva de Contingência,3.37,3.37,0,0,0,0
+2022,01000,Camara dos Deputados,01,Legislativa,4.98,4.98,4.98,4.1,3.87,3.86
+2022,01000,Camara dos Deputados,09,Previdência Social,1.97,1.97,1.97,1.89,1.89,1.89
+2022,01000,Camara dos Deputados,28,Encargos Especiais,0.01,0.01,0.01,0,0,0
+2022,01000,Camara dos Deputados,99,Reserva de Contingência,0.01,0,0.01,0,0,0
+2022,02000,Senado Federal,01,Legislativa,2.81,2.81,2.81,2.42,2.3,2.28
+2022,02000,Senado Federal,09,Previdência Social,2.15,2.15,2.15,2.06,2.06,2.06
+2022,02000,Senado Federal,28,Encargos Especiais,0,0,0,0,0,0
+2022,02000,Senado Federal,99,Reserva de Contingência,0.15,0.14,0.15,0,0,0
+2022,03000,Tribunal de Contas da União,01,Legislativa,1.65,1.65,1.64,1.41,1.35,1.34
+2022,03000,Tribunal de Contas da União,09,Previdência Social,0.82,0.82,0.82,0.82,0.82,0.82
+2022,03000,Tribunal de Contas da União,28,Encargos Especiais,0,0,0,0,0,0
+2022,03000,Tribunal de Contas da União,99,Reserva de Contingência,0.01,0,0.01,0,0,0
+2022,10000,Supremo Tribunal Federal,02,Judiciária,0.59,0.59,0.6,0.55,0.52,0.51
+2022,10000,Supremo Tribunal Federal,09,Previdência Social,0.16,0.16,0.16,0.16,0.16,0.16
+2022,10000,Supremo Tribunal Federal,28,Encargos Especiais,0,0,0,0,0,0
+2022,10000,Supremo Tribunal Federal,99,Reserva de Contingência,0.01,0,0,0,0,0
+2022,11000,Superior Tribunal de Justiça,02,Judiciária,1.4,1.4,1.41,1.24,1.19,1.18
+2022,11000,Superior Tribunal de Justiça,09,Previdência Social,0.41,0.41,0.41,0.41,0.41,0.41
+2022,11000,Superior Tribunal de Justiça,28,Encargos Especiais,0,0,0,0,0,0
+2022,11000,Superior Tribunal de Justiça,99,Reserva de Contingência,0.01,0,0,0,0,0
+2022,12000,Justiça Federal,02,Judiciária,11.94,11.94,11.77,11.46,11.08,11.04
+2022,12000,Justiça Federal,09,Previdência Social,1.95,1.95,2.17,2.16,2.07,2.06
+2022,12000,Justiça Federal,28,Encargos Especiais,0,0,0,0,0,0
+2022,12000,Justiça Federal,99,Reserva de Contingência,0.05,0.04,0,0,0,0
+2022,13000,Justiça Militar da União,02,Judiciária,0.41,0.41,0.42,0.4,0.37,0.37
+2022,13000,Justiça Militar da União,09,Previdência Social,0.23,0.23,0.23,0.22,0.22,0.22
+2022,13000,Justiça Militar da União,28,Encargos Especiais,0,0,0,0,0,0
+2022,13000,Justiça Militar da União,99,Reserva de Contingência,0,0,0,0,0,0
+2022,14000,Justiça Eleitoral,02,Judiciária,8,8,8.07,7.95,7.18,7.15
+2022,14000,Justiça Eleitoral,09,Previdência Social,1.1,1.1,1.11,1.1,1.1,1.1
+2022,14000,Justiça Eleitoral,28,Encargos Especiais,1.06,1.11,1.11,1.11,1.11,1.11
+2022,14000,Justiça Eleitoral,99,Reserva de Contingência,0.09,0.08,0.01,0,0,0
+2022,15000,Justiça do Trabalho,02,Judiciária,17.65,17.65,17.18,16.82,16.6,16.58
+2022,15000,Justiça do Trabalho,09,Previdência Social,5.68,5.68,6.22,6.18,6.17,6.17
+2022,15000,Justiça do Trabalho,28,Encargos Especiais,0.01,0.01,0.02,0.01,0.01,0.01
+2022,15000,Justiça do Trabalho,99,Reserva de Contingência,0.08,0.03,0,0,0,0
+2022,16000,Justiça do Distrito Federal e dos Territórios,02,Judiciária,2.75,2.75,2.76,2.75,2.66,2.66
+2022,16000,Justiça do Distrito Federal e dos Territórios,09,Previdência Social,0.54,0.54,0.56,0.56,0.56,0.56
+2022,16000,Justiça do Distrito Federal e dos Territórios,28,Encargos Especiais,0,0,0,0,0,0
+2022,16000,Justiça do Distrito Federal e dos Territórios,99,Reserva de Contingência,0.02,0.01,0,0,0,0
+2022,17000,Conselho Nacional de Justiça,02,Judiciária,0.23,0.23,0.23,0.22,0.21,0.21
+2022,17000,Conselho Nacional de Justiça,09,Previdência Social,0,0,0,0,0,0
+2022,17000,Conselho Nacional de Justiça,99,Reserva de Contingência,0,0,0,0,0,0
+2022,20000,Presidência da República,04,Administração,0.72,0.7,0.65,0.64,0.55,0.53
+2022,20000,Presidência da República,06,Segurança Pública,0.37,0.37,0.38,0.38,0.38,0.36
+2022,20000,Presidência da República,09,Previdência Social,0.37,0.37,0.37,0.37,0.37,0.35
+2022,20000,Presidência da República,28,Encargos Especiais,0,0,0,0,0,0
+2022,22000,Ministério da Agricultura e Pecuária,09,Previdência Social,2.8,2.8,2.81,2.81,2.81,2.62
+2022,22000,Ministério da Agricultura e Pecuária,18,Gestão Ambiental,0.06,0.06,0.06,0.05,0.04,0.04
+2022,22000,Ministério da Agricultura e Pecuária,20,Agricultura,7.86,8.93,10.61,10.47,7.44,7.02
+2022,22000,Ministério da Agricultura e Pecuária,21,Organização Agrária,1.37,1.52,1.36,1.34,1.18,1.13
+2022,22000,Ministério da Agricultura e Pecuária,28,Encargos Especiais,1.73,1.73,0.31,0.29,0.29,0.28
+2022,22000,Ministério da Agricultura e Pecuária,99,Reserva de Contingência,0.31,0.49,0.49,0,0,0
+2022,24000,"Ministério da Ciência, Tecnologia e Inovação",09,Previdência Social,1.8,1.8,1.78,1.77,1.77,1.66
+2022,24000,"Ministério da Ciência, Tecnologia e Inovação",19,Ciência e Tecnologia,7.92,8.2,6.35,6.3,5.14,5
+2022,24000,"Ministério da Ciência, Tecnologia e Inovação",28,Encargos Especiais,0.06,0.06,0.07,0.07,0.07,0.07
+2022,24000,"Ministério da Ciência, Tecnologia e Inovação",99,Reserva de Contingência,0.15,0.15,0.15,0,0,0
+2022,25000,Ministério da Fazenda,04,Administração,18.39,16.14,18.36,18.1,15.95,15.08
+2022,25000,Ministério da Fazenda,09,Previdência Social,14.84,14.84,12.46,12.43,12.43,11.64
+2022,25000,Ministério da Fazenda,22,Indústria,1.06,0.76,1.05,1.04,0.99,0.96
+2022,25000,Ministério da Fazenda,23,Comércio e Serviços,0.08,0.08,0.06,0.06,0.01,0.01
+2022,25000,Ministério da Fazenda,28,Encargos Especiais,2.25,2.3,2.1,1.63,1.53,1.48
+2022,25000,Ministério da Fazenda,99,Reserva de Contingência,4.75,6.55,6.56,0,0,0
+2022,26000,Ministério da Educação,09,Previdência Social,17.68,17.68,18.24,18.14,18.14,16.93
+2022,26000,Ministério da Educação,12,Educação,114.17,117.02,123.08,122.2,109.63,104.83
+2022,26000,Ministério da Educação,28,Encargos Especiais,0.94,0.94,0.67,0.67,0.66,0.66
+2022,26000,Ministério da Educação,99,Reserva de Contingência,1.91,1.53,0.26,0,0,0
+2022,29000,Defensoria Pública da União,03,Essencial à Justiça,0.55,0.55,0.65,0.64,0.55,0.52
+2022,29000,Defensoria Pública da União,09,Previdência Social,0.02,0.02,0.02,0.02,0.02,0.02
+2022,29000,Defensoria Pública da União,28,Encargos Especiais,0,0,0,0,0,0
+2022,29000,Defensoria Pública da União,99,Reserva de Contingência,0.1,0.04,0,0,0,0
+2022,30000,Ministério da Justiça e Segurança Pública,04,Administração,0.3,0.29,0.26,0.26,0.2,0.19
+2022,30000,Ministério da Justiça e Segurança Pública,06,Segurança Pública,11.86,12.15,12.82,12.63,11.13,10.48
+2022,30000,Ministério da Justiça e Segurança Pública,09,Previdência Social,4.5,4.5,4.58,4.57,4.57,4.29
+2022,30000,Ministério da Justiça e Segurança Pública,14,Direitos da Cidadania,0.62,0.63,0.61,0.59,0.42,0.4
+2022,30000,Ministério da Justiça e Segurança Pública,28,Encargos Especiais,0.18,0.18,0.16,0.16,0.16,0.14
+2022,30000,Ministério da Justiça e Segurança Pública,99,Reserva de Contingência,0.59,0.64,0.64,0,0,0
+2022,30211,Conselho Administrativo de Defesa Econômica,09,Previdência Social,0,0,0,0,0,0
+2022,30211,Conselho Administrativo de Defesa Econômica,14,Direitos da Cidadania,0.06,0.06,0.06,0.06,0.05,0.05
+2022,30211,Conselho Administrativo de Defesa Econômica,28,Encargos Especiais,0,0,0,0,0,0
+2022,32000,Ministério de Minas e Energia,09,Previdência Social,0.1,0.1,0.09,0.09,0.09,0.08
+2022,32000,Ministério de Minas e Energia,18,Gestão Ambiental,0.02,0.02,0.01,0.01,0,0
+2022,32000,Ministério de Minas e Energia,19,Ciência e Tecnologia,0.53,0.53,0.51,0.49,0.49,0.47
+2022,32000,Ministério de Minas e Energia,22,Indústria,0.5,0.49,0.55,0.54,0.52,0.48
+2022,32000,Ministério de Minas e Energia,25,Energia,0.96,0.96,0.75,0.74,0.71,0.69
+2022,32000,Ministério de Minas e Energia,28,Encargos Especiais,0.14,0.13,1.37,1.36,1.35,1.35
+2022,32000,Ministério de Minas e Energia,99,Reserva de Contingência,1.14,1.15,1.15,0,0,0
+2022,32265,"Agência Nacional do Petróleo, Gás Natural e Biocombustíveis",09,Previdência Social,0.02,0.02,0.02,0.02,0.02,0.02
+2022,32265,"Agência Nacional do Petróleo, Gás Natural e Biocombustíveis",25,Energia,0.39,0.39,0.4,0.39,0.36,0.34
+2022,32265,"Agência Nacional do Petróleo, Gás Natural e Biocombustíveis",28,Encargos Especiais,0,0,0,0,0,0
+2022,32265,"Agência Nacional do Petróleo, Gás Natural e Biocombustíveis",99,Reserva de Contingência,1.57,1.59,1.59,0,0,0
+2022,32266,Agência Nacional de Energia Elétrica,09,Previdência Social,0.01,0.01,0.01,0.01,0.01,0.01
+2022,32266,Agência Nacional de Energia Elétrica,25,Energia,0.34,0.33,0.34,0.34,0.3,0.28
+2022,32266,Agência Nacional de Energia Elétrica,28,Encargos Especiais,1.38,1.38,1.63,1.62,1.49,1.49
+2022,32266,Agência Nacional de Energia Elétrica,99,Reserva de Contingência,0.36,0.37,0.37,0,0,0
+2022,32396,Agência Nacional de Mineração,09,Previdência Social,0.07,0.07,0.08,0.08,0.08,0.07
+2022,32396,Agência Nacional de Mineração,22,Indústria,0.31,0.31,0.3,0.28,0.26,0.24
+2022,32396,Agência Nacional de Mineração,28,Encargos Especiais,0,0,0,0,0,0
+2022,32396,Agência Nacional de Mineração,99,Reserva de Contingência,0.75,0.75,0.75,0,0,0
+2022,34000,Ministério Público da União,03,Essencial à Justiça,7.14,7.14,6.97,6.9,6.82,6.81
+2022,34000,Ministério Público da União,09,Previdência Social,0.84,0.84,1.04,1.04,1.04,1.04
+2022,34000,Ministério Público da União,28,Encargos Especiais,0,0,0,0,0,0
+2022,34000,Ministério Público da União,99,Reserva de Contingência,0.04,0.02,0,0,0,0
+2022,35000,Ministério das Relações Exteriores,07,Relações Exteriores,4.34,4.2,4.05,4.04,3.89,3.87
+2022,35000,Ministério das Relações Exteriores,09,Previdência Social,0.4,0.4,0.41,0.41,0.41,0.38
+2022,35000,Ministério das Relações Exteriores,28,Encargos Especiais,0,0,0,0,0,0
+2022,36000,Ministério da Saúde,09,Previdência Social,10.32,10.32,10.37,10.37,10.37,9.62
+2022,36000,Ministério da Saúde,10,Saúde,127,148.07,154.58,154.11,137.07,136.08
+2022,36000,Ministério da Saúde,28,Encargos Especiais,0.74,0.74,0.3,0.3,0.3,0.3
+2022,36000,Ministério da Saúde,99,Reserva de Contingência,8.11,0,0,0,0,0
+2022,36212,Agência Nacional de Vigilância Sanitária,09,Previdência Social,0.17,0.17,0.18,0.18,0.18,0.17
+2022,36212,Agência Nacional de Vigilância Sanitária,10,Saúde,0.65,0.65,0.62,0.57,0.54,0.52
+2022,36212,Agência Nacional de Vigilância Sanitária,28,Encargos Especiais,0,0,0,0,0,0
+2022,36213,Agência Nacional de Saúde Suplementar,09,Previdência Social,0.01,0.01,0.01,0.01,0.01,0.01
+2022,36213,Agência Nacional de Saúde Suplementar,10,Saúde,0.3,0.3,0.29,0.28,0.26,0.25
+2022,36213,Agência Nacional de Saúde Suplementar,28,Encargos Especiais,0.12,0.12,0.01,0.01,0.01,0.01
+2022,36213,Agência Nacional de Saúde Suplementar,99,Reserva de Contingência,0.04,0.04,0.04,0,0,0
+2022,37000,Controladoria-Geral da União,04,Administração,0.94,0.92,0.97,0.97,0.92,0.86
+2022,37000,Controladoria-Geral da União,09,Previdência Social,0.24,0.24,0.25,0.25,0.25,0.24
+2022,37000,Controladoria-Geral da União,28,Encargos Especiais,0,0,0,0,0,0
+2022,39000,Ministério dos Transportes,09,Previdência Social,3.02,3.02,2.9,2.9,2.89,2.7
+2022,39000,Ministério dos Transportes,26,Transporte,7.43,8.61,11.32,11.25,6.14,6.05
+2022,39000,Ministério dos Transportes,28,Encargos Especiais,0.12,0.12,0.05,0.04,0.04,0.04
+2022,39000,Ministério dos Transportes,99,Reserva de Contingência,4.44,4.45,4.45,0,0,0
+2022,39250,Agência Nacional de Transportes Terrestres,09,Previdência Social,0.02,0.02,0.02,0.02,0.02,0.02
+2022,39250,Agência Nacional de Transportes Terrestres,26,Transporte,0.58,0.58,0.58,0.52,0.44,0.42
+2022,39250,Agência Nacional de Transportes Terrestres,28,Encargos Especiais,0.01,0.01,0.01,0,0,0
+2022,39250,Agência Nacional de Transportes Terrestres,99,Reserva de Contingência,0.28,0.3,0.3,0,0,0
+2022,39251,Agência Nacional de Transportes Aquaviários,09,Previdência Social,0.01,0.01,0.01,0.01,0.01,0.01
+2022,39251,Agência Nacional de Transportes Aquaviários,26,Transporte,0.15,0.15,0.16,0.14,0.13,0.13
+2022,39251,Agência Nacional de Transportes Aquaviários,28,Encargos Especiais,0,0,0,0,0,0
+2022,39251,Agência Nacional de Transportes Aquaviários,99,Reserva de Contingência,0.05,0.06,0.06,0,0,0
+2022,39254,Agência Nacional de Aviação Civil,09,Previdência Social,0.03,0.03,0.03,0.03,0.03,0.02
+2022,39254,Agência Nacional de Aviação Civil,26,Transporte,0.51,0.5,0.5,0.49,0.47,0.44
+2022,39254,Agência Nacional de Aviação Civil,28,Encargos Especiais,0,0,0,0,0,0
+2022,39254,Agência Nacional de Aviação Civil,99,Reserva de Contingência,0.17,0.18,0.18,0,0,0
+2022,40000,Ministério do Trabalho e Emprego,04,Administração,0.11,0.15,0.24,0.24,0.13,0.13
+2022,40000,Ministério do Trabalho e Emprego,09,Previdência Social,746.51,774.09,789.74,789.65,787.37,738.78
+2022,40000,Ministério do Trabalho e Emprego,11,Trabalho,90.33,92.61,100.16,97.45,92.78,92.6
+2022,40000,Ministério do Trabalho e Emprego,28,Encargos Especiais,33.6,21.51,31.95,31.77,30.78,30.68
+2022,40000,Ministério do Trabalho e Emprego,99,Reserva de Contingência,0.05,0.16,0.16,0,0,0
+2022,41000,Ministério das Comunicações,04,Administração,0.05,0.05,0.05,0.05,0.05,0.05
+2022,41000,Ministério das Comunicações,09,Previdência Social,0.03,0.03,0,0,0,0
+2022,41000,Ministério das Comunicações,24,Comunicações,1.93,1.9,1.88,1.84,1.31,1.24
+2022,41000,Ministério das Comunicações,28,Encargos Especiais,0.09,0.09,0.13,0.13,0.13,0.13
+2022,41000,Ministério das Comunicações,99,Reserva de Contingência,0.43,0.45,0.45,0,0,0
+2022,41231,Agência Nacional de Telecomunicações,09,Previdência Social,0.02,0.02,0.03,0.03,0.03,0.03
+2022,41231,Agência Nacional de Telecomunicações,24,Comunicações,0.59,0.58,0.58,0.54,0.48,0.46
+2022,41231,Agência Nacional de Telecomunicações,28,Encargos Especiais,0,0,0,0,0,0
+2022,41231,Agência Nacional de Telecomunicações,99,Reserva de Contingência,0.01,0.02,0.02,0,0,0
+2022,44000,Ministério do Meio Ambiente e Mudança do Clima,09,Previdência Social,0.74,0.74,0.75,0.75,0.75,0.69
+2022,44000,Ministério do Meio Ambiente e Mudança do Clima,18,Gestão Ambiental,1.77,1.78,1.85,1.8,1.63,1.56
+2022,44000,Ministério do Meio Ambiente e Mudança do Clima,28,Encargos Especiais,0.29,0.29,0.05,0.05,0.05,0.05
+2022,44000,Ministério do Meio Ambiente e Mudança do Clima,99,Reserva de Contingência,0.33,0.36,0.36,0,0,0
+2022,52000,Ministério da Defesa,05,Defesa Nacional,85.49,84.82,89.84,89.92,81.54,77.89
+2022,52000,Ministério da Defesa,09,Previdência Social,27.49,27.49,28.25,28.16,28.16,26
+2022,52000,Ministério da Defesa,28,Encargos Especiais,3.81,3.81,3.84,2.44,2.42,2.38
+2022,52000,Ministério da Defesa,99,Reserva de Contingência,0.26,0.31,0.31,0,0,0
+2022,53000,Ministério da Integração e do Desenvolvimento Regional,04,Administração,1.08,1.06,1.12,1.1,0.97,0.91
+2022,53000,Ministério da Integração e do Desenvolvimento Regional,06,Segurança Pública,0.56,0.5,1.73,1.48,0.89,0.89
+2022,53000,Ministério da Integração e do Desenvolvimento Regional,09,Previdência Social,0.59,0.59,0.59,0.59,0.59,0.55
+2022,53000,Ministério da Integração e do Desenvolvimento Regional,11,Trabalho,0,0,0,0,0,0
+2022,53000,Ministério da Integração e do Desenvolvimento Regional,15,Urbanismo,1.33,7.15,7.86,7.71,1.48,1.38
+2022,53000,Ministério da Integração e do Desenvolvimento Regional,16,Habitação,0.01,0.03,0.04,0.03,0,0
+2022,53000,Ministério da Integração e do Desenvolvimento Regional,17,Saneamento,0.35,0.33,0.77,0.76,0.32,0.29
+2022,53000,Ministério da Integração e do Desenvolvimento Regional,18,Gestão Ambiental,1.22,0.96,1.62,1.61,0.55,0.53
+2022,53000,Ministério da Integração e do Desenvolvimento Regional,19,Ciência e Tecnologia,0.01,0.01,0,0,0,0
+2022,53000,Ministério da Integração e do Desenvolvimento Regional,20,Agricultura,0.24,0.2,0.2,0.2,0.11,0.11
+2022,53000,Ministério da Integração e do Desenvolvimento Regional,26,Transporte,0,0,0,0,0,0
+2022,53000,Ministério da Integração e do Desenvolvimento Regional,28,Encargos Especiais,1.64,1.58,2.08,2.05,1.69,1.69
+2022,53000,Ministério da Integração e do Desenvolvimento Regional,99,Reserva de Contingência,0.16,0.16,0.16,0,0,0
+2022,53210,Agência Nacional de Águas e Saneamento Básico,09,Previdência Social,0.01,0.01,0.01,0.01,0.01,0.01
+2022,53210,Agência Nacional de Águas e Saneamento Básico,18,Gestão Ambiental,0.48,0.48,0.45,0.43,0.39,0.37
+2022,53210,Agência Nacional de Águas e Saneamento Básico,28,Encargos Especiais,0,0,0,0,0,0
+2022,53210,Agência Nacional de Águas e Saneamento Básico,99,Reserva de Contingência,0.03,0.03,0.03,0,0,0
+2022,54000,Ministério do Turismo,09,Previdência Social,0.25,0.25,0.26,0.26,0.26,0.24
+2022,54000,Ministério do Turismo,13,Cultura,0.98,1.06,1.04,1,0.53,0.49
+2022,54000,Ministério do Turismo,23,Comércio e Serviços,0.32,0.39,0.68,0.67,0.28,0.2
+2022,54000,Ministério do Turismo,28,Encargos Especiais,0.01,0.01,0.01,0.01,0.01,0.01
+2022,54000,Ministério do Turismo,99,Reserva de Contingência,0.75,0.75,0.75,0,0,0
+2022,54207,Agência Nacional do Cinema,09,Previdência Social,0,0,0,0,0,0
+2022,54207,Agência Nacional do Cinema,13,Cultura,0.14,0.14,0.13,0.12,0.12,0.11
+2022,54207,Agência Nacional do Cinema,28,Encargos Especiais,0,0,0,0,0,0
+2022,55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",04,Administração,0.39,0.37,0.39,0.39,0.33,0.32
+2022,55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",08,Assistência Social,109.13,170.2,199.37,198.32,196.86,193.49
+2022,55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",09,Previdência Social,0.01,0.01,0.01,0.01,0.01,0.01
+2022,55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",11,Trabalho,0.01,0.01,0.01,0.01,0.01,0.01
+2022,55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",27,Desporto e Lazer,0.3,0.95,0.86,0.85,0.29,0.29
+2022,55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",28,Encargos Especiais,1.64,1.64,2.33,2.33,2.16,2.16
+2022,55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",99,Reserva de Contingência,0.21,0.25,0.25,0,0,0
+2022,59000,Conselho Nacional do Ministério Público,03,Essencial à Justiça,0.1,0.1,0.1,0.1,0.1,0.1
+2022,59000,Conselho Nacional do Ministério Público,09,Previdência Social,0,0,0,0,0,0
+2022,60000,Gabinete da Vice-Presidência da República,04,Administração,0.02,0.02,0.02,0.02,0.02,0.01
+2022,60000,Gabinete da Vice-Presidência da República,09,Previdência Social,0,0,0,0,0,0
+2022,60000,Gabinete da Vice-Presidência da República,28,Encargos Especiais,0,0,0,0,0,0
+2022,63000,Advocacia-Geral da União,03,Essencial à Justiça,1.04,1.01,0.99,0.98,0.86,0.84
+2022,63000,Advocacia-Geral da União,04,Administração,2.28,2.26,2.29,2.29,2.28,2.1
+2022,63000,Advocacia-Geral da União,09,Previdência Social,0.79,0.79,0.87,0.87,0.87,0.8
+2022,63000,Advocacia-Geral da União,28,Encargos Especiais,0,0,0,0,0,0
+2022,71000,Encargos Financeiros da União,28,Encargos Especiais,0,0,2.5,2.5,2.5,2.5
+2022,71101,Recursos sob Supervisão do Ministério da Fazenda,28,Encargos Especiais,8.58,7.38,38.96,38.4,35.41,35.4
+2022,71101,Recursos sob Supervisão do Ministério da Fazenda,99,Reserva de Contingência,6.15,7,1.4,0,0,0
+2022,71103,Encargos Financeiros da União,28,Encargos Especiais,50.44,27.79,25.45,24.01,23.78,23.78
+2022,71103,Encargos Financeiros da União,99,Reserva de Contingência,0,2.75,0,0,0,0
+2022,71104,Remuneração de Agentes Financeiros,28,Encargos Especiais,0.93,0.47,1.02,0.98,0.79,0.79
+2022,71903,Fundo Social,28,Encargos Especiais,12.59,12.59,12.59,0,0,0
+2022,71903,Fundo Social,99,Reserva de Contingência,0,2.67,2.67,0,0,0
+2022,71904,Fundo de Estabilidade do Seguro Rural,04,Administração,0.01,0,0.01,0.01,0.01,0
+2022,71904,Fundo de Estabilidade do Seguro Rural,28,Encargos Especiais,0.02,0.02,0.02,0.02,0.02,0.02
+2022,71904,Fundo de Estabilidade do Seguro Rural,99,Reserva de Contingência,0.33,0.34,0.34,0,0,0
+2022,71905,Fundo de Garantia à Exportação,28,Encargos Especiais,1.72,1.11,1.15,1.15,0.81,0.81
+2022,71905,Fundo de Garantia à Exportação,99,Reserva de Contingência,12.52,13.13,13.13,0,0,0
+2022,71906,Fundo Especial de Financiamento de Campanhas,28,Encargos Especiais,2.13,4.96,4.96,4.96,4.96,4.96
+2022,73101,Recursos sob Supervisão do Ministério da Fazenda,04,Administração,2.83,2.8,2.96,2.9,2.9,2.71
+2022,73101,Recursos sob Supervisão do Ministério da Fazenda,09,Previdência Social,2.82,2.82,2.87,2.87,2.87,2.72
+2022,73101,Recursos sob Supervisão do Ministério da Fazenda,28,Encargos Especiais,4.18,7.46,7.49,7.49,5.61,5.61
+2022,73107,Recursos sob Supervisão do Ministério da Educação,28,Encargos Especiais,14.94,15.44,16.87,16.87,14.23,14.23
+2022,73108,Transferências Constitucionais,28,Encargos Especiais,285.68,303.38,356.41,348.73,335.62,335.62
+2022,73115,Recursos sob Supervisão do Ministério da Agricultura e Pecuária,28,Encargos Especiais,0.01,0.01,0.01,0.01,0.01,0.01
+2022,73116,"Recursos sob Supervisão da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis",28,Encargos Especiais,43.19,48.52,80.13,75.29,68.31,68.31
+2022,73117,Recursos sob Supervisão do Ministério do Turismo,28,Encargos Especiais,0,0,3.86,3.86,0,0
+2022,73118,Recursos sob Supervisão da Agência Nacional de Energia Elétrica,28,Encargos Especiais,2.69,2.69,2.69,2.59,2.54,2.54
+2022,73119,Recursos sob Supervisão da Agência Nacional de ​​Mineração,28,Encargos Especiais,7.56,7.56,9.21,6.44,5.35,5.35
+2022,73901,Fundo Constitucional do Distrito Federal,09,Previdência Social,1.66,1.66,1.65,1.64,1.64,1.64
+2022,73901,Fundo Constitucional do Distrito Federal,28,Encargos Especiais,14.62,14.62,14.63,14.63,14.4,14.2
+2022,74101,Recursos sob Supervisão da Secretaria do Tesouro Nacional,08,Assistência Social,0.01,0.01,0.01,0.01,0.01,0.01
+2022,74101,Recursos sob Supervisão da Secretaria do Tesouro Nacional,20,Agricultura,9.45,9.45,13.94,13.35,9.63,9.63
+2022,74101,Recursos sob Supervisão da Secretaria do Tesouro Nacional,22,Indústria,0,0,0,0,0,0
+2022,74101,Recursos sob Supervisão da Secretaria do Tesouro Nacional,23,Comércio e Serviços,3.46,3.46,2.96,1.35,1.22,1.22
+2022,74101,Recursos sob Supervisão da Secretaria do Tesouro Nacional,28,Encargos Especiais,0.1,0.1,0.1,0,0,0
+2022,74102,Recursos sob Supervisão do Ministério da Fazenda,28,Encargos Especiais,0.12,0.12,0.14,0.14,0.14,0.14
+2022,74104,Recursos sob Supervisão do Ministério da Agricultura e Pecuária,20,Agricultura,0.63,0.63,0.05,0.02,0.01,0.01
+2022,74201,Recursos sob Supervisão da Superintendência de Seguros Privados/SUSEP,28,Encargos Especiais,0,0,0,0,0,0
+2022,74202,Recursos sob Supervisão da Agência Nacional de Saúde Suplementar/ANS,10,Saúde,0,0,0,0,0,0
+2022,74203,Recursos sob Supervisão do Instituto Nacional de Colonização e Reforma Agrária/INCRA-MDA,21,Organização Agrária,0.06,0.06,0.06,0.06,0.02,0.02
+2022,74204,Recursos sob Supervisão da Caixa de Construções de Casas para o Pessoal da Marinha,05,Defesa Nacional,0.27,0.27,0.27,0.21,0.12,0.12
+2022,74205,Recursos sob Supervisão da Caixa de Financiamento Imobiliário da Aeronáutica,05,Defesa Nacional,0.01,0.01,0.01,0.01,0.01,0.01
+2022,74901,Recursos sob Supervisão do Fundo de Defesa da Economia Cafeeira/Funcafé,20,Agricultura,6.08,6.08,6.08,6.01,5.25,5.25
+2022,74902,Recursos sob Supervisão do Fundo de Financiamento ao Estudante do Ensino Superior/FIES,12,Educação,6.66,6.66,6.66,6.03,4.95,4.95
+2022,74902,Recursos sob Supervisão do Fundo de Financiamento ao Estudante do Ensino Superior/FIES,99,Reserva de Contingência,0.31,0.31,0.31,0,0,0
+2022,74904,Recursos sob Supervisão do Fundo da Marinha Mercante/FMM,26,Transporte,9.89,9.89,9.89,0.69,0.69,0.69
+2022,74905,Recursos sob Sup. do Fundo p/ Desenv.Tecnol. das Telecomunic./FUNTTEL-M. Comunicações,24,Comunicações,0.46,0.46,0.46,0.28,0.28,0.28
+2022,74906,Recursos sob Supervisão do Fundo de Terras e da Reforma Agrária/Banco da Terra,21,Organização Agrária,0.48,0.48,0.48,0.43,0.28,0.27
+2022,74908,Recursos sob Supervisão do Fundo Geral de Turismo/FUNGETUR,23,Comércio e Serviços,0.47,0.47,0.47,0.47,0.08,0.08
+2022,74910,"Recursos sob Sup. do Fundo Nac.de Desenv.Científico e Tecnológico/FNDCT-M.Ciência,Tecnol. e Inov.",19,Ciência e Tecnologia,4.23,4.53,4.53,2.78,2.78,2.78
+2022,74912,Recursos sob Supervisão do Fundo Nacional de Cultura,13,Cultura,0.51,0.51,0.51,0.11,0,0
+2022,74913,Recursos sob Supervisão do Fundo Constitucional de Financiamento do Norte/FNO,28,Encargos Especiais,3.57,3.78,4.87,4.83,4.63,4.63
+2022,74914,Recursos sob Supervisão do Fundo Constitucional de Financiamento do Centro-Oeste/FCO,28,Encargos Especiais,3.57,3.78,4.87,4.83,4.63,4.63
+2022,74915,Recursos sob Supervisão do Fundo Constitucional de Financiamento do Nordeste/FNE,28,Encargos Especiais,10.72,11.35,14.61,14.61,13.89,13.89
+2022,74916,Recursos sob Supervisão do Fundo Nacional sobre Mudança do Clima/FNMC,18,Gestão Ambiental,0.44,0.44,0.44,0.44,0.44,0.44
+2022,74917,Recursos sob Supervisão do Fundo de Desenvolvimento da Amazônia/FDA,28,Encargos Especiais,0.43,0.43,0.46,0.19,0,0
+2022,74918,Recursos sob Supervisão do Fundo de Desenvolvimento do Nordeste/FDNE,28,Encargos Especiais,0.78,0.78,0.93,0.93,0,0
+2022,74919,Recursos sob Supervisão do Fundo de Desenvolvimento do Centro-Oeste/FDCO,19,Ciência e Tecnologia,0,0,0,0,0,0
+2022,74919,Recursos sob Supervisão do Fundo de Desenvolvimento do Centro-Oeste/FDCO,28,Encargos Especiais,0.19,0.19,0.64,0.64,0,0
+2022,74920,Recursos sob Supervisão do Fundo de Universalização dos Serviços de Telecomunicações,24,Comunicações,0.66,0.66,1.17,1.17,1.17,1.17
+2022,75000,Dívida Pública Federal,28,Encargos Especiais,2468.27,2468.27,2468.27,1883.87,1877.61,1877.61
+2022,81000,"Ministério da Mulher, da Família e dos Direitos Humanos",09,Previdência Social,0,0,0,0,0,0
+2022,81000,"Ministério da Mulher, da Família e dos Direitos Humanos",14,Direitos da Cidadania,0.32,0.51,0.44,0.41,0.28,0.27
+2022,81000,"Ministério da Mulher, da Família e dos Direitos Humanos",28,Encargos Especiais,0.04,0.04,0.04,0.03,0,0
+2022,81000,"Ministério da Mulher, da Família e dos Direitos Humanos",99,Reserva de Contingência,0.41,0.41,0.41,0,0,0
+2022,83000,Banco Central do Brasil,04,Administração,2.07,2.04,2.05,2.02,1.99,1.86
+2022,83000,Banco Central do Brasil,09,Previdência Social,1.84,1.84,1.86,1.85,1.85,1.71
+2022,83000,Banco Central do Brasil,28,Encargos Especiais,0.07,0.07,0.02,0.02,0.02,0.02
+2022,90000,Reserva de Contingência,99,Reserva de Contingência,11.41,3.29,3.29,0,0,0
+2023,01000,Camara dos Deputados,01,Legislativa,5.57,5.33,5.33,4.84,0.96,0.94
+2023,01000,Camara dos Deputados,09,Previdência Social,2.17,2.05,2.05,2.05,0.51,0.51
+2023,01000,Camara dos Deputados,28,Encargos Especiais,0.01,0.01,0.01,0,0,0
+2023,01000,Camara dos Deputados,99,Reserva de Contingência,0.03,0.39,0.39,0,0,0
+2023,02000,Senado Federal,01,Legislativa,3.05,3.04,3.19,2.31,0.57,0.55
+2023,02000,Senado Federal,09,Previdência Social,2.1,2.1,2.19,2.07,0.5,0.5
+2023,02000,Senado Federal,28,Encargos Especiais,0,0,0.03,0,0,0
+2023,02000,Senado Federal,99,Reserva de Contingência,0.56,0.57,0.3,0,0,0
+2023,03000,Tribunal de Contas da União,01,Legislativa,1.89,1.71,1.7,1.22,0.32,0.31
+2023,03000,Tribunal de Contas da União,09,Previdência Social,0.82,0.82,0.82,0.81,0.19,0.19
+2023,03000,Tribunal de Contas da União,28,Encargos Especiais,0,0,0.01,0.01,0,0
+2023,03000,Tribunal de Contas da União,99,Reserva de Contingência,0.04,0.21,0.21,0,0,0
+2023,10000,Supremo Tribunal Federal,02,Judiciária,0.66,0.66,0.66,0.55,0.12,0.12
+2023,10000,Supremo Tribunal Federal,09,Previdência Social,0.16,0.16,0.16,0.16,0.04,0.04
+2023,10000,Supremo Tribunal Federal,28,Encargos Especiais,0,0,0,0,0,0
+2023,10000,Supremo Tribunal Federal,99,Reserva de Contingência,0.03,0.03,0.03,0,0,0
+2023,11000,Superior Tribunal de Justiça,02,Judiciária,1.48,1.48,1.48,1.16,0.27,0.26
+2023,11000,Superior Tribunal de Justiça,09,Previdência Social,0.42,0.42,0.41,0.34,0.11,0.11
+2023,11000,Superior Tribunal de Justiça,28,Encargos Especiais,0,0,0.01,0.01,0,0
+2023,11000,Superior Tribunal de Justiça,99,Reserva de Contingência,0.13,0.13,0.13,0,0,0
+2023,12000,Justiça Federal,02,Judiciária,12.79,12.79,12.79,6.69,2.65,2.61
+2023,12000,Justiça Federal,09,Previdência Social,1.99,1.99,1.99,1.19,0.57,0.57
+2023,12000,Justiça Federal,28,Encargos Especiais,0,0,0,0,0,0
+2023,12000,Justiça Federal,99,Reserva de Contingência,0.69,0.69,0.69,0,0,0
+2023,13000,Justiça Militar da União,02,Judiciária,0.45,0.45,0.47,0.37,0.08,0.08
+2023,13000,Justiça Militar da União,09,Previdência Social,0.22,0.22,0.23,0.22,0.05,0.05
+2023,13000,Justiça Militar da União,28,Encargos Especiais,0,0,0,0,0,0
+2023,13000,Justiça Militar da União,99,Reserva de Contingência,0.05,0.05,0.02,0,0,0
+2023,14000,Justiça Eleitoral,02,Judiciária,7.99,7.99,7.98,5.88,1.47,1.46
+2023,14000,Justiça Eleitoral,09,Previdência Social,1.09,1.09,1.09,1.03,0.3,0.3
+2023,14000,Justiça Eleitoral,28,Encargos Especiais,1.19,1.19,1.2,1.2,0.28,0.28
+2023,14000,Justiça Eleitoral,99,Reserva de Contingência,0.41,0.41,0.41,0,0,0
+2023,15000,Justiça do Trabalho,02,Judiciária,18.67,18.67,18.67,15.61,4.02,3.99
+2023,15000,Justiça do Trabalho,09,Previdência Social,5.8,5.8,5.8,5.25,1.59,1.59
+2023,15000,Justiça do Trabalho,28,Encargos Especiais,0.02,0.02,0.02,0.02,0,0
+2023,15000,Justiça do Trabalho,99,Reserva de Contingência,1.56,1.56,1.56,0,0,0
+2023,16000,Justiça do Distrito Federal e dos Territórios,02,Judiciária,2.95,2.94,3.11,2.63,0.65,0.64
+2023,16000,Justiça do Distrito Federal e dos Territórios,09,Previdência Social,0.55,0.55,0.58,0.55,0.15,0.15
+2023,16000,Justiça do Distrito Federal e dos Territórios,28,Encargos Especiais,0,0,0,0,0,0
+2023,16000,Justiça do Distrito Federal e dos Territórios,99,Reserva de Contingência,0.21,0.22,0.01,0,0,0
+2023,17000,Conselho Nacional de Justiça,02,Judiciária,0.25,0.25,0.25,0.18,0.05,0.05
+2023,17000,Conselho Nacional de Justiça,09,Previdência Social,0,0,0,0,0,0
+2023,17000,Conselho Nacional de Justiça,28,Encargos Especiais,0,0,0,0,0,0
+2023,17000,Conselho Nacional de Justiça,99,Reserva de Contingência,0.01,0.01,0.01,0,0,0
+2023,20000,Presidência da República,04,Administração,0.73,0.75,1.28,0.7,0.2,0.16
+2023,20000,Presidência da República,06,Segurança Pública,0.39,0.39,0.39,0.39,0.06,0.06
+2023,20000,Presidência da República,09,Previdência Social,0.37,0.37,0.37,0.37,0.08,0.06
+2023,20000,Presidência da República,28,Encargos Especiais,0,0,0.03,0,0,0
+2023,20000,Presidência da República,99,Reserva de Contingência,0.06,0.06,0.23,0,0,0
+2023,22000,Ministério da Agricultura e Pecuária,09,Previdência Social,2.82,2.82,2.13,2.13,0.33,0.33
+2023,22000,Ministério da Agricultura e Pecuária,18,Gestão Ambiental,0.05,0.07,0,0,0,0
+2023,22000,Ministério da Agricultura e Pecuária,20,Agricultura,7.89,9.84,7.53,4.8,0.93,0.76
+2023,22000,Ministério da Agricultura e Pecuária,21,Organização Agrária,1.2,1.27,0,0,0,0
+2023,22000,Ministério da Agricultura e Pecuária,28,Encargos Especiais,0.17,0.17,0.03,0.01,0,0
+2023,22000,Ministério da Agricultura e Pecuária,99,Reserva de Contingência,1.22,1.16,0.22,0,0,0
+2023,24000,"Ministério da Ciência, Tecnologia e Inovação",09,Previdência Social,1.77,1.77,1.77,1.7,0.28,0.28
+2023,24000,"Ministério da Ciência, Tecnologia e Inovação",19,Ciência e Tecnologia,6.34,7.17,7.17,2.43,0.99,0.61
+2023,24000,"Ministério da Ciência, Tecnologia e Inovação",28,Encargos Especiais,0.02,0.03,0.03,0,0,0
+2023,24000,"Ministério da Ciência, Tecnologia e Inovação",99,Reserva de Contingência,4.35,4.35,4.35,0,0,0
+2023,25000,Ministério da Fazenda,04,Administração,15.44,16.79,11.56,7.22,1.7,1.38
+2023,25000,Ministério da Fazenda,09,Previdência Social,12.47,12.47,8.12,7.37,1.31,1.25
+2023,25000,Ministério da Fazenda,22,Indústria,0.92,1.17,0,0,0,0
+2023,25000,Ministério da Fazenda,23,Comércio e Serviços,0.04,0.08,0,0,0,0
+2023,25000,Ministério da Fazenda,28,Encargos Especiais,2.59,2.6,1.88,0.07,0.04,0.04
+2023,25000,Ministério da Fazenda,99,Reserva de Contingência,5.57,5.57,4.1,0,0,0
+2023,26000,Ministério da Educação,09,Previdência Social,18.12,18.12,18.12,15.26,3.21,2.88
+2023,26000,Ministério da Educação,12,Educação,124.63,136.8,136.8,94.64,16.86,15.72
+2023,26000,Ministério da Educação,28,Encargos Especiais,0.06,0.06,0.06,0.02,0.01,0.01
+2023,26000,Ministério da Educação,99,Reserva de Contingência,4.6,3.99,3.99,0,0,0
+2023,28000,"Ministério do Desenvolvimento, Indústria, Comércio e Serviços",04,Administração,0,0,0.01,0,0,0
+2023,28000,"Ministério do Desenvolvimento, Indústria, Comércio e Serviços",09,Previdência Social,0,0,0.25,0.1,0.03,0.03
+2023,28000,"Ministério do Desenvolvimento, Indústria, Comércio e Serviços",22,Indústria,0,0,1.17,0.36,0.17,0.17
+2023,28000,"Ministério do Desenvolvimento, Indústria, Comércio e Serviços",23,Comércio e Serviços,0,0,0.08,0,0,0
+2023,28000,"Ministério do Desenvolvimento, Indústria, Comércio e Serviços",28,Encargos Especiais,0,0,0,0,0,0
+2023,28000,"Ministério do Desenvolvimento, Indústria, Comércio e Serviços",99,Reserva de Contingência,0,0,1.08,0,0,0
+2023,29000,Defensoria Pública da União,03,Essencial à Justiça,0.64,0.64,0.73,0.62,0.1,0.1
+2023,29000,Defensoria Pública da União,09,Previdência Social,0.02,0.02,0.02,0.02,0,0
+2023,29000,Defensoria Pública da União,28,Encargos Especiais,0,0,0,0,0,0
+2023,29000,Defensoria Pública da União,99,Reserva de Contingência,0.09,0.09,0,0,0,0
+2023,30000,Ministério da Justiça e Segurança Pública,04,Administração,0.28,0.28,0.23,0.04,0.01,0.01
+2023,30000,Ministério da Justiça e Segurança Pública,06,Segurança Pública,12.52,13.77,13.78,7.22,1.61,1.53
+2023,30000,Ministério da Justiça e Segurança Pública,09,Previdência Social,4.58,4.58,4.36,4.35,0.68,0.68
+2023,30000,Ministério da Justiça e Segurança Pública,14,Direitos da Cidadania,0.63,0.73,0.28,0.04,0.02,0.02
+2023,30000,Ministério da Justiça e Segurança Pública,28,Encargos Especiais,0.17,0.17,0.17,0.15,0.02,0.02
+2023,30000,Ministério da Justiça e Segurança Pública,99,Reserva de Contingência,0.67,0.67,0.67,0,0,0
+2023,32000,Ministério de Minas e Energia,09,Previdência Social,0.19,0.19,0.19,0.19,0.04,0.03
+2023,32000,Ministério de Minas e Energia,18,Gestão Ambiental,0.02,0.02,0.02,0,0,0
+2023,32000,Ministério de Minas e Energia,19,Ciência e Tecnologia,0.27,0.27,0.27,0.26,0.05,0.05
+2023,32000,Ministério de Minas e Energia,22,Indústria,0.94,0.94,0.94,0.35,0.13,0.12
+2023,32000,Ministério de Minas e Energia,25,Energia,1.42,1.42,1.42,0.75,0.15,0.14
+2023,32000,Ministério de Minas e Energia,28,Encargos Especiais,1.88,1.88,1.88,1.76,0.29,0.29
+2023,32000,Ministério de Minas e Energia,99,Reserva de Contingência,4.36,4.36,4.36,0,0,0
+2023,33000,Ministério da Previdência Social,09,Previdência Social,0,0,854.14,380.54,139.03,135.48
+2023,33000,Ministério da Previdência Social,28,Encargos Especiais,0,0,29.03,4.47,2.59,2.58
+2023,33000,Ministério da Previdência Social,99,Reserva de Contingência,0,0,0.04,0,0,0
+2023,34000,Ministério Público da União,03,Essencial à Justiça,7.72,7.64,7.63,4.55,1.65,1.64
+2023,34000,Ministério Público da União,09,Previdência Social,0.87,0.87,0.87,0.64,0.24,0.24
+2023,34000,Ministério Público da União,28,Encargos Especiais,0,0,0.01,0,0,0
+2023,34000,Ministério Público da União,99,Reserva de Contingência,0.28,0.38,0.38,0,0,0
+2023,35000,Ministério das Relações Exteriores,07,Relações Exteriores,4.43,4.38,4.38,0.79,0.65,0.64
+2023,35000,Ministério das Relações Exteriores,09,Previdência Social,0.41,0.41,0.41,0.13,0.06,0.06
+2023,35000,Ministério das Relações Exteriores,28,Encargos Especiais,0,0,0,0,0,0
+2023,36000,Ministério da Saúde,09,Previdência Social,10.58,10.58,9.07,9.15,2.31,1.65
+2023,36000,Ministério da Saúde,10,Saúde,131.64,172.67,171.68,44.09,26.65,25.37
+2023,36000,Ministério da Saúde,28,Encargos Especiais,0.46,0.47,0.48,0.01,0.01,0
+2023,36000,Ministério da Saúde,99,Reserva de Contingência,20.19,0.07,0.07,0,0,0
+2023,37000,Controladoria-Geral da União,04,Administração,1.04,1.04,1.04,0.91,0.15,0.15
+2023,37000,Controladoria-Geral da União,09,Previdência Social,0.25,0.25,0.25,0.25,0.04,0.04
+2023,37000,Controladoria-Geral da União,28,Encargos Especiais,0,0,0,0,0,0
+2023,39000,Ministério dos Transportes,09,Previdência Social,3,3,2.96,2.79,0.45,0.44
+2023,39000,Ministério dos Transportes,26,Transporte,8.43,21.03,19.89,4.64,0.42,0.37
+2023,39000,Ministério dos Transportes,28,Encargos Especiais,0.02,0.02,0.02,0.01,0,0
+2023,39000,Ministério dos Transportes,99,Reserva de Contingência,5.82,5.34,1.6,0,0,0
+2023,40000,Ministério do Trabalho e Emprego,04,Administração,0.14,0.13,0.13,0.04,0.01,0.01
+2023,40000,Ministério do Trabalho e Emprego,09,Previdência Social,848.46,853.26,0.71,0.68,0.43,0.43
+2023,40000,Ministério do Trabalho e Emprego,11,Trabalho,94.71,96.02,94.5,22.2,21.53,21.53
+2023,40000,Ministério do Trabalho e Emprego,28,Encargos Especiais,30.05,30.05,1.02,0.26,0.16,0.12
+2023,40000,Ministério do Trabalho e Emprego,99,Reserva de Contingência,0.04,0.04,0,0,0,0
+2023,41000,Ministério das Comunicações,04,Administração,0.05,0.05,0,0,0,0
+2023,41000,Ministério das Comunicações,09,Previdência Social,0.03,0.03,0.03,0.01,0,0
+2023,41000,Ministério das Comunicações,24,Comunicações,2.16,2.36,1.86,0.4,0.14,0.12
+2023,41000,Ministério das Comunicações,28,Encargos Especiais,0.12,0.12,0.1,0.06,0.02,0.02
+2023,41000,Ministério das Comunicações,99,Reserva de Contingência,0.63,0.43,0.27,0,0,0
+2023,42000,Ministério da Cultura,09,Previdência Social,0,0,0.26,0.2,0.05,0.04
+2023,42000,Ministério da Cultura,13,Cultura,0,0,6.02,0.47,0.11,0.09
+2023,42000,Ministério da Cultura,28,Encargos Especiais,0,0,0,0,0,0
+2023,42000,Ministério da Cultura,99,Reserva de Contingência,0,0,0.42,0,0,0
+2023,44000,Ministério do Meio Ambiente e Mudança do Clima,09,Previdência Social,0.75,0.75,0.75,0.68,0.18,0.12
+2023,44000,Ministério do Meio Ambiente e Mudança do Clima,18,Gestão Ambiental,1.85,2.44,3,1.15,0.35,0.25
+2023,44000,Ministério do Meio Ambiente e Mudança do Clima,28,Encargos Especiais,0,0,0,0,0,0
+2023,44000,Ministério do Meio Ambiente e Mudança do Clima,99,Reserva de Contingência,0.37,0.37,0.38,0,0,0
+2023,46000,Ministério da Gestão e da Inovação em Serviços Públicos,04,Administração,0,0,3.73,1.52,0.37,0.35
+2023,46000,Ministério da Gestão e da Inovação em Serviços Públicos,09,Previdência Social,0,0,2.66,1.1,0.43,0.42
+2023,46000,Ministério da Gestão e da Inovação em Serviços Públicos,28,Encargos Especiais,0,0,0.71,0.25,0.1,0.1
+2023,46000,Ministério da Gestão e da Inovação em Serviços Públicos,99,Reserva de Contingência,0,0,0.39,0,0,0
+2023,47000,Ministério do Planejamento e Orçamento,04,Administração,0,0,1.87,0.56,0.35,0.29
+2023,47000,Ministério do Planejamento e Orçamento,09,Previdência Social,0,0,1.46,0.51,0.32,0.23
+2023,47000,Ministério do Planejamento e Orçamento,28,Encargos Especiais,0,0,0.01,0,0,0
+2023,49000,Ministério do Desenvolvimento Agrário e Agricultura Familiar,09,Previdência Social,0,0,0.69,0.69,0.11,0.11
+2023,49000,Ministério do Desenvolvimento Agrário e Agricultura Familiar,20,Agricultura,0,0,0.79,0.06,0.05,0.05
+2023,49000,Ministério do Desenvolvimento Agrário e Agricultura Familiar,21,Organização Agrária,0,0,2.49,0.77,0.23,0.23
+2023,49000,Ministério do Desenvolvimento Agrário e Agricultura Familiar,28,Encargos Especiais,0,0,0.15,0.11,0.04,0.04
+2023,49000,Ministério do Desenvolvimento Agrário e Agricultura Familiar,99,Reserva de Contingência,0,0,0.92,0,0,0
+2023,51000,Ministério do Esporte,27,Desporto e Lazer,0,0,0.92,0,0,0
+2023,51000,Ministério do Esporte,28,Encargos Especiais,0,0,0,0,0,0
+2023,51000,Ministério do Esporte,99,Reserva de Contingência,0,0,0.38,0,0,0
+2023,52000,Ministério da Defesa,05,Defesa Nacional,87.69,89.27,89.27,58.58,13.53,11.31
+2023,52000,Ministério da Defesa,09,Previdência Social,28.42,28.42,28.42,23.83,5.37,4.41
+2023,52000,Ministério da Defesa,28,Encargos Especiais,3.72,3.72,3.72,0.36,0.13,0.1
+2023,52000,Ministério da Defesa,99,Reserva de Contingência,1.22,1.22,1.22,0,0,0
+2023,53000,Ministério da Integração e do Desenvolvimento Regional,04,Administração,1.1,1.1,1.06,0.68,0.15,0.15
+2023,53000,Ministério da Integração e do Desenvolvimento Regional,06,Segurança Pública,0.63,0.77,0.59,0.24,0.11,0.09
+2023,53000,Ministério da Integração e do Desenvolvimento Regional,09,Previdência Social,0.59,0.59,0.59,0.14,0.09,0.09
+2023,53000,Ministério da Integração e do Desenvolvimento Regional,11,Trabalho,0,0,0,0,0,0
+2023,53000,Ministério da Integração e do Desenvolvimento Regional,15,Urbanismo,1.27,8.73,0.02,0.07,0.04,0.04
+2023,53000,Ministério da Integração e do Desenvolvimento Regional,16,Habitação,0,0.27,0,0,0,0
+2023,53000,Ministério da Integração e do Desenvolvimento Regional,17,Saneamento,0.02,1.14,0,0,0,0
+2023,53000,Ministério da Integração e do Desenvolvimento Regional,18,Gestão Ambiental,1.18,3.1,2.61,0.34,0.01,0
+2023,53000,Ministério da Integração e do Desenvolvimento Regional,19,Ciência e Tecnologia,0,0.06,0.06,0,0,0
+2023,53000,Ministério da Integração e do Desenvolvimento Regional,20,Agricultura,0.17,6.22,6.22,0.08,0.03,0.02
+2023,53000,Ministério da Integração e do Desenvolvimento Regional,26,Transporte,0,0,0,0,0,0
+2023,53000,Ministério da Integração e do Desenvolvimento Regional,28,Encargos Especiais,0.66,10.31,0.01,0.07,0.06,0.06
+2023,53000,Ministério da Integração e do Desenvolvimento Regional,99,Reserva de Contingência,1.57,0.08,0.07,0,0,0
+2023,54000,Ministério do Turismo,09,Previdência Social,0.26,0.26,0,0,0,0
+2023,54000,Ministério do Turismo,13,Cultura,0.97,5.72,0,0,0,0
+2023,54000,Ministério do Turismo,23,Comércio e Serviços,0.23,0.89,0.59,0.01,0,0
+2023,54000,Ministério do Turismo,28,Encargos Especiais,0,0,0,0,0,0
+2023,54000,Ministério do Turismo,99,Reserva de Contingência,0.82,0.42,0,0,0,0
+2023,55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",04,Administração,0.4,0.46,0.48,0.18,0.05,0.04
+2023,55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",08,Assistência Social,193.75,272.49,272.45,137.62,57.67,56.73
+2023,55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",09,Previdência Social,0.01,0.01,0.01,0,0,0
+2023,55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",11,Trabalho,0,0.07,0,0,0,0
+2023,55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",27,Desporto e Lazer,0.19,0.92,0,0,0,0
+2023,55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",28,Encargos Especiais,2.51,2.51,2.51,0.31,0.31,0.31
+2023,55000,"Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome",99,Reserva de Contingência,1.9,0.57,0.19,0,0,0
+2023,56000,Ministério das Cidades,04,Administração,0,0,0.04,0,0,0
+2023,56000,Ministério das Cidades,06,Segurança Pública,0,0,0.18,0,0,0
+2023,56000,Ministério das Cidades,09,Previdência Social,0,0,1.51,0.12,0.11,0
+2023,56000,Ministério das Cidades,10,Saúde,0,0,0.75,0,0,0
+2023,56000,Ministério das Cidades,15,Urbanismo,0,0,8.94,0.22,0.11,0.09
+2023,56000,Ministério das Cidades,16,Habitação,0,0,0.27,0,0,0
+2023,56000,Ministério das Cidades,17,Saneamento,0,0,1.14,0,0,0
+2023,56000,Ministério das Cidades,28,Encargos Especiais,0,0,10.3,0.34,0.06,0.03
+2023,56000,Ministério das Cidades,99,Reserva de Contingência,0,0,0.01,0,0,0
+2023,58000,Ministério da Pesca e Aquicultura,20,Agricultura,0,0,0.3,0.01,0,0
+2023,59000,Conselho Nacional do Ministério Público,03,Essencial à Justiça,0.1,0.1,0.1,0.09,0.02,0.02
+2023,59000,Conselho Nacional do Ministério Público,09,Previdência Social,0,0,0,0,0,0
+2023,59000,Conselho Nacional do Ministério Público,99,Reserva de Contingência,0.01,0.01,0.01,0,0,0
+2023,60000,Gabinete da Vice-Presidência da República,04,Administração,0.02,0.02,0.02,0.01,0,0
+2023,60000,Gabinete da Vice-Presidência da República,09,Previdência Social,0,0,0,0,0,0
+2023,60000,Gabinete da Vice-Presidência da República,28,Encargos Especiais,0,0,0,0,0,0
+2023,63000,Advocacia-Geral da União,03,Essencial à Justiça,1.07,1.05,1.05,0.63,0.12,0.11
+2023,63000,Advocacia-Geral da União,04,Administração,2.29,2.29,2.29,2.29,0.54,0.37
+2023,63000,Advocacia-Geral da União,09,Previdência Social,0.86,0.86,0.86,0.86,0.2,0.14
+2023,63000,Advocacia-Geral da União,28,Encargos Especiais,0,0,0,0,0,0
+2023,65000,Ministério das Mulheres,14,Direitos da Cidadania,0,0,0.13,0,0,0
+2023,67000,Ministério da Igualdade Racial,14,Direitos da Cidadania,0,0,0.09,0,0,0
+2023,68000,Ministério de Portos e Aeroportos,09,Previdência Social,0,0,0.04,0.03,0.01,0.01
+2023,68000,Ministério de Portos e Aeroportos,26,Transporte,0,0,1.13,0.45,0.09,0.09
+2023,68000,Ministério de Portos e Aeroportos,28,Encargos Especiais,0,0,0,0,0,0
+2023,68000,Ministério de Portos e Aeroportos,99,Reserva de Contingência,0,0,3.74,0,0,0
+2023,71000,Encargos Financeiros da União,04,Administração,0.42,0.42,0.42,0,0,0
+2023,71000,Encargos Financeiros da União,28,Encargos Especiais,55.61,57.91,57.63,4.06,1.9,1.9
+2023,71000,Encargos Financeiros da União,99,Reserva de Contingência,27.28,26.97,26.97,0,0,0
+2023,73000,"Transferências a Estados, Distrito Federal e Municípios",04,Administração,3,3,3,0.87,0.53,0.45
+2023,73000,"Transferências a Estados, Distrito Federal e Municípios",09,Previdência Social,4.74,4.74,4.74,1.2,0.7,0.7
+2023,73000,"Transferências a Estados, Distrito Federal e Municípios",28,Encargos Especiais,470.14,476.89,476.89,395.53,85.79,85.78
+2023,73000,"Transferências a Estados, Distrito Federal e Municípios",99,Reserva de Contingência,0.3,0,0,0,0,0
+2023,74000,Operações Oficiais de Crédito,05,Defesa Nacional,0.23,0.23,0.23,0.23,0.02,0.02
+2023,74000,Operações Oficiais de Crédito,08,Assistência Social,0.01,0.01,0.01,0.01,0,0
+2023,74000,Operações Oficiais de Crédito,10,Saúde,0,0,0,0,0,0
+2023,74000,Operações Oficiais de Crédito,12,Educação,5.94,5.94,5.94,5.02,1.02,1.02
+2023,74000,Operações Oficiais de Crédito,13,Cultura,0.16,0.16,0.16,0,0,0
+2023,74000,Operações Oficiais de Crédito,18,Gestão Ambiental,0.63,0.63,0.63,0,0,0
+2023,74000,Operações Oficiais de Crédito,19,Ciência e Tecnologia,2.89,2.89,2.89,0,0,0
+2023,74000,Operações Oficiais de Crédito,20,Agricultura,20.85,20.85,20.84,11.96,1.39,1.39
+2023,74000,Operações Oficiais de Crédito,21,Organização Agrária,0.44,0.44,0.45,0,0,0
+2023,74000,Operações Oficiais de Crédito,23,Comércio e Serviços,3.73,3.73,3.73,3.16,0.28,0.28
+2023,74000,Operações Oficiais de Crédito,24,Comunicações,1.16,1.16,1.16,0,0,0
+2023,74000,Operações Oficiais de Crédito,26,Transporte,5.23,5.23,5.23,0.01,0.01,0.01
+2023,74000,Operações Oficiais de Crédito,28,Encargos Especiais,24.55,24.55,24.55,22.23,2.03,2.03
+2023,74000,Operações Oficiais de Crédito,99,Reserva de Contingência,1.09,1.09,1.09,0,0,0
+2023,75000,Dívida Pública Federal,28,Encargos Especiais,2556.22,2556.22,2556.22,791.27,704.73,704.73
+2023,81000,Ministério dos Direitos Humanos e da Cidadania,09,Previdência Social,0,0,0,0,0,0
+2023,81000,Ministério dos Direitos Humanos e da Cidadania,14,Direitos da Cidadania,0.32,0.78,0.55,0.09,0.02,0.02
+2023,81000,Ministério dos Direitos Humanos e da Cidadania,28,Encargos Especiais,0,0,0,0,0,0
+2023,81000,Ministério dos Direitos Humanos e da Cidadania,99,Reserva de Contingência,0,0,0,0,0,0
+2023,83000,Banco Central do Brasil,04,Administração,2.06,2.06,2.04,0.4,0.3,0.3
+2023,83000,Banco Central do Brasil,09,Previdência Social,1.86,1.86,1.86,0.48,0.29,0.29
+2023,83000,Banco Central do Brasil,28,Encargos Especiais,0,0,0,0,0,0
+2023,84000,Ministério dos Povos Indígenas,09,Previdência Social,0,0,0.2,0.2,0.05,0.03
+2023,84000,Ministério dos Povos Indígenas,14,Direitos da Cidadania,0,0,0.45,0.22,0.06,0.04
+2023,84000,Ministério dos Povos Indígenas,28,Encargos Especiais,0,0,0,0,0,0
+2023,90000,Reserva de Contingência,99,Reserva de Contingência,17.83,8.13,8.13,0,0,0
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Status da Seleção:,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Ano: 2018, 2019, 2020, 2021, 2022, 2023",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

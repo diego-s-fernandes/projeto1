@@ -1,0 +1,13 @@
+name: projeto1
+title: projeto1
+username:
+account: diego-fernandes
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8873410
+bundleId: 7099749
+url: https://diego-fernandes.shinyapps.io/projeto1/
+when: 1681741713.7823
+lastSyncTime: 1681741713.78231
+asMultiple: FALSE
+asStatic: FALSE

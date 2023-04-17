@@ -1,0 +1,1045 @@
+funcao,ano,dotacoes,valores
+Administração,2018,projeto_de_lei,31.970000000000002
+Administração,2018,dotacao_inicial,31.57
+Administração,2018,dotacao_atual,33.17
+Administração,2018,empenhado,31.130000000000003
+Administração,2018,liquidado,28.61
+Administração,2018,pago,27.16
+Administração,2019,projeto_de_lei,27.580000000000002
+Administração,2019,dotacao_inicial,30.560000000000002
+Administração,2019,dotacao_atual,28.3
+Administração,2019,empenhado,27.15
+Administração,2019,liquidado,25.24
+Administração,2019,pago,23.84
+Administração,2020,projeto_de_lei,28.98
+Administração,2020,dotacao_inicial,27.62
+Administração,2020,dotacao_atual,28.669999999999998
+Administração,2020,empenhado,26.799999999999997
+Administração,2020,liquidado,24.96
+Administração,2020,pago,23.73
+Administração,2021,projeto_de_lei,29.11
+Administração,2021,dotacao_inicial,26.48
+Administração,2021,dotacao_atual,29.17
+Administração,2021,empenhado,27.43
+Administração,2021,liquidado,25.27
+Administração,2021,pago,24.01
+Administração,2022,projeto_de_lei,29.19
+Administração,2022,dotacao_inicial,26.8
+Administração,2022,dotacao_atual,29.37
+Administração,2022,empenhado,28.990000000000002
+Administração,2022,liquidado,26.3
+Administração,2022,pago,24.75
+Administração,2023,projeto_de_lei,26.97
+Administração,2023,dotacao_inicial,28.39
+Administração,2023,dotacao_atual,29.2
+Administração,2023,empenhado,15.42
+Administração,2023,liquidado,4.36
+Administração,2023,pago,3.6599999999999997
+Agricultura,2018,projeto_de_lei,29.740000000000002
+Agricultura,2018,dotacao_inicial,29.12
+Agricultura,2018,dotacao_atual,26.21
+Agricultura,2018,empenhado,22.83
+Agricultura,2018,liquidado,16.24
+Agricultura,2018,pago,15.87
+Agricultura,2019,projeto_de_lei,26.54
+Agricultura,2019,dotacao_inicial,26.91
+Agricultura,2019,dotacao_atual,25.09
+Agricultura,2019,empenhado,21.919999999999998
+Agricultura,2019,liquidado,15.360000000000001
+Agricultura,2019,pago,14.73
+Agricultura,2020,projeto_de_lei,24.580000000000002
+Agricultura,2020,dotacao_inicial,25.67
+Agricultura,2020,dotacao_atual,23.12
+Agricultura,2020,empenhado,20.21
+Agricultura,2020,liquidado,13.389999999999999
+Agricultura,2020,pago,13.049999999999999
+Agricultura,2021,projeto_de_lei,24.02
+Agricultura,2021,dotacao_inicial,23.189999999999998
+Agricultura,2021,dotacao_atual,27.06
+Agricultura,2021,empenhado,25.26
+Agricultura,2021,liquidado,17.04
+Agricultura,2021,pago,16.68
+Agricultura,2022,projeto_de_lei,24.259999999999998
+Agricultura,2022,dotacao_inicial,25.29
+Agricultura,2022,dotacao_atual,30.88
+Agricultura,2022,empenhado,30.05
+Agricultura,2022,liquidado,22.44
+Agricultura,2022,pago,22.02
+Agricultura,2023,projeto_de_lei,28.91
+Agricultura,2023,dotacao_inicial,36.910000000000004
+Agricultura,2023,dotacao_atual,35.68
+Agricultura,2023,empenhado,16.91
+Agricultura,2023,liquidado,2.4
+Agricultura,2023,pago,2.2199999999999998
+Assistência Social,2018,projeto_de_lei,86.44000000000001
+Assistência Social,2018,dotacao_inicial,86.97
+Assistência Social,2018,dotacao_atual,88.74000000000001
+Assistência Social,2018,empenhado,88.68
+Assistência Social,2018,liquidado,87.99
+Assistência Social,2018,pago,85.89
+Assistência Social,2019,projeto_de_lei,92.12
+Assistência Social,2019,dotacao_inicial,92.42
+Assistência Social,2019,dotacao_atual,96.14999999999999
+Assistência Social,2019,empenhado,95.97999999999999
+Assistência Social,2019,liquidado,94.93
+Assistência Social,2019,pago,92.85000000000001
+Assistência Social,2020,projeto_de_lei,92.44999999999999
+Assistência Social,2020,dotacao_inicial,93.37
+Assistência Social,2020,dotacao_atual,463.15999999999997
+Assistência Social,2020,empenhado,423.58
+Assistência Social,2020,liquidado,412.35
+Assistência Social,2020,pago,409.94
+Assistência Social,2021,projeto_de_lei,101.92999999999999
+Assistência Social,2021,dotacao_inicial,102.95
+Assistência Social,2021,dotacao_atual,174.34
+Assistência Social,2021,empenhado,168.63
+Assistência Social,2021,liquidado,161.12
+Assistência Social,2021,pago,158.60000000000002
+Assistência Social,2022,projeto_de_lei,109.14
+Assistência Social,2022,dotacao_inicial,170.20999999999998
+Assistência Social,2022,dotacao_atual,199.38
+Assistência Social,2022,empenhado,198.32999999999998
+Assistência Social,2022,liquidado,196.87
+Assistência Social,2022,pago,193.5
+Assistência Social,2023,projeto_de_lei,193.76
+Assistência Social,2023,dotacao_inicial,272.5
+Assistência Social,2023,dotacao_atual,272.46
+Assistência Social,2023,empenhado,137.63
+Assistência Social,2023,liquidado,57.67
+Assistência Social,2023,pago,56.73
+Ciência e Tecnologia,2018,projeto_de_lei,7.46
+Ciência e Tecnologia,2018,dotacao_inicial,7.819999999999999
+Ciência e Tecnologia,2018,dotacao_atual,7.659999999999999
+Ciência e Tecnologia,2018,empenhado,7.48
+Ciência e Tecnologia,2018,liquidado,6.540000000000001
+Ciência e Tecnologia,2018,pago,6.35
+Ciência e Tecnologia,2019,projeto_de_lei,7.04
+Ciência e Tecnologia,2019,dotacao_inicial,7.699999999999999
+Ciência e Tecnologia,2019,dotacao_atual,7.4
+Ciência e Tecnologia,2019,empenhado,7.239999999999999
+Ciência e Tecnologia,2019,liquidado,6.56
+Ciência e Tecnologia,2019,pago,6.36
+Ciência e Tecnologia,2020,projeto_de_lei,6.869999999999999
+Ciência e Tecnologia,2020,dotacao_inicial,6.92
+Ciência e Tecnologia,2020,dotacao_atual,7.43
+Ciência e Tecnologia,2020,empenhado,7.319999999999999
+Ciência e Tecnologia,2020,liquidado,6.39
+Ciência e Tecnologia,2020,pago,6.21
+Ciência e Tecnologia,2021,projeto_de_lei,6.23
+Ciência e Tecnologia,2021,dotacao_inicial,6.29
+Ciência e Tecnologia,2021,dotacao_atual,8.879999999999999
+Ciência e Tecnologia,2021,empenhado,5.949999999999999
+Ciência e Tecnologia,2021,liquidado,5.04
+Ciência e Tecnologia,2021,pago,4.64
+Ciência e Tecnologia,2022,projeto_de_lei,12.69
+Ciência e Tecnologia,2022,dotacao_inicial,13.27
+Ciência e Tecnologia,2022,dotacao_atual,11.39
+Ciência e Tecnologia,2022,empenhado,9.57
+Ciência e Tecnologia,2022,liquidado,8.41
+Ciência e Tecnologia,2022,pago,8.25
+Ciência e Tecnologia,2023,projeto_de_lei,9.5
+Ciência e Tecnologia,2023,dotacao_inicial,10.39
+Ciência e Tecnologia,2023,dotacao_atual,10.39
+Ciência e Tecnologia,2023,empenhado,2.6900000000000004
+Ciência e Tecnologia,2023,liquidado,1.04
+Ciência e Tecnologia,2023,pago,0.66
+Comércio e Serviços,2018,projeto_de_lei,4.51
+Comércio e Serviços,2018,dotacao_inicial,4.85
+Comércio e Serviços,2018,dotacao_atual,4.6499999999999995
+Comércio e Serviços,2018,empenhado,4.62
+Comércio e Serviços,2018,liquidado,2.66
+Comércio e Serviços,2018,pago,2.6500000000000004
+Comércio e Serviços,2019,projeto_de_lei,4.51
+Comércio e Serviços,2019,dotacao_inicial,4.88
+Comércio e Serviços,2019,dotacao_atual,3.7800000000000002
+Comércio e Serviços,2019,empenhado,2.77
+Comércio e Serviços,2019,liquidado,1.78
+Comércio e Serviços,2019,pago,1.77
+Comércio e Serviços,2020,projeto_de_lei,4.06
+Comércio e Serviços,2020,dotacao_inicial,3.8400000000000003
+Comércio e Serviços,2020,dotacao_atual,8.57
+Comércio e Serviços,2020,empenhado,7.78
+Comércio e Serviços,2020,liquidado,6.92
+Comércio e Serviços,2020,pago,4.96
+Comércio e Serviços,2021,projeto_de_lei,3.4200000000000004
+Comércio e Serviços,2021,dotacao_inicial,3.0500000000000003
+Comércio e Serviços,2021,dotacao_atual,3.33
+Comércio e Serviços,2021,empenhado,3.31
+Comércio e Serviços,2021,liquidado,1.7
+Comércio e Serviços,2021,pago,1.69
+Comércio e Serviços,2022,projeto_de_lei,4.33
+Comércio e Serviços,2022,dotacao_inicial,4.4
+Comércio e Serviços,2022,dotacao_atual,4.17
+Comércio e Serviços,2022,empenhado,2.5500000000000003
+Comércio e Serviços,2022,liquidado,1.59
+Comércio e Serviços,2022,pago,1.51
+Comércio e Serviços,2023,projeto_de_lei,4
+Comércio e Serviços,2023,dotacao_inicial,4.7
+Comércio e Serviços,2023,dotacao_atual,4.4
+Comércio e Serviços,2023,empenhado,3.17
+Comércio e Serviços,2023,liquidado,0.28
+Comércio e Serviços,2023,pago,0.28
+Comunicações,2018,projeto_de_lei,1.42
+Comunicações,2018,dotacao_inicial,1.43
+Comunicações,2018,dotacao_atual,1.49
+Comunicações,2018,empenhado,1.42
+Comunicações,2018,liquidado,1.22
+Comunicações,2018,pago,1.17
+Comunicações,2019,projeto_de_lei,1.53
+Comunicações,2019,dotacao_inicial,1.53
+Comunicações,2019,dotacao_atual,1.45
+Comunicações,2019,empenhado,1.39
+Comunicações,2019,liquidado,1.24
+Comunicações,2019,pago,1.19
+Comunicações,2020,projeto_de_lei,2.08
+Comunicações,2020,dotacao_inicial,2.03
+Comunicações,2020,dotacao_atual,2.08
+Comunicações,2020,empenhado,1.8399999999999999
+Comunicações,2020,liquidado,1.63
+Comunicações,2020,pago,1.58
+Comunicações,2021,projeto_de_lei,2.97
+Comunicações,2021,dotacao_inicial,3.01
+Comunicações,2021,dotacao_atual,2.92
+Comunicações,2021,empenhado,2.74
+Comunicações,2021,liquidado,2.23
+Comunicações,2021,pago,2.16
+Comunicações,2022,projeto_de_lei,3.64
+Comunicações,2022,dotacao_inicial,3.6
+Comunicações,2022,dotacao_atual,4.09
+Comunicações,2022,empenhado,3.83
+Comunicações,2022,liquidado,3.24
+Comunicações,2022,pago,3.15
+Comunicações,2023,projeto_de_lei,3.3200000000000003
+Comunicações,2023,dotacao_inicial,3.5199999999999996
+Comunicações,2023,dotacao_atual,3.02
+Comunicações,2023,empenhado,0.4
+Comunicações,2023,liquidado,0.14
+Comunicações,2023,pago,0.12
+Cultura,2018,projeto_de_lei,1.94
+Cultura,2018,dotacao_inicial,2.02
+Cultura,2018,dotacao_atual,2.1
+Cultura,2018,empenhado,1.99
+Cultura,2018,liquidado,1.03
+Cultura,2018,pago,0.98
+Cultura,2019,projeto_de_lei,1.76
+Cultura,2019,dotacao_inicial,2.06
+Cultura,2019,dotacao_atual,1.98
+Cultura,2019,empenhado,1.81
+Cultura,2019,liquidado,0.77
+Cultura,2019,pago,0.74
+Cultura,2020,projeto_de_lei,1.71
+Cultura,2020,dotacao_inicial,1.9100000000000001
+Cultura,2020,dotacao_atual,1.77
+Cultura,2020,empenhado,1.25
+Cultura,2020,liquidado,0.64
+Cultura,2020,pago,0.6
+Cultura,2021,projeto_de_lei,1.66
+Cultura,2021,dotacao_inicial,1.73
+Cultura,2021,dotacao_atual,1.69
+Cultura,2021,empenhado,1.25
+Cultura,2021,liquidado,0.64
+Cultura,2021,pago,0.62
+Cultura,2022,projeto_de_lei,1.63
+Cultura,2022,dotacao_inicial,1.71
+Cultura,2022,dotacao_atual,1.6800000000000002
+Cultura,2022,empenhado,1.23
+Cultura,2022,liquidado,0.65
+Cultura,2022,pago,0.6
+Cultura,2023,projeto_de_lei,1.13
+Cultura,2023,dotacao_inicial,5.88
+Cultura,2023,dotacao_atual,6.18
+Cultura,2023,empenhado,0.47
+Cultura,2023,liquidado,0.11
+Cultura,2023,pago,0.09
+Defesa Nacional,2018,projeto_de_lei,71.75
+Defesa Nacional,2018,dotacao_inicial,73.52000000000001
+Defesa Nacional,2018,dotacao_atual,76.8
+Defesa Nacional,2018,empenhado,76.87
+Defesa Nacional,2018,liquidado,71.52
+Defesa Nacional,2018,pago,67.42
+Defesa Nacional,2019,projeto_de_lei,74.58
+Defesa Nacional,2019,dotacao_inicial,75.27000000000001
+Defesa Nacional,2019,dotacao_atual,85.16000000000001
+Defesa Nacional,2019,empenhado,84.35000000000001
+Defesa Nacional,2019,liquidado,78.91
+Defesa Nacional,2019,pago,75.28999999999999
+Defesa Nacional,2020,projeto_de_lei,75.24
+Defesa Nacional,2020,dotacao_inicial,75.83
+Defesa Nacional,2020,dotacao_atual,82.53
+Defesa Nacional,2020,empenhado,82.38000000000001
+Defesa Nacional,2020,liquidado,77
+Defesa Nacional,2020,pago,73.21000000000001
+Defesa Nacional,2021,projeto_de_lei,81.00999999999999
+Defesa Nacional,2021,dotacao_inicial,79.79
+Defesa Nacional,2021,dotacao_atual,84.45
+Defesa Nacional,2021,empenhado,84.56
+Defesa Nacional,2021,liquidado,78.58999999999999
+Defesa Nacional,2021,pago,74.74
+Defesa Nacional,2022,projeto_de_lei,85.77
+Defesa Nacional,2022,dotacao_inicial,85.1
+Defesa Nacional,2022,dotacao_atual,90.12
+Defesa Nacional,2022,empenhado,90.14
+Defesa Nacional,2022,liquidado,81.67
+Defesa Nacional,2022,pago,78.02
+Defesa Nacional,2023,projeto_de_lei,87.92
+Defesa Nacional,2023,dotacao_inicial,89.5
+Defesa Nacional,2023,dotacao_atual,89.5
+Defesa Nacional,2023,empenhado,58.809999999999995
+Defesa Nacional,2023,liquidado,13.549999999999999
+Defesa Nacional,2023,pago,11.33
+Desporto e Lazer,2018,projeto_de_lei,0.74
+Desporto e Lazer,2018,dotacao_inicial,1.28
+Desporto e Lazer,2018,dotacao_atual,1.31
+Desporto e Lazer,2018,empenhado,1.25
+Desporto e Lazer,2018,liquidado,0.29
+Desporto e Lazer,2018,pago,0.27
+Desporto e Lazer,2019,projeto_de_lei,0.61
+Desporto e Lazer,2019,dotacao_inicial,1.14
+Desporto e Lazer,2019,dotacao_atual,0.98
+Desporto e Lazer,2019,empenhado,0.75
+Desporto e Lazer,2019,liquidado,0.16
+Desporto e Lazer,2019,pago,0.16
+Desporto e Lazer,2020,projeto_de_lei,0.22
+Desporto e Lazer,2020,dotacao_inicial,0.69
+Desporto e Lazer,2020,dotacao_atual,0.6
+Desporto e Lazer,2020,empenhado,0.6
+Desporto e Lazer,2020,liquidado,0.1
+Desporto e Lazer,2020,pago,0.1
+Desporto e Lazer,2021,projeto_de_lei,0.29
+Desporto e Lazer,2021,dotacao_inicial,0.82
+Desporto e Lazer,2021,dotacao_atual,0.87
+Desporto e Lazer,2021,empenhado,0.87
+Desporto e Lazer,2021,liquidado,0.21
+Desporto e Lazer,2021,pago,0.21
+Desporto e Lazer,2022,projeto_de_lei,0.3
+Desporto e Lazer,2022,dotacao_inicial,0.95
+Desporto e Lazer,2022,dotacao_atual,0.86
+Desporto e Lazer,2022,empenhado,0.85
+Desporto e Lazer,2022,liquidado,0.29
+Desporto e Lazer,2022,pago,0.29
+Desporto e Lazer,2023,projeto_de_lei,0.19
+Desporto e Lazer,2023,dotacao_inicial,0.92
+Desporto e Lazer,2023,dotacao_atual,0.92
+Desporto e Lazer,2023,empenhado,0
+Desporto e Lazer,2023,liquidado,0
+Desporto e Lazer,2023,pago,0
+Direitos da Cidadania,2018,projeto_de_lei,1.47
+Direitos da Cidadania,2018,dotacao_inicial,1.71
+Direitos da Cidadania,2018,dotacao_atual,2.1799999999999997
+Direitos da Cidadania,2018,empenhado,1.6300000000000001
+Direitos da Cidadania,2018,liquidado,1.02
+Direitos da Cidadania,2018,pago,1
+Direitos da Cidadania,2019,projeto_de_lei,2.01
+Direitos da Cidadania,2019,dotacao_inicial,2.06
+Direitos da Cidadania,2019,dotacao_atual,2.79
+Direitos da Cidadania,2019,empenhado,2.4
+Direitos da Cidadania,2019,liquidado,0.92
+Direitos da Cidadania,2019,pago,0.88
+Direitos da Cidadania,2020,projeto_de_lei,1.1400000000000001
+Direitos da Cidadania,2020,dotacao_inicial,1.4100000000000001
+Direitos da Cidadania,2020,dotacao_atual,1.5
+Direitos da Cidadania,2020,empenhado,1.46
+Direitos da Cidadania,2020,liquidado,0.97
+Direitos da Cidadania,2020,pago,0.95
+Direitos da Cidadania,2021,projeto_de_lei,1.05
+Direitos da Cidadania,2021,dotacao_inicial,1.21
+Direitos da Cidadania,2021,dotacao_atual,1.11
+Direitos da Cidadania,2021,empenhado,1.1
+Direitos da Cidadania,2021,liquidado,0.6799999999999999
+Direitos da Cidadania,2021,pago,0.65
+Direitos da Cidadania,2022,projeto_de_lei,1
+Direitos da Cidadania,2022,dotacao_inicial,1.2
+Direitos da Cidadania,2022,dotacao_atual,1.1099999999999999
+Direitos da Cidadania,2022,empenhado,1.06
+Direitos da Cidadania,2022,liquidado,0.75
+Direitos da Cidadania,2022,pago,0.7200000000000001
+Direitos da Cidadania,2023,projeto_de_lei,0.95
+Direitos da Cidadania,2023,dotacao_inicial,1.51
+Direitos da Cidadania,2023,dotacao_atual,1.5
+Direitos da Cidadania,2023,empenhado,0.35
+Direitos da Cidadania,2023,liquidado,0.1
+Direitos da Cidadania,2023,pago,0.08
+Educação,2018,projeto_de_lei,109.72999999999999
+Educação,2018,dotacao_inicial,111.30000000000001
+Educação,2018,dotacao_atual,114.31
+Educação,2018,empenhado,112.19
+Educação,2018,liquidado,99.45
+Educação,2018,pago,95.59
+Educação,2019,projeto_de_lei,114.06
+Educação,2019,dotacao_inicial,116.76
+Educação,2019,dotacao_atual,118.39999999999999
+Educação,2019,empenhado,114.09
+Educação,2019,liquidado,98.45
+Educação,2019,pago,94.47
+Educação,2020,projeto_de_lei,108.8
+Educação,2020,dotacao_inicial,108.78
+Educação,2020,dotacao_atual,110.65
+Educação,2020,empenhado,105.4
+Educação,2020,liquidado,92.06
+Educação,2020,pago,88.08000000000001
+Educação,2021,projeto_de_lei,111.76
+Educação,2021,dotacao_inicial,112.65
+Educação,2021,dotacao_atual,120.05
+Educação,2021,empenhado,112.48
+Educação,2021,liquidado,100.28
+Educação,2021,pago,96.06
+Educação,2022,projeto_de_lei,120.83
+Educação,2022,dotacao_inicial,123.67999999999999
+Educação,2022,dotacao_atual,129.74
+Educação,2022,empenhado,128.23
+Educação,2022,liquidado,114.58
+Educação,2022,pago,109.78
+Educação,2023,projeto_de_lei,130.57
+Educação,2023,dotacao_inicial,142.74
+Educação,2023,dotacao_atual,142.74
+Educação,2023,empenhado,99.66
+Educação,2023,liquidado,17.88
+Educação,2023,pago,16.740000000000002
+Encargos Especiais,2018,projeto_de_lei,2126.56
+Encargos Especiais,2018,dotacao_inicial,2125.29
+Encargos Especiais,2018,dotacao_atual,2159.88
+Encargos Especiais,2018,empenhado,1430.28
+Encargos Especiais,2018,liquidado,1411.59
+Encargos Especiais,2018,pago,1411.4199999999998
+Encargos Especiais,2019,projeto_de_lei,1815.68
+Encargos Especiais,2019,dotacao_inicial,1809.69
+Encargos Especiais,2019,dotacao_atual,1868.34
+Encargos Especiais,2019,empenhado,1461.1399999999999
+Encargos Especiais,2019,liquidado,1445.2
+Encargos Especiais,2019,pago,1444.68
+Encargos Especiais,2020,projeto_de_lei,2082.98
+Encargos Especiais,2020,dotacao_inicial,2083.2400000000002
+Encargos Especiais,2020,dotacao_atual,2272.42
+Encargos Especiais,2020,empenhado,1928.36
+Encargos Especiais,2020,liquidado,1884.73
+Encargos Especiais,2020,pago,1883.98
+Encargos Especiais,2021,projeto_de_lei,2627.03
+Encargos Especiais,2021,dotacao_inicial,2644.63
+Encargos Especiais,2021,dotacao_atual,2738.6699999999996
+Encargos Especiais,2021,empenhado,2455.19
+Encargos Especiais,2021,liquidado,2417.07
+Encargos Especiais,2021,pago,2416.4
+Encargos Especiais,2022,projeto_de_lei,2986.97
+Encargos Especiais,2022,dotacao_inicial,2980.68
+Encargos Especiais,2022,dotacao_atual,3121.11
+Encargos Especiais,2022,empenhado,2504.0699999999997
+Encargos Especiais,2022,liquidado,2459.52
+Encargos Especiais,2022,pago,2459.0899999999997
+Encargos Especiais,2023,projeto_de_lei,3150.1699999999996
+Encargos Especiais,2023,dotacao_inicial,3168.8999999999996
+Encargos Especiais,2023,dotacao_atual,3168.72
+Encargos Especiais,2023,empenhado,1222.59
+Encargos Especiais,2023,liquidado,798.57
+Encargos Especiais,2023,pago,798.44
+Energia,2018,projeto_de_lei,2.24
+Energia,2018,dotacao_inicial,2.21
+Energia,2018,dotacao_atual,2.11
+Energia,2018,empenhado,2.02
+Energia,2018,liquidado,1.8599999999999999
+Energia,2018,pago,1.8299999999999998
+Energia,2019,projeto_de_lei,2.64
+Energia,2019,dotacao_inicial,2.22
+Energia,2019,dotacao_atual,2.89
+Energia,2019,empenhado,2.71
+Energia,2019,liquidado,2.37
+Energia,2019,pago,2.34
+Energia,2020,projeto_de_lei,1.37
+Energia,2020,dotacao_inicial,1.34
+Energia,2020,dotacao_atual,1.6800000000000002
+Energia,2020,empenhado,1.6400000000000001
+Energia,2020,liquidado,1.4100000000000001
+Energia,2020,pago,1.37
+Energia,2021,projeto_de_lei,1.3900000000000001
+Energia,2021,dotacao_inicial,1.38
+Energia,2021,dotacao_atual,1.8599999999999999
+Energia,2021,empenhado,1.8299999999999998
+Energia,2021,liquidado,1.69
+Energia,2021,pago,1.6500000000000001
+Energia,2022,projeto_de_lei,1.69
+Energia,2022,dotacao_inicial,1.68
+Energia,2022,dotacao_atual,1.49
+Energia,2022,empenhado,1.47
+Energia,2022,liquidado,1.3699999999999999
+Energia,2022,pago,1.31
+Energia,2023,projeto_de_lei,1.42
+Energia,2023,dotacao_inicial,1.42
+Energia,2023,dotacao_atual,1.42
+Energia,2023,empenhado,0.75
+Energia,2023,liquidado,0.15
+Energia,2023,pago,0.14
+Essencial à Justiça,2018,projeto_de_lei,7.64
+Essencial à Justiça,2018,dotacao_inicial,7.57
+Essencial à Justiça,2018,dotacao_atual,7.59
+Essencial à Justiça,2018,empenhado,7.409999999999999
+Essencial à Justiça,2018,liquidado,7.1
+Essencial à Justiça,2018,pago,7.07
+Essencial à Justiça,2019,projeto_de_lei,7.63
+Essencial à Justiça,2019,dotacao_inicial,7.63
+Essencial à Justiça,2019,dotacao_atual,7.9799999999999995
+Essencial à Justiça,2019,empenhado,7.67
+Essencial à Justiça,2019,liquidado,7.45
+Essencial à Justiça,2019,pago,7.41
+Essencial à Justiça,2020,projeto_de_lei,7.78
+Essencial à Justiça,2020,dotacao_inicial,7.74
+Essencial à Justiça,2020,dotacao_atual,8.21
+Essencial à Justiça,2020,empenhado,8.18
+Essencial à Justiça,2020,liquidado,7.8999999999999995
+Essencial à Justiça,2020,pago,7.84
+Essencial à Justiça,2021,projeto_de_lei,8.32
+Essencial à Justiça,2021,dotacao_inicial,8.31
+Essencial à Justiça,2021,dotacao_atual,8.299999999999999
+Essencial à Justiça,2021,empenhado,8.25
+Essencial à Justiça,2021,liquidado,7.9399999999999995
+Essencial à Justiça,2021,pago,7.91
+Essencial à Justiça,2022,projeto_de_lei,8.83
+Essencial à Justiça,2022,dotacao_inicial,8.799999999999999
+Essencial à Justiça,2022,dotacao_atual,8.709999999999999
+Essencial à Justiça,2022,empenhado,8.620000000000001
+Essencial à Justiça,2022,liquidado,8.33
+Essencial à Justiça,2022,pago,8.27
+Essencial à Justiça,2023,projeto_de_lei,9.53
+Essencial à Justiça,2023,dotacao_inicial,9.43
+Essencial à Justiça,2023,dotacao_atual,9.51
+Essencial à Justiça,2023,empenhado,5.89
+Essencial à Justiça,2023,liquidado,1.89
+Essencial à Justiça,2023,pago,1.8699999999999999
+Gestão Ambiental,2018,projeto_de_lei,4.71
+Gestão Ambiental,2018,dotacao_inicial,5.39
+Gestão Ambiental,2018,dotacao_atual,4.89
+Gestão Ambiental,2018,empenhado,4.64
+Gestão Ambiental,2018,liquidado,3.67
+Gestão Ambiental,2018,pago,3.46
+Gestão Ambiental,2019,projeto_de_lei,4.45
+Gestão Ambiental,2019,dotacao_inicial,4.43
+Gestão Ambiental,2019,dotacao_atual,5.24
+Gestão Ambiental,2019,empenhado,4.78
+Gestão Ambiental,2019,liquidado,3.35
+Gestão Ambiental,2019,pago,3.2600000000000002
+Gestão Ambiental,2020,projeto_de_lei,3.7399999999999998
+Gestão Ambiental,2020,dotacao_inicial,4.46
+Gestão Ambiental,2020,dotacao_atual,4.96
+Gestão Ambiental,2020,empenhado,4.78
+Gestão Ambiental,2020,liquidado,3.65
+Gestão Ambiental,2020,pago,3.54
+Gestão Ambiental,2021,projeto_de_lei,3.81
+Gestão Ambiental,2021,dotacao_inicial,3.8
+Gestão Ambiental,2021,dotacao_atual,4.23
+Gestão Ambiental,2021,empenhado,4.16
+Gestão Ambiental,2021,liquidado,3.11
+Gestão Ambiental,2021,pago,2.9899999999999998
+Gestão Ambiental,2022,projeto_de_lei,3.9899999999999998
+Gestão Ambiental,2022,dotacao_inicial,3.7399999999999998
+Gestão Ambiental,2022,dotacao_atual,4.430000000000001
+Gestão Ambiental,2022,empenhado,4.34
+Gestão Ambiental,2022,liquidado,3.05
+Gestão Ambiental,2022,pago,2.94
+Gestão Ambiental,2023,projeto_de_lei,3.73
+Gestão Ambiental,2023,dotacao_inicial,6.26
+Gestão Ambiental,2023,dotacao_atual,6.26
+Gestão Ambiental,2023,empenhado,1.49
+Gestão Ambiental,2023,liquidado,0.36
+Gestão Ambiental,2023,pago,0.25
+Habitação,2018,projeto_de_lei,0.05
+Habitação,2018,dotacao_inicial,0.06
+Habitação,2018,dotacao_atual,0.02
+Habitação,2018,empenhado,0.02
+Habitação,2018,liquidado,0.01
+Habitação,2018,pago,0.01
+Habitação,2019,projeto_de_lei,0.02
+Habitação,2019,dotacao_inicial,0.23
+Habitação,2019,dotacao_atual,0.02
+Habitação,2019,empenhado,0.02
+Habitação,2019,liquidado,0.01
+Habitação,2019,pago,0
+Habitação,2020,projeto_de_lei,0.02
+Habitação,2020,dotacao_inicial,0.14
+Habitação,2020,dotacao_atual,0.08
+Habitação,2020,empenhado,0.08
+Habitação,2020,liquidado,0
+Habitação,2020,pago,0
+Habitação,2021,projeto_de_lei,0.01
+Habitação,2021,dotacao_inicial,0.23
+Habitação,2021,dotacao_atual,0.09
+Habitação,2021,empenhado,0.09
+Habitação,2021,liquidado,0
+Habitação,2021,pago,0
+Habitação,2022,projeto_de_lei,0.01
+Habitação,2022,dotacao_inicial,0.03
+Habitação,2022,dotacao_atual,0.04
+Habitação,2022,empenhado,0.03
+Habitação,2022,liquidado,0
+Habitação,2022,pago,0
+Habitação,2023,projeto_de_lei,0
+Habitação,2023,dotacao_inicial,0.27
+Habitação,2023,dotacao_atual,0.27
+Habitação,2023,empenhado,0
+Habitação,2023,liquidado,0
+Habitação,2023,pago,0
+Indústria,2018,projeto_de_lei,2.31
+Indústria,2018,dotacao_inicial,2.3
+Indústria,2018,dotacao_atual,2.3
+Indústria,2018,empenhado,2.2399999999999998
+Indústria,2018,liquidado,2.1100000000000003
+Indústria,2018,pago,2.02
+Indústria,2019,projeto_de_lei,2.1
+Indústria,2019,dotacao_inicial,2.4
+Indústria,2019,dotacao_atual,2.07
+Indústria,2019,empenhado,1.9100000000000001
+Indústria,2019,liquidado,1.79
+Indústria,2019,pago,1.7
+Indústria,2020,projeto_de_lei,1.73
+Indústria,2020,dotacao_inicial,1.71
+Indústria,2020,dotacao_atual,1.79
+Indústria,2020,empenhado,1.73
+Indústria,2020,liquidado,1.64
+Indústria,2020,pago,1.57
+Indústria,2021,projeto_de_lei,1.77
+Indústria,2021,dotacao_inicial,1.79
+Indústria,2021,dotacao_atual,1.81
+Indústria,2021,empenhado,1.78
+Indústria,2021,liquidado,1.66
+Indústria,2021,pago,1.57
+Indústria,2022,projeto_de_lei,1.87
+Indústria,2022,dotacao_inicial,1.56
+Indústria,2022,dotacao_atual,1.9000000000000001
+Indústria,2022,empenhado,1.86
+Indústria,2022,liquidado,1.77
+Indústria,2022,pago,1.68
+Indústria,2023,projeto_de_lei,1.8599999999999999
+Indústria,2023,dotacao_inicial,2.11
+Indústria,2023,dotacao_atual,2.11
+Indústria,2023,empenhado,0.71
+Indústria,2023,liquidado,0.30000000000000004
+Indústria,2023,pago,0.29000000000000004
+Judiciária,2018,projeto_de_lei,37.81
+Judiciária,2018,dotacao_inicial,38.06
+Judiciária,2018,dotacao_atual,38.06
+Judiciária,2018,empenhado,35.88
+Judiciária,2018,liquidado,35.08
+Judiciária,2018,pago,35.05
+Judiciária,2019,projeto_de_lei,37.120000000000005
+Judiciária,2019,dotacao_inicial,37.06
+Judiciária,2019,dotacao_atual,38.61
+Judiciária,2019,empenhado,37.26
+Judiciária,2019,liquidado,36.71
+Judiciária,2019,pago,36.59
+Judiciária,2020,projeto_de_lei,37.83
+Judiciária,2020,dotacao_inicial,37.769999999999996
+Judiciária,2020,dotacao_atual,38.29
+Judiciária,2020,empenhado,37.61
+Judiciária,2020,liquidado,36.32
+Judiciária,2020,pago,36.27
+Judiciária,2021,projeto_de_lei,39.19
+Judiciária,2021,dotacao_inicial,39.19
+Judiciária,2021,dotacao_atual,39.17
+Judiciária,2021,empenhado,38.53
+Judiciária,2021,liquidado,36.559999999999995
+Judiciária,2021,pago,36.519999999999996
+Judiciária,2022,projeto_de_lei,42.97
+Judiciária,2022,dotacao_inicial,42.97
+Judiciária,2022,dotacao_atual,42.44
+Judiciária,2022,empenhado,41.39
+Judiciária,2022,liquidado,39.81
+Judiciária,2022,pago,39.699999999999996
+Judiciária,2023,projeto_de_lei,45.24
+Judiciária,2023,dotacao_inicial,45.230000000000004
+Judiciária,2023,dotacao_atual,45.410000000000004
+Judiciária,2023,empenhado,33.07
+Judiciária,2023,liquidado,9.309999999999999
+Judiciária,2023,pago,9.21
+Legislativa,2018,projeto_de_lei,8.18
+Legislativa,2018,dotacao_inicial,8.18
+Legislativa,2018,dotacao_atual,7.949999999999999
+Legislativa,2018,empenhado,7.35
+Legislativa,2018,liquidado,7.2
+Legislativa,2018,pago,7.18
+Legislativa,2019,projeto_de_lei,8.3
+Legislativa,2019,dotacao_inicial,8.280000000000001
+Legislativa,2019,dotacao_atual,8.11
+Legislativa,2019,empenhado,7.54
+Legislativa,2019,liquidado,7.36
+Legislativa,2019,pago,7.36
+Legislativa,2020,projeto_de_lei,8.14
+Legislativa,2020,dotacao_inicial,8.129999999999999
+Legislativa,2020,dotacao_atual,8.07
+Legislativa,2020,empenhado,7.5200000000000005
+Legislativa,2020,liquidado,7.24
+Legislativa,2020,pago,7.24
+Legislativa,2021,projeto_de_lei,8.51
+Legislativa,2021,dotacao_inicial,8.51
+Legislativa,2021,dotacao_atual,8.51
+Legislativa,2021,empenhado,7.640000000000001
+Legislativa,2021,liquidado,7.38
+Legislativa,2021,pago,7.38
+Legislativa,2022,projeto_de_lei,9.440000000000001
+Legislativa,2022,dotacao_inicial,9.440000000000001
+Legislativa,2022,dotacao_atual,9.43
+Legislativa,2022,empenhado,7.93
+Legislativa,2022,liquidado,7.52
+Legislativa,2022,pago,7.4799999999999995
+Legislativa,2023,projeto_de_lei,10.51
+Legislativa,2023,dotacao_inicial,10.08
+Legislativa,2023,dotacao_atual,10.22
+Legislativa,2023,empenhado,8.37
+Legislativa,2023,liquidado,1.8499999999999999
+Legislativa,2023,pago,1.8
+Organização Agrária,2018,projeto_de_lei,2.48
+Organização Agrária,2018,dotacao_inicial,2.9099999999999997
+Organização Agrária,2018,dotacao_atual,2.8299999999999996
+Organização Agrária,2018,empenhado,2.71
+Organização Agrária,2018,liquidado,1.67
+Organização Agrária,2018,pago,1.56
+Organização Agrária,2019,projeto_de_lei,1.98
+Organização Agrária,2019,dotacao_inicial,2.38
+Organização Agrária,2019,dotacao_atual,2
+Organização Agrária,2019,empenhado,1.96
+Organização Agrária,2019,liquidado,1.43
+Organização Agrária,2019,pago,1.3699999999999999
+Organização Agrária,2020,projeto_de_lei,1.75
+Organização Agrária,2020,dotacao_inicial,1.79
+Organização Agrária,2020,dotacao_atual,2
+Organização Agrária,2020,empenhado,1.99
+Organização Agrária,2020,liquidado,1.38
+Organização Agrária,2020,pago,1.3299999999999998
+Organização Agrária,2021,projeto_de_lei,1.36
+Organização Agrária,2021,dotacao_inicial,1.77
+Organização Agrária,2021,dotacao_atual,1.4700000000000002
+Organização Agrária,2021,empenhado,1.4500000000000002
+Organização Agrária,2021,liquidado,1.07
+Organização Agrária,2021,pago,1.02
+Organização Agrária,2022,projeto_de_lei,1.9100000000000001
+Organização Agrária,2022,dotacao_inicial,2.06
+Organização Agrária,2022,dotacao_atual,1.9000000000000001
+Organização Agrária,2022,empenhado,1.83
+Organização Agrária,2022,liquidado,1.48
+Organização Agrária,2022,pago,1.42
+Organização Agrária,2023,projeto_de_lei,1.64
+Organização Agrária,2023,dotacao_inicial,1.71
+Organização Agrária,2023,dotacao_atual,2.9400000000000004
+Organização Agrária,2023,empenhado,0.77
+Organização Agrária,2023,liquidado,0.23
+Organização Agrária,2023,pago,0.23
+Previdência Social,2018,projeto_de_lei,689.47
+Previdência Social,2018,dotacao_inicial,689.47
+Previdência Social,2018,dotacao_atual,687.08
+Previdência Social,2018,empenhado,684.26
+Previdência Social,2018,liquidado,682.5999999999999
+Previdência Social,2018,pago,642.86
+Previdência Social,2019,projeto_de_lei,734.91
+Previdência Social,2019,dotacao_inicial,734.9
+Previdência Social,2019,dotacao_atual,728.76
+Previdência Social,2019,empenhado,726.86
+Previdência Social,2019,liquidado,726.59
+Previdência Social,2019,pago,684.49
+Previdência Social,2020,projeto_de_lei,775.94
+Previdência Social,2020,dotacao_inicial,772.2
+Previdência Social,2020,dotacao_atual,772.13
+Previdência Social,2020,empenhado,766.86
+Previdência Social,2020,liquidado,764.8399999999999
+Previdência Social,2020,pago,718.94
+Previdência Social,2021,projeto_de_lei,807.11
+Previdência Social,2021,dotacao_inicial,793.96
+Previdência Social,2021,dotacao_atual,807.31
+Previdência Social,2021,empenhado,806.4300000000001
+Previdência Social,2021,liquidado,805.15
+Previdência Social,2021,pago,756
+Previdência Social,2022,projeto_de_lei,855.04
+Previdência Social,2022,dotacao_inicial,882.62
+Previdência Social,2022,dotacao_atual,898.37
+Previdência Social,2022,empenhado,897.78
+Previdência Social,2022,liquidado,895.39
+Previdência Social,2022,pago,840.53
+Previdência Social,2023,projeto_de_lei,956.75
+Previdência Social,2023,dotacao_inicial,961.43
+Previdência Social,2023,dotacao_atual,963.14
+Previdência Social,2023,empenhado,469.39000000000004
+Previdência Social,2023,liquidado,160.44
+Previdência Social,2023,pago,154.48
+Relações Exteriores,2018,projeto_de_lei,2.88
+Relações Exteriores,2018,dotacao_inicial,2.76
+Relações Exteriores,2018,dotacao_atual,3.29
+Relações Exteriores,2018,empenhado,3.25
+Relações Exteriores,2018,liquidado,3.15
+Relações Exteriores,2018,pago,3.12
+Relações Exteriores,2019,projeto_de_lei,3.34
+Relações Exteriores,2019,dotacao_inicial,3.31
+Relações Exteriores,2019,dotacao_atual,3.59
+Relações Exteriores,2019,empenhado,3.34
+Relações Exteriores,2019,liquidado,3.23
+Relações Exteriores,2019,pago,3.22
+Relações Exteriores,2020,projeto_de_lei,3.28
+Relações Exteriores,2020,dotacao_inicial,3.12
+Relações Exteriores,2020,dotacao_atual,4.12
+Relações Exteriores,2020,empenhado,3.9
+Relações Exteriores,2020,liquidado,3.82
+Relações Exteriores,2020,pago,3.8
+Relações Exteriores,2021,projeto_de_lei,3.83
+Relações Exteriores,2021,dotacao_inicial,3.8
+Relações Exteriores,2021,dotacao_atual,4.08
+Relações Exteriores,2021,empenhado,3.97
+Relações Exteriores,2021,liquidado,3.83
+Relações Exteriores,2021,pago,3.81
+Relações Exteriores,2022,projeto_de_lei,4.34
+Relações Exteriores,2022,dotacao_inicial,4.2
+Relações Exteriores,2022,dotacao_atual,4.05
+Relações Exteriores,2022,empenhado,4.04
+Relações Exteriores,2022,liquidado,3.89
+Relações Exteriores,2022,pago,3.87
+Relações Exteriores,2023,projeto_de_lei,4.43
+Relações Exteriores,2023,dotacao_inicial,4.38
+Relações Exteriores,2023,dotacao_atual,4.38
+Relações Exteriores,2023,empenhado,0.79
+Relações Exteriores,2023,liquidado,0.65
+Relações Exteriores,2023,pago,0.64
+Reserva de Contingência,2018,projeto_de_lei,44.15
+Reserva de Contingência,2018,dotacao_inicial,32.05
+Reserva de Contingência,2018,dotacao_atual,20.77
+Reserva de Contingência,2018,empenhado,0
+Reserva de Contingência,2018,liquidado,0
+Reserva de Contingência,2018,pago,0
+Reserva de Contingência,2019,projeto_de_lei,67.06
+Reserva de Contingência,2019,dotacao_inicial,51.56
+Reserva de Contingência,2019,dotacao_atual,33.51
+Reserva de Contingência,2019,empenhado,0
+Reserva de Contingência,2019,liquidado,0
+Reserva de Contingência,2019,pago,0
+Reserva de Contingência,2020,projeto_de_lei,61.92
+Reserva de Contingência,2020,dotacao_inicial,47.65
+Reserva de Contingência,2020,dotacao_atual,40.39
+Reserva de Contingência,2020,empenhado,0
+Reserva de Contingência,2020,liquidado,0
+Reserva de Contingência,2020,pago,0
+Reserva de Contingência,2021,projeto_de_lei,55.79
+Reserva de Contingência,2021,dotacao_inicial,53.57
+Reserva de Contingência,2021,dotacao_atual,39.4
+Reserva de Contingência,2021,empenhado,0
+Reserva de Contingência,2021,liquidado,0
+Reserva de Contingência,2021,pago,0
+Reserva de Contingência,2022,projeto_de_lei,58.55
+Reserva de Contingência,2022,dotacao_inicial,51
+Reserva de Contingência,2022,dotacao_atual,41.21
+Reserva de Contingência,2022,empenhado,0
+Reserva de Contingência,2022,liquidado,0
+Reserva de Contingência,2022,pago,0
+Reserva de Contingência,2023,projeto_de_lei,103.99
+Reserva de Contingência,2023,dotacao_inicial,69.64
+Reserva de Contingência,2023,dotacao_atual,69.04
+Reserva de Contingência,2023,empenhado,0
+Reserva de Contingência,2023,liquidado,0
+Reserva de Contingência,2023,pago,0
+Saneamento,2018,projeto_de_lei,0.94
+Saneamento,2018,dotacao_inicial,0.97
+Saneamento,2018,dotacao_atual,0.9299999999999999
+Saneamento,2018,empenhado,0.9199999999999999
+Saneamento,2018,liquidado,0.56
+Saneamento,2018,pago,0.56
+Saneamento,2019,projeto_de_lei,0.46
+Saneamento,2019,dotacao_inicial,0.45
+Saneamento,2019,dotacao_atual,0.52
+Saneamento,2019,empenhado,0.51
+Saneamento,2019,liquidado,0.45
+Saneamento,2019,pago,0.45
+Saneamento,2020,projeto_de_lei,0.42
+Saneamento,2020,dotacao_inicial,0.4
+Saneamento,2020,dotacao_atual,0.89
+Saneamento,2020,empenhado,0.89
+Saneamento,2020,liquidado,0.83
+Saneamento,2020,pago,0.79
+Saneamento,2021,projeto_de_lei,0.37
+Saneamento,2021,dotacao_inicial,0.24
+Saneamento,2021,dotacao_atual,0.48
+Saneamento,2021,empenhado,0.48
+Saneamento,2021,liquidado,0.45
+Saneamento,2021,pago,0.45
+Saneamento,2022,projeto_de_lei,0.35
+Saneamento,2022,dotacao_inicial,0.33
+Saneamento,2022,dotacao_atual,0.77
+Saneamento,2022,empenhado,0.76
+Saneamento,2022,liquidado,0.32
+Saneamento,2022,pago,0.29
+Saneamento,2023,projeto_de_lei,0.02
+Saneamento,2023,dotacao_inicial,1.14
+Saneamento,2023,dotacao_atual,1.14
+Saneamento,2023,empenhado,0
+Saneamento,2023,liquidado,0
+Saneamento,2023,pago,0
+Saúde,2018,projeto_de_lei,114.78999999999999
+Saúde,2018,dotacao_inicial,121.63
+Saúde,2018,dotacao_atual,121.86
+Saúde,2018,empenhado,120.86999999999999
+Saúde,2018,liquidado,109.54
+Saúde,2018,pago,108.16999999999999
+Saúde,2019,projeto_de_lei,114.30000000000001
+Saúde,2019,dotacao_inicial,122.62
+Saúde,2019,dotacao_atual,127.06
+Saúde,2019,empenhado,125.99
+Saúde,2019,liquidado,115.75999999999999
+Saúde,2019,pago,114.18
+Saúde,2020,projeto_de_lei,115.58
+Saúde,2020,dotacao_inicial,128.37
+Saúde,2020,dotacao_atual,187.52
+Saúde,2020,empenhado,164.69
+Saúde,2020,liquidado,152.85999999999999
+Saúde,2020,pago,150.46
+Saúde,2021,projeto_de_lei,118.36
+Saúde,2021,dotacao_inicial,133.73999999999998
+Saúde,2021,dotacao_atual,189.41
+Saúde,2021,empenhado,182.51
+Saúde,2021,liquidado,163.23000000000002
+Saúde,2021,pago,161.44
+Saúde,2022,projeto_de_lei,127.95
+Saúde,2022,dotacao_inicial,149.01999999999998
+Saúde,2022,dotacao_atual,155.49
+Saúde,2022,empenhado,154.96
+Saúde,2022,liquidado,137.87
+Saúde,2022,pago,136.85000000000002
+Saúde,2023,projeto_de_lei,131.64
+Saúde,2023,dotacao_inicial,172.67
+Saúde,2023,dotacao_atual,172.43
+Saúde,2023,empenhado,44.09
+Saúde,2023,liquidado,26.65
+Saúde,2023,pago,25.37
+Segurança Pública,2018,projeto_de_lei,10.92
+Segurança Pública,2018,dotacao_inicial,10.44
+Segurança Pública,2018,dotacao_atual,12.85
+Segurança Pública,2018,empenhado,12.45
+Segurança Pública,2018,liquidado,9.290000000000001
+Segurança Pública,2018,pago,8.82
+Segurança Pública,2019,projeto_de_lei,10.67
+Segurança Pública,2019,dotacao_inicial,11.52
+Segurança Pública,2019,dotacao_atual,11.62
+Segurança Pública,2019,empenhado,11.34
+Segurança Pública,2019,liquidado,9.54
+Segurança Pública,2019,pago,9.02
+Segurança Pública,2020,projeto_de_lei,11.32
+Segurança Pública,2020,dotacao_inicial,12.16
+Segurança Pública,2020,dotacao_atual,14.82
+Segurança Pública,2020,empenhado,13.84
+Segurança Pública,2020,liquidado,11.23
+Segurança Pública,2020,pago,10.72
+Segurança Pública,2021,projeto_de_lei,12.18
+Segurança Pública,2021,dotacao_inicial,12.44
+Segurança Pública,2021,dotacao_atual,13.49
+Segurança Pública,2021,empenhado,13.27
+Segurança Pública,2021,liquidado,11.02
+Segurança Pública,2021,pago,10.430000000000001
+Segurança Pública,2022,projeto_de_lei,12.79
+Segurança Pública,2022,dotacao_inicial,13.02
+Segurança Pública,2022,dotacao_atual,14.93
+Segurança Pública,2022,empenhado,14.49
+Segurança Pública,2022,liquidado,12.4
+Segurança Pública,2022,pago,11.73
+Segurança Pública,2023,projeto_de_lei,13.54
+Segurança Pública,2023,dotacao_inicial,14.93
+Segurança Pública,2023,dotacao_atual,14.94
+Segurança Pública,2023,empenhado,7.85
+Segurança Pública,2023,liquidado,1.78
+Segurança Pública,2023,pago,1.68
+Trabalho,2018,projeto_de_lei,81.28
+Trabalho,2018,dotacao_inicial,81.37
+Trabalho,2018,dotacao_atual,74.78
+Trabalho,2018,empenhado,72.4
+Trabalho,2018,liquidado,70.88000000000001
+Trabalho,2018,pago,70.29
+Trabalho,2019,projeto_de_lei,80.30000000000001
+Trabalho,2019,dotacao_inicial,80.41
+Trabalho,2019,dotacao_atual,77.99000000000001
+Trabalho,2019,empenhado,74.3
+Trabalho,2019,liquidado,72.49
+Trabalho,2019,pago,72.48
+Trabalho,2020,projeto_de_lei,80.94999999999999
+Trabalho,2020,dotacao_inicial,81
+Trabalho,2020,dotacao_atual,84.47
+Trabalho,2020,empenhado,77.24000000000001
+Trabalho,2020,liquidado,75.89
+Trabalho,2020,pago,75.87
+Trabalho,2021,projeto_de_lei,77.96000000000001
+Trabalho,2021,dotacao_inicial,69.24
+Trabalho,2021,dotacao_atual,67.65
+Trabalho,2021,empenhado,66.69000000000001
+Trabalho,2021,liquidado,65.84
+Trabalho,2021,pago,65.84
+Trabalho,2022,projeto_de_lei,90.34
+Trabalho,2022,dotacao_inicial,92.62
+Trabalho,2022,dotacao_atual,100.17
+Trabalho,2022,empenhado,97.46000000000001
+Trabalho,2022,liquidado,92.79
+Trabalho,2022,pago,92.61
+Trabalho,2023,projeto_de_lei,94.71
+Trabalho,2023,dotacao_inicial,96.08999999999999
+Trabalho,2023,dotacao_atual,94.5
+Trabalho,2023,empenhado,22.2
+Trabalho,2023,liquidado,21.53
+Trabalho,2023,pago,21.53
+Transporte,2018,projeto_de_lei,15.18
+Transporte,2018,dotacao_inicial,17.1
+Transporte,2018,dotacao_atual,15.86
+Transporte,2018,empenhado,15.16
+Transporte,2018,liquidado,11.63
+Transporte,2018,pago,11.45
+Transporte,2019,projeto_de_lei,17.1
+Transporte,2019,dotacao_inicial,17.3
+Transporte,2019,dotacao_atual,16.62
+Transporte,2019,empenhado,12.22
+Transporte,2019,liquidado,8.790000000000001
+Transporte,2019,pago,8.66
+Transporte,2020,projeto_de_lei,15.969999999999999
+Transporte,2020,dotacao_inicial,17.44
+Transporte,2020,dotacao_atual,17.89
+Transporte,2020,empenhado,11.79
+Transporte,2020,liquidado,8.02
+Transporte,2020,pago,7.890000000000001
+Transporte,2021,projeto_de_lei,15.54
+Transporte,2021,dotacao_inicial,14.379999999999999
+Transporte,2021,dotacao_atual,15.79
+Transporte,2021,empenhado,10.32
+Transporte,2021,liquidado,6.680000000000001
+Transporte,2021,pago,6.55
+Transporte,2022,projeto_de_lei,18.56
+Transporte,2022,dotacao_inicial,19.73
+Transporte,2022,dotacao_atual,22.45
+Transporte,2022,empenhado,13.09
+Transporte,2022,liquidado,7.869999999999999
+Transporte,2022,pago,7.7299999999999995
+Transporte,2023,projeto_de_lei,13.66
+Transporte,2023,dotacao_inicial,26.26
+Transporte,2023,dotacao_atual,26.25
+Transporte,2023,empenhado,5.1
+Transporte,2023,liquidado,0.52
+Transporte,2023,pago,0.47
+Urbanismo,2018,projeto_de_lei,2.03
+Urbanismo,2018,dotacao_inicial,5.5
+Urbanismo,2018,dotacao_atual,5.470000000000001
+Urbanismo,2018,empenhado,5.39
+Urbanismo,2018,liquidado,1.71
+Urbanismo,2018,pago,1.6
+Urbanismo,2019,projeto_de_lei,1.78
+Urbanismo,2019,dotacao_inicial,4.42
+Urbanismo,2019,dotacao_atual,7.8
+Urbanismo,2019,empenhado,7.47
+Urbanismo,2019,liquidado,1.44
+Urbanismo,2019,pago,1.35
+Urbanismo,2020,projeto_de_lei,1.6800000000000002
+Urbanismo,2020,dotacao_inicial,8.83
+Urbanismo,2020,dotacao_atual,8.72
+Urbanismo,2020,empenhado,8.41
+Urbanismo,2020,liquidado,1.33
+Urbanismo,2020,pago,1.25
+Urbanismo,2021,projeto_de_lei,1.54
+Urbanismo,2021,dotacao_inicial,9.09
+Urbanismo,2021,dotacao_atual,10.87
+Urbanismo,2021,empenhado,10.83
+Urbanismo,2021,liquidado,1.21
+Urbanismo,2021,pago,1.12
+Urbanismo,2022,projeto_de_lei,1.33
+Urbanismo,2022,dotacao_inicial,7.15
+Urbanismo,2022,dotacao_atual,7.86
+Urbanismo,2022,empenhado,7.71
+Urbanismo,2022,liquidado,1.48
+Urbanismo,2022,pago,1.38
+Urbanismo,2023,projeto_de_lei,1.27
+Urbanismo,2023,dotacao_inicial,8.73
+Urbanismo,2023,dotacao_atual,8.959999999999999
+Urbanismo,2023,empenhado,0.29000000000000004
+Urbanismo,2023,liquidado,0.15
+Urbanismo,2023,pago,0.13
